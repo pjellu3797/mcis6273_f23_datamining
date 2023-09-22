@@ -3,5 +3,5 @@
 
 **GitHub UserName: pjellu3797**
 
-***repo Link: https://github.com/pjellu3797/mcis6273-f23-datamining***
+***repo Link: https://github.com/pjellu3797/mcis6273_f23_datamining***
 
