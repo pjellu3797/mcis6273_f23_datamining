@@ -1,6 +1,6 @@
 ISO_CNTRY_CODE,PROVINCE_STATE,CITY_NAME,ENTRY_NUM
 AE,AE-AJ,AJMAN,3
-AE,AE-DU,Dubai,1
+AE,AE-DU,Dubai,2
 AE,AE-DU,Dubay,3
 AE,AE-DU,Jedda,1
 AE,AE-NOTA,Abu Dhabi,13
@@ -10,7 +10,7 @@ AE,Abu Dhabi,Abu Dhabi,2
 AE,Abu Dhabi,Shah,8
 AE,Ajman,Ajman,18
 AE,Dubai,Deira,2
-AE,Dubai,Dubai,146
+AE,Dubai,Dubai,147
 AE,Dubai,Karama,1
 AE,None of the above,Dubai,4
 AE,Ras Al Khaimah,Al Hamra,2
@@ -127,6 +127,7 @@ AT,Tirol,Kufstein,1
 AT,Tirol,Kundl,6
 AT,Tirol,Langkampfen,2
 AT,Tirol,Weisenbach am Lech,4
+AT,Upper Austria,Kremsmunster,22
 AT,Vienna,Vienna,155
 AT,Vorarlberg,Altach,1
 AT,Vorarlberg,Bezau,4
@@ -158,7 +159,6 @@ AU,New South Wales,Byron Bay,22
 AU,New South Wales,Camperdown,1
 AU,New South Wales,Caringbah,2
 AU,New South Wales,Castle Hill,1
-AU,New South Wales,Chester Hill,1
 AU,New South Wales,Dunoon,1
 AU,New South Wales,Eastern Creek,9
 AU,New South Wales,Ermington,1
@@ -196,12 +196,13 @@ AU,New South Wales,Robin Hill,1
 AU,New South Wales,Rutherford,1
 AU,New South Wales,Smeaton Grange,1
 AU,New South Wales,Smithfield,2
+AU,New South Wales,South Granville,1
 AU,New South Wales,St Leonards,3
 AU,New South Wales,St Peters,1
 AU,New South Wales,Sydney,4
 AU,New South Wales,Sydney Olympic Park,1
 AU,New South Wales,Taren Point,1
-AU,New South Wales,Tweed Heads South,6
+AU,New South Wales,Tweed Heads South,8
 AU,New South Wales,Ultimo,3
 AU,New South Wales,Villawood,10
 AU,New South Wales,Wagga Wagga,1
@@ -286,7 +287,6 @@ AU,Victoria,Collingwood,1
 AU,Victoria,Cremorne,1
 AU,Victoria,Croydon,1
 AU,Victoria,Dandenong South,11
-AU,Victoria,Docklands,15
 AU,Victoria,East Bendigo,1
 AU,Victoria,East Melbourne,2
 AU,Victoria,Epping,1
@@ -346,9 +346,10 @@ BD,Biozid Thana,Chittagong,14
 BD,CHITTAGOGNG,Chittagong,4
 BD,Chittagong,Chittagong,14
 BD,Chittagong,Nasirabad,13
-BD,Chittagong,North Agarabad,1
+BD,Chittagong,North Agarabad,2
 BD,Chittagong,Pathantooly,14
 BD,Chittagong zila,Chittagong,14
+BD,Dhaka,Dhaka,6
 BD,Dhaka,Mirpur,2
 BD,Dhaka,Narayanganj,1
 BD,Dhaka zila,Dhaka,7
@@ -435,6 +436,7 @@ BE,Li¿ge,Liege,1
 BE,Luxemburg,Arlon,1
 BE,Luxemburg,Vielsalm,1
 BE,Namur,Floreffe,1
+BE,Namur,Namur,1
 BE,Oost-Vlaanderen,Aalst,1
 BE,Oost-Vlaanderen,Drongen,2
 BE,Oost-Vlaanderen,Gent,2
@@ -623,7 +625,7 @@ BR,SP,Sumare,2
 BR,Santa Catarina,Blumenau,1
 BR,Santa Catarina,GAROPABA,1
 BR,Santa Catarina,Jaragua do sul,2
-BR,Santa Catarina,Joinville,5
+BR,Santa Catarina,Joinville,6
 BR,Santa Catarina,Navegantes,1
 BR,Sao Paolo,Campinas,2
 BR,Sao Paulo,Amparo,1
@@ -641,6 +643,7 @@ BR,Sao Paulo,Cajamar,7
 BR,Sao Paulo,Campinas,23
 BR,Sao Paulo,Cosmopolis,1
 BR,Sao Paulo,Cotia,2
+BR,Sao Paulo,Cravinhos,1
 BR,Sao Paulo,Diadema,12
 BR,Sao Paulo,Embu-Guacu,2
 BR,Sao Paulo,Franca,3
@@ -665,6 +668,7 @@ BR,Sao Paulo,Pederneiras,13
 BR,Sao Paulo,Pindamonhangaba,3
 BR,Sao Paulo,Piracaia,2
 BR,Sao Paulo,Piracicaba,2
+BR,Sao Paulo,Presidente Prudente,3
 BR,Sao Paulo,Quata,1
 BR,Sao Paulo,Ribeirao Preto,18
 BR,Sao Paulo,Santa Fe Do Sul,1
@@ -677,7 +681,7 @@ BR,Sao Paulo,Sao Caetano Do Sul,2
 BR,Sao Paulo,Sao Jose Do Rio Pardo,3
 BR,Sao Paulo,Sao Jose Do Rio Preto,1
 BR,Sao Paulo,Sao Jose Dos Campos,3
-BR,Sao Paulo,Sao Paulo,345
+BR,Sao Paulo,Sao Paulo,344
 BR,Sao Paulo,Sao Pedro do Turvo,1
 BR,Sao Paulo,Sorocaba,41
 BR,Sao Paulo,Sumare,6
@@ -737,7 +741,7 @@ CA,Alberta,Edmonton,47
 CA,Alberta,Grande Prairie,1
 CA,Alberta,High River,1
 CA,Alberta,Langdon,5
-CA,Alberta,Lethbridge,9
+CA,Alberta,Lethbridge,16
 CA,Alberta,Medicine Hat,2
 CA,Alberta,Morinville,1
 CA,Alberta,Nisku,1
@@ -782,7 +786,7 @@ CA,British Columbia,Abbotsford,15
 CA,British Columbia,Aldergrove,1
 CA,British Columbia,Armstrong,1
 CA,British Columbia,Bridesville,1
-CA,British Columbia,Burnaby,124
+CA,British Columbia,Burnaby,126
 CA,British Columbia,Chilliwack,10
 CA,British Columbia,Coquitlam,115
 CA,British Columbia,Courtenay,1
@@ -794,12 +798,12 @@ CA,British Columbia,Duncan,11
 CA,British Columbia,Grindrod,5
 CA,British Columbia,Heriot Bay,2
 CA,British Columbia,Kamloops,8
-CA,British Columbia,Kelowna,17
+CA,British Columbia,Kelowna,18
 CA,British Columbia,Langley,23
 CA,British Columbia,Lax Kw'Alaams,1
 CA,British Columbia,Maple Ridge,47
 CA,British Columbia,Mclure,1
-CA,British Columbia,Mission,34
+CA,British Columbia,Mission,35
 CA,British Columbia,Nakusp,1
 CA,British Columbia,New Westminster,13
 CA,British Columbia,North Vancouver,30
@@ -809,7 +813,7 @@ CA,British Columbia,Pitt Meadows,3
 CA,British Columbia,Port Coquitlam,25
 CA,British Columbia,Port Hardy,1
 CA,British Columbia,Prince Rupert,4
-CA,British Columbia,Richmond,150
+CA,British Columbia,Richmond,159
 CA,British Columbia,Shawnigan Lake,1
 CA,British Columbia,Squamish,1
 CA,British Columbia,Surrey,66
@@ -824,7 +828,7 @@ CA,CA-ON,Cobourg,1
 CA,CA-ON,TORONTO,3
 CA,CA-ON,Windsor,1
 CA,CA-SK,Moose Jaw,4
-CA,MB,Elie,1
+CA,MB,Elie,4
 CA,MB,Fisher Branch,1
 CA,MB,Oakville,1
 CA,MB,Winnipeg,1
@@ -890,7 +894,7 @@ CA,ON,Brampton,8
 CA,ON,Burlington,2
 CA,ON,CONCORD,2
 CA,ON,Cambridge,3
-CA,ON,Concord,9
+CA,ON,Concord,10
 CA,ON,Don Mills,7
 CA,ON,East York,4
 CA,ON,Etobicoke,18
@@ -908,7 +912,7 @@ CA,ON,Lindsay,1
 CA,ON,London,2
 CA,ON,Markham,20
 CA,ON,Markhammarkham,2
-CA,ON,Mississauga,49
+CA,ON,Mississauga,51
 CA,ON,Mississaugamississauga,7
 CA,ON,Nepean,3
 CA,ON,Newmarket,4
@@ -927,10 +931,9 @@ CA,ON,Sarnia,1
 CA,ON,Scarborough,22
 CA,ON,Scotland,2
 CA,ON,Stouffville,1
-CA,ON,Tecumseh,2
 CA,ON,Thornhill,3
 CA,ON,Tiverton,1
-CA,ON,Toronto,72
+CA,ON,Toronto,74
 CA,ON,Torontotoronto,2
 CA,ON,Trenton,4
 CA,ON,Waterloo,6
@@ -942,6 +945,7 @@ CA,ONTARIO,Barrie,1
 CA,ONTARIO,Bolton,1
 CA,ONTARIO,Cameron,1
 CA,ONTARIO,Concord,1
+CA,ONTARIO,Etobicokeetobicoke,1
 CA,ONTARIO,Markham,6
 CA,ONTARIO,Markhammarkham,1
 CA,ONTARIO,Mississagua,1
@@ -981,7 +985,7 @@ CA,Ontario,Brampton,108
 CA,Ontario,Brantford,16
 CA,Ontario,Brockville,1
 CA,Ontario,Burgessville,1
-CA,Ontario,Burlington,24
+CA,Ontario,Burlington,25
 CA,Ontario,Cambridge,13
 CA,Ontario,Casselman,1
 CA,Ontario,Cobourg,1
@@ -993,13 +997,14 @@ CA,Ontario,Creemore,10
 CA,Ontario,Dundas,2
 CA,Ontario,Dunnville,1
 CA,Ontario,East York,5
-CA,Ontario,Etobicoke,78
+CA,Ontario,Etobicoke,79
 CA,Ontario,Fergus,1
 CA,Ontario,Fort Erie,1
 CA,Ontario,Gananoque,1
 CA,Ontario,Gloucester,3
 CA,Ontario,Grimsby,3
 CA,Ontario,Guelph,14
+CA,Ontario,Hagersville,1
 CA,Ontario,Hamilton,4
 CA,Ontario,Holland Landing,2
 CA,Ontario,Kanata,9
@@ -1013,31 +1018,31 @@ CA,Ontario,Leamington,3
 CA,Ontario,Lindsay,2
 CA,Ontario,London,5
 CA,Ontario,Maple,1
-CA,Ontario,Markham,61
+CA,Ontario,Markham,62
 CA,Ontario,Markhammarkham,2
 CA,Ontario,Millgrove,4
 CA,Ontario,Milton,4
-CA,Ontario,Mississauga,407
+CA,Ontario,Mississauga,413
 CA,Ontario,Mississauga ,1
 CA,Ontario,Mississaugamississauga,1
 CA,Ontario,Nepean,6
 CA,Ontario,New Hamburg,17
-CA,Ontario,Newmarket,69
+CA,Ontario,Newmarket,71
 CA,Ontario,Niagara On The Lake,1
-CA,Ontario,North York,361
+CA,Ontario,North York,363
 CA,Ontario,Oakville,26
 CA,Ontario,Ohsweken,6
-CA,Ontario,Oldcastle,8
+CA,Ontario,Oldcastle,10
 CA,Ontario,Orangeville,1
 CA,Ontario,Orleans,1
 CA,Ontario,Oshawa,2
-CA,Ontario,Ottawa,6
+CA,Ontario,Ottawa,7
 CA,Ontario,Peterborough,5
 CA,Ontario,Pickering,65
 CA,Ontario,Puslinch,1
 CA,Ontario,Richmond Hill,200
 CA,Ontario,Sarnia,1
-CA,Ontario,Scarborough,286
+CA,Ontario,Scarborough,287
 CA,Ontario,St Catharines,2
 CA,Ontario,St Eugene,1
 CA,Ontario,St. Marys,13
@@ -1050,7 +1055,7 @@ CA,Ontario,Sunderland,3
 CA,Ontario,Thorndale,1
 CA,Ontario,Thornhill,4
 CA,Ontario,Thunder Bay,1
-CA,Ontario,Toronto,208
+CA,Ontario,Toronto,212
 CA,Ontario,Torontotoronto,2
 CA,Ontario,Unknown,3
 CA,Ontario,Uxbridge,1
@@ -1080,7 +1085,7 @@ CA,QC,LA Prairie,1
 CA,QC,La Prairie,1
 CA,QC,Lachine,1
 CA,QC,Lasalle,7
-CA,QC,Laval,55
+CA,QC,Laval,56
 CA,QC,Mirabel,2
 CA,QC,Montreak,1
 CA,QC,Montreal,10
@@ -1120,9 +1125,9 @@ CA,Quebec,Baie-Trinite,1
 CA,Quebec,Baie-d'Urfe,1
 CA,Quebec,Becancour,1
 CA,Quebec,Beloeil,31
-CA,Quebec,Blainville,45
+CA,Quebec,Blainville,49
 CA,Quebec,Boisbriand,4
-CA,Quebec,Boucherville,42
+CA,Quebec,Boucherville,45
 CA,Quebec,Bromont,1
 CA,Quebec,Brossard,6
 CA,Quebec,Cap-D'Espoir,1
@@ -1148,16 +1153,17 @@ CA,Quebec,La Martre,1
 CA,Quebec,La Prairie,1
 CA,Quebec,Lachine,4
 CA,Quebec,Lasalle,8
-CA,Quebec,Laval,80
+CA,Quebec,Laval,81
 CA,Quebec,Lavaltrie,2
 CA,Quebec,Levis,14
 CA,Quebec,Longueuil,4
 CA,Quebec,Lourdes-De-Joliette,1
 CA,Quebec,MONTREAL,1
 CA,Quebec,Mirabel,11
+CA,Quebec,Mont-Blanc,7
 CA,Quebec,Mont-Royal,10
 CA,Quebec,Mont-Saint-Hilaire,2
-CA,Quebec,Montreal,126
+CA,Quebec,Montreal,127
 CA,Quebec,Montreal MONT-ROYAL ,3
 CA,Quebec,Montreal-Nord,4
 CA,Quebec,Montrealmontreal,2
@@ -1181,18 +1187,17 @@ CA,Quebec,Saint-Bruno-Lac-Saint-Jean,3
 CA,Quebec,Saint-Cesaire,1
 CA,Quebec,Saint-Damase,5
 CA,Quebec,Saint-Eustache,2
-CA,Quebec,Saint-Faustin-Lac-Carre,7
 CA,Quebec,Saint-Hubert,4
 CA,Quebec,Saint-Hyacinthe,15
 CA,Quebec,Saint-Jean-De-Dieu,1
 CA,Quebec,Saint-Jean-Sur-Richelieu,1
 CA,Quebec,Saint-Jerome,7
-CA,Quebec,Saint-Laurent,135
+CA,Quebec,Saint-Laurent,137
 CA,Quebec,Saint-Leonard,24
 CA,Quebec,Saint-Lin-Laurentides,1
 CA,Quebec,Saint-Michel,1
 CA,Quebec,Saint-Philippe,4
-CA,Quebec,Saint-Roch-De-L'Achigan,6
+CA,Quebec,Saint-Roch-De-L'Achigan,8
 CA,Quebec,Saint-Sauveur,1
 CA,Quebec,Saint-bruno,2
 CA,Quebec,Saint-denis-sur-richelieu,1
@@ -1226,7 +1231,7 @@ CA,Saskatchewan,Melfort,1
 CA,Saskatchewan,Parkside,4
 CA,Saskatchewan,Prince Albert,6
 CA,Saskatchewan,Saskatoon,11
-CA,Saskatchewan,Vanscoy,1
+CA,Saskatchewan,Vanscoy,3
 CH, ,Moosseedorf,1
 CH, ,Zurich,1
 CH,Aargau,Aarau,1
@@ -1269,6 +1274,7 @@ CH,Bern,Interlaken,1
 CH,Bern,Ittigen,2
 CH,Bern,Koniz,3
 CH,Bern,Lyss,12
+CH,Bern,St-Imier,1
 CH,Bern,Zollikofen,1
 CH,Bs,Basel,1
 CH,Fribourg,Bulle,1
@@ -1374,7 +1380,7 @@ CH,Zg,Zug,1
 CH,Zh,Schlieren,2
 CH,Zh,Zollikerberg,1
 CH,Zh,Zurich,37
-CH,Zug,Baar,7
+CH,Zug,Baar,9
 CH,Zug,Cham,1
 CH,Zug,Hunenberg,5
 CH,Zug,Rotkreuz,4
@@ -1406,7 +1412,7 @@ CI,CI-01,Abidjan,5
 CI,Ci-Ab,Abidjan,1
 CI,Cote D'Ivoire,San-Pedro,2
 CI,Lagunes (Region Des),Abidjan,1
-CI,Republique de Cote d'Ivoire,Korhogo,19
+CI,Republique de Cote d'Ivoire,Korhogo,21
 CL,Bahia Chincui,Puerto Montt,3
 CL,Bio Bio,Coronel,1
 CL,Bio Bio Region,San Carlos,1
@@ -1441,7 +1447,7 @@ CL,Magallanes,Punta Arenas,1
 CL,Maule,Curico,2
 CL,Maule,Linares,4
 CL,Maule,Talca,1
-CL,Maule Region,Maule,2
+CL,Maule Region,Maule,11
 CL,Melipilla,"Melipilla, Quillota",156
 CL,NATALES,Puerto Natales,2
 CL,None Of The Above,Chillan,12
@@ -1449,6 +1455,7 @@ CL,Region Metropolitana,"Santiago, San Bernardo",20
 CL,Region Metropolitana de Santia,Isla de Maipo,15
 CL,Region Metropolitana de Santia,Melipilla,22
 CL,Region Metropolitana de Santia,Santiago,23
+CL,Region Metropolitana de Santia,Vitacura,7
 CL,Region X,Puerto Montt,1
 CL,Santiago,Santiago,1
 CL,Septima Region del Maule,Molina,2
@@ -1461,11 +1468,11 @@ CN,510405,Guangzhou,1
 CN,Anhui,Anqing,10
 CN,Anhui,Bengbu,2
 CN,Anhui,Bozhou,12
-CN,Anhui,Chaohu,3
+CN,Anhui,Chaohu Economic,1
 CN,Anhui,Chuzhou,12
 CN,Anhui,Fuyang,6
-CN,Anhui,Hefei,68
-CN,Anhui,Huabei,1
+CN,Anhui,Hefei,71
+CN,Anhui,Huabei,2
 CN,Anhui,Huaibei,34
 CN,Anhui,Huainan,14
 CN,Anhui,Huainan City,1
@@ -1477,26 +1484,28 @@ CN,Anhui,Tongcheng,2
 CN,Anhui,Wuhu,54
 CN,Anhui,Xuancheng,3
 CN,Anhui Province,Bozhou City,1
-CN,Anhui Province,Suzhou City,1
 CN,Anhui Province,Tianchang,1
 CN,Anhui Province,Tianchang City,2
+CN,Anhui Province,Xiaoxian Economic,1
 CN,Anhuisheng,Hefei City,14
-CN,Anwei,Chaohu,1
 CN,Auhui,Taihu,10
 CN,Baiyun District,Guangzhou,1
 CN,Baoan,Shenzhen,1
 CN,Baoan District,Shenzhen,7
-CN,Beijing,Beijing,163
+CN,Beijing,Beijing,152
 CN,Beijing,Beijing City,13
+CN,Beijing,Chaoyang,1
+CN,Beijing,Daxing,25
 CN,Beijing,Jingong Town Daxing District,1
 CN,Beijing,Jingtai Independent City,1
 CN,Beijing,Nancai Shunyi District,4
-CN,Beijing,Tongzhou,1
+CN,Beijing,Tongzhou,16
+CN,Beijing,Xicheng,2
+CN,Beijing,Yanqingxian,1
 CN,Beijingshi,Beijing City,5
 CN,Beijingshi,Beijingshi,4
 CN,Beijingshi,Daxingqu,1
 CN,Beijingshi,Yanqingxian,2
-CN,CN-11,Beijing,1
 CN,CN-12,Tianjin,11
 CN,CN-13,Cangzhou,4
 CN,CN-13,Chengde,3
@@ -1515,7 +1524,7 @@ CN,CN-33,Huangyan Taizhou,1
 CN,CN-33,JINGNING,1
 CN,CN-33,JiaXing,1
 CN,CN-33,Jiangshan,2
-CN,CN-33,Panan County,9
+CN,CN-33,Panan County,10
 CN,CN-33,Qingyuan County,22
 CN,CN-33,Zhoushan,2
 CN,CN-33,zhejiang,1
@@ -1524,20 +1533,17 @@ CN,CN-34,Bozou,5
 CN,CN-35,Fuzhou,4
 CN,CN-35,Longhai,1
 CN,CN-37,Changyi City,1
-CN,CN-37,Gaomi City,1
 CN,CN-37,Jiao Zhou,2
 CN,CN-37,Laixi,7
 CN,CN-37,QINGDAO,1
 CN,CN-37,Qingzhou,1
-CN,CN-37,Rongcheng City,1
 CN,CN-37,YANTAI,7
 CN,CN-37,Zhaoyuan,2
-CN,CN-41,Xinzheng City,8
 CN,CN-42,DangYang,1
 CN,CN-42,Tangshan,1
-CN,CN-43,Yueyang,3
 CN,CN-44,Dongguan,2
 CN,CN-44,Dongguang,5
+CN,CN-44,Jiangmen City,8
 CN,CN-44,Shanwei,1
 CN,CN-44,Shen Zhen,1
 CN,CN-44,Shenzhen,25
@@ -1566,6 +1572,7 @@ CN,Changzhou,Jintan,2
 CN,"Chengdu, Sichuan",Jinniu District,2
 CN,China,Duqaio Town,1
 CN,Chongqing,Chongqing,6
+CN,Chongqing,Nanan,1
 CN,Cn-33,Ningbo,1
 CN,Cn-Ah,Anqing,1
 CN,Cn-Cq,Chongqing,2
@@ -1610,14 +1617,14 @@ CN,FUJIAN,CHANGLE,1
 CN,Fjin,Zhangzhoush,4
 CN,Fujian,Binhai Village,3
 CN,Fujian,Changle City,1
-CN,Fujian,Dongshan,4
+CN,Fujian,Dongshan,5
 CN,Fujian,Dongshan County,5
 CN,Fujian,FUQING,1
 CN,Fujian,Fuding,13
-CN,Fujian,Fuqing,4
+CN,Fujian,Fuqing,5
 CN,Fujian,"Fuqing, Fuzhou",2
 CN,Fujian,Futian,20
-CN,Fujian,Fuzhou,269
+CN,Fujian,Fuzhou,268
 CN,Fujian,Fuzhou City,2
 CN,Fujian,Gutian,4
 CN,Fujian,Gutian County,1
@@ -1627,10 +1634,9 @@ CN,Fujian,Jinjiang,6
 CN,Fujian,Jinjiang City,7
 CN,Fujian,Lianjiang City,1
 CN,Fujian,Lianjiang County,3
-CN,Fujian,Longhai,4
+CN,Fujian,Longhai,3
 CN,Fujian,Longhai City,8
-CN,Fujian,N?ngd?sh?,2
-CN,Fujian,Nanping,26
+CN,Fujian,Nanping,27
 CN,Fujian,Ningde,29
 CN,Fujian,Ningde City,4
 CN,Fujian,Putian,18
@@ -1641,12 +1647,12 @@ CN,Fujian,Sanming,32
 CN,Fujian,Shamen,5
 CN,Fujian,Shishi,9
 CN,Fujian,Wuyishan,13
-CN,Fujian,Xiamen,207
+CN,Fujian,Xiamen,208
 CN,Fujian,Xiamen China,14
-CN,Fujian,Xiamen City,2
+CN,Fujian,Xiamen City,1
 CN,Fujian,Xiamen Fujian,3
 CN,Fujian,Zhangpu,2
-CN,Fujian,Zhangzhou,95
+CN,Fujian,Zhangzhou,96
 CN,Fujian,Zhangzhou City,1
 CN,Fujian,Zhangzhoush,3
 CN,Fujian,Zhangzhoush¿,1
@@ -1659,6 +1665,7 @@ CN,Fujiansheng,Fuzhou,3
 CN,Fujiansheng,Fuzhou City,1
 CN,Fujiansheng,Ningde,24
 CN,Fujiansheng,Ningdeshi,1
+CN,Fujiansheng,Nngdsh,2
 CN,Fujiansheng,Quanzhoushi,1
 CN,Fujiansheng,Xiamen,3
 CN,Fujiansheng,Xiamen Sez,1
@@ -1685,7 +1692,7 @@ CN,Gansusheng,Zhangyeshi,2
 CN,Gaoxin District,Jilin,1
 CN,Guandong,"Baoan, Shenzhen",6
 CN,Guandong,Guandong,1
-CN,Guandong,Hui Zhou City,3
+CN,Guandong,Guang He Ind. 6,3
 CN,Guandong,Maoming,2
 CN,Guang Dong,Dong Guan,1
 CN,Guang Dong,Huizhou,3
@@ -1696,61 +1703,56 @@ CN,Guangdong,Anqing,1
 CN,Guangdong,Baiyun Dist,2
 CN,Guangdong,Baiyun District of Guangzhou,1
 CN,Guangdong,"Baoan, Shenzhen",8
-CN,Guangdong,Chaoan,2
-CN,Guangdong,Chaozhou,24
+CN,Guangdong,Chaozhou,28
 CN,Guangdong,"Chenghai Dist., Shantou",1
 CN,Guangdong,DONGGUAN,5
 CN,Guangdong,Dafapu Community Bantian,1
 CN,Guangdong,Daojiao,2
 CN,Guangdong,Dong Guan,3
-CN,Guangdong,Dongguan,449
-CN,Guangdong,Dongguan City,8
-CN,Guangdong,Foshan,132
-CN,Guangdong,Foshan City,18
+CN,Guangdong,Dongguan,466
+CN,Guangdong,Dongguan City,9
+CN,Guangdong,Foshan,141
+CN,Guangdong,Foshan City,9
 CN,Guangdong,Foshen,3
 CN,Guangdong,"Fuwai Community, Baoan District",1
 CN,Guangdong,Gaoyao,7
 CN,Guangdong,Gaozhou,1
-CN,Guangdong,Gaozhou City,2
 CN,Guangdong,"Gaunzhou, Gaungdong",8
 CN,Guangdong,Guanczhou,1
-CN,Guangdong,Guangzhou,687
+CN,Guangdong,Guangzhou,712
 CN,Guangdong,Guangzhou City,7
-CN,Guangdong,Heshan,11
 CN,Guangdong,Heshan City,2
 CN,Guangdong,Heyuan,15
 CN,Guangdong,"Huang Qi, Nanhai",5
-CN,Guangdong,Huazhou,7
+CN,Guangdong,Huazhou,1
 CN,Guangdong,Huazhou City,2
 CN,Guangdong,HuiDong,3
-CN,Guangdong,Huizhou,99
+CN,Guangdong,Huizhou,52
 CN,Guangdong,Humen Town,1
-CN,Guangdong,Jiangmen,127
-CN,Guangdong,Jiangmen City,95
-CN,Guangdong,Jieyang,22
+CN,Guangdong,Industrial,1
+CN,Guangdong,Jiangmen,154
+CN,Guangdong,Jiangmen City,94
+CN,Guangdong,Jieyang,23
 CN,Guangdong,Kaiping,18
 CN,Guangdong,Linhai City Zhejiang,2
-CN,Guangdong,Longgang,15
 CN,Guangdong,Longguang,9
 CN,Guangdong,Luohu District Shenzhen,1
-CN,Guangdong,Maoming,10
+CN,Guangdong,Maoming,18
 CN,Guangdong,Maoming City,16
 CN,Guangdong,Nanhai,1
 CN,Guangdong,Nanzhuang Chancheng,1
 CN,Guangdong,"Panyu, Guangzhou",1
-CN,Guangdong,Puning,9
-CN,Guangdong,Raoping County,1
+CN,Guangdong,Puning,8
 CN,Guangdong,Shantou,224
-CN,Guangdong,Shanwei,25
-CN,Guangdong,Shanwei City,1
+CN,Guangdong,Shanwei,26
 CN,Guangdong,Shaoguan,1
 CN,Guangdong,Shatian,2
 CN,Guangdong,Shenzen,4
-CN,Guangdong,Shenzhen,999
+CN,Guangdong,Shenzhen,1045
 CN,Guangdong,Shenzhen City,2
 CN,Guangdong,Shiji Village,1
 CN,Guangdong,Suicheng,1
-CN,Guangdong,Taishan,29
+CN,Guangdong,Taishan,25
 CN,Guangdong,Taishan City,11
 CN,Guangdong,Tianhe,1
 CN,Guangdong,"Tianhe, Guangzhou",3
@@ -1761,9 +1763,9 @@ CN,Guangdong,Yangliang County,1
 CN,Guangdong,Yunfu,3
 CN,Guangdong,Zhangjiang,1
 CN,Guangdong,Zhanjiang,53
-CN,Guangdong,Zhaoqing,56
-CN,Guangdong,Zhongshan,87
-CN,Guangdong,Zhongshan City,4
+CN,Guangdong,Zhaoqing,55
+CN,Guangdong,Zhongshan,84
+CN,Guangdong,Zhongshan City,1
 CN,Guangdong,Zhuhai,94
 CN,Guangdong,Zhuhai City,37
 CN,Guangdong City,Dongguang City,1
@@ -1783,11 +1785,13 @@ CN,Guangxi,Baise,1
 CN,Guangxi,Beihai,33
 CN,Guangxi,Beihai Industrial Zone,9
 CN,Guangxi,Beiliu,5
+CN,Guangxi,Gaoshang,1
 CN,Guangxi,Guilin,20
 CN,Guangxi,Liuzhou,10
 CN,Guangxi,NANNING,1
 CN,Guangxi,Nanning,15
 CN,Guangxi,Wuzhou,2
+CN,Guangxizhuangzuzizhiqu,Guigang,2
 CN,Guangxizhuangzuzizhiqu,Guilin,10
 CN,Guangxizhuangzuzizhiqu,Liuzhou,3
 CN,Guangxizhuangzuzizhiqu,Nanning,1
@@ -1815,22 +1819,21 @@ CN,HEBEI,Tang Shan,1
 CN,HEBEI,Tangshan,1
 CN,HEBEI,Xingtai,2
 CN,HENAN,Kaifeng City,1
-CN,Hainan,Chengmai,6
+CN,Hainan,Chengmai,4
 CN,Hainan,Dingan,8
-CN,Hainan,Haikou,18
+CN,Hainan,Haikou,11
 CN,Hainan,Hainansheng,14
+CN,Hainan,Lin Gaoxian,10
+CN,Hainan,Sanya,11
 CN,Hainan,Wenchang,4
 CN,Hainansheng,Haikoushi,3
-CN,Hainansheng,Haikoush¿,2
-CN,Hainansheng,Lingao County,9
-CN,Hainn,Shengzhxixinjxngzhngda,1
 CN,He Bei,Unknown,1
 CN,Hebei,Anguo,1
 CN,Hebei,Anguo City,78
-CN,Hebei,Baoding,11
+CN,Hebei,Baoding,10
 CN,Hebei,Beijing,2
 CN,Hebei,Botou Cangzhou,4
-CN,Hebei,Cangzhou,20
+CN,Hebei,Cangzhou,19
 CN,Hebei,Handan,2
 CN,Hebei,Hebei,1
 CN,Hebei,Hengshui,10
@@ -1844,12 +1847,13 @@ CN,Hebei,Qinhuangdao,22
 CN,Hebei,"Quzhou, Handan",2
 CN,Hebei,Shenzhou City,1
 CN,Hebei,Shijazhuang,1
-CN,Hebei,Shijiazhuang,278
+CN,Hebei,Shijiazhuang,285
 CN,Hebei,Shizuishan,1
+CN,Hebei,Shjiazhuangsh,1
 CN,Hebei,Suizhou,1
-CN,Hebei,Tangshan,43
+CN,Hebei,Tangshan,53
 CN,Hebei,Tangshan City,12
-CN,Hebei,Xingtai,25
+CN,Hebei,Xingtai,26
 CN,Hebei Province,Qinhuangdao City,1
 CN,Hebei Province,Shijiazhuang,5
 CN,Hebeisheng,Baoding,1
@@ -1868,9 +1872,10 @@ CN,Heilongjiang,Jiamusi,1
 CN,Heilongjiang,Shuangyashan,1
 CN,Heilongjiang,Yichun,3
 CN,Heilongjiang,Yichun City,2
-CN,Henan,Anyang,21
-CN,Henan,Luohe,11
-CN,Henan,Nanyang,37
+CN,Henan,Anyang,22
+CN,Henan,Hebi,1
+CN,Henan,Luohe,10
+CN,Henan,Nanyang,38
 CN,Henan,Pingdingshan,1
 CN,Henan,Sanmenxia,2
 CN,Henan,Shangqiu,28
@@ -1880,7 +1885,7 @@ CN,Henan,Xinxiang,4
 CN,Henan,Xinye,1
 CN,Henan,Xinzheng,1
 CN,Henan,Xuchang,2
-CN,Henan,Zhengzhou,77
+CN,Henan,Zhengzhou,86
 CN,Henan,Zhengzhou City,1
 CN,Henan,Zhoukou,9
 CN,Henan,Zhumadian,1
@@ -1899,7 +1904,7 @@ CN,Hubei,Enshitujiazumiaozuzizhizhou,1
 CN,Hubei,Ezhou,6
 CN,Hubei,Gucheng,1
 CN,Hubei,Hangtian Rd Dongxihu,13
-CN,Hubei,Huanggang,13
+CN,Hubei,Huanggang,20
 CN,Hubei,Huangmei,1
 CN,Hubei,Huangshi,3
 CN,Hubei,Jingmen,17
@@ -1909,13 +1914,13 @@ CN,Hubei,Qianjiang,2
 CN,Hubei,Shiyan,4
 CN,Hubei,Suizhou,8
 CN,Hubei,Suzhoush,8
-CN,Hubei,Wuhan,73
+CN,Hubei,Wuhan,76
 CN,Hubei,Wuxue City,1
 CN,Hubei,Xiangfan,3
-CN,Hubei,Xiangyang,48
+CN,Hubei,Xiangyang,47
 CN,Hubei,Xiangyang City,1
 CN,Hubei,Xianning,1
-CN,Hubei,Xiantao,23
+CN,Hubei,Xiantao,17
 CN,Hubei,Yichang,29
 CN,Hubei,Yicheng,1
 CN,Hubei,Yidu,30
@@ -1926,12 +1931,13 @@ CN,Hubei,Zhong Xiang City,2
 CN,Hubei,Zhongxiang,1
 CN,Hubeisheng,Huangshi City,1
 CN,Hubeisheng,Suizhou,6
+CN,Hubeisheng,Xiangfan City,1
 CN,Hubie,Hanchuan,3
-CN,Hunan,Changsha,53
+CN,Hunan,Changsha,54
 CN,Hunan,Chenzhou,5
 CN,Hunan,Hengyang,1
 CN,Hunan,Hunan,7
-CN,Hunan,Jin Shi,2
+CN,Hunan,Jin,2
 CN,Hunan,Jing City City,1
 CN,Hunan,Leiyang,1
 CN,Hunan,Liuyang City,2
@@ -1942,7 +1948,7 @@ CN,Hunan,Xiangxitujiazumiaozuzizhizhou,1
 CN,Hunan,Yiyang,21
 CN,Hunan,Yongzhou,23
 CN,Hunan,"Yuelu, Changsha",3
-CN,Hunan,Yueyang,11
+CN,Hunan,Yueyang,15
 CN,Hunan,Zhuzhou,1
 CN,Hunan Province,Changsha city,1
 CN,INNER MONGOLIA,Ordos,1
@@ -1955,8 +1961,8 @@ CN,JIANGSU,HUAI AN,2
 CN,JIANGSU,LIANYUGANG CITY,7
 CN,JIANGSU,Taizhou,1
 CN,JIANGSU,Wuxi City,1
-CN,Jiangsu,Changshu,25
-CN,Jiangsu,Changzhou,73
+CN,Jiangsu,Changshu,24
+CN,Jiangsu,Changzhou,74
 CN,Jiangsu,Danyang,11
 CN,Jiangsu,Danyang City,44
 CN,Jiangsu,Dongtai,4
@@ -1964,7 +1970,7 @@ CN,Jiangsu,Haimen,7
 CN,Jiangsu,Huai'An,1
 CN,Jiangsu,Huaian,8
 CN,Jiangsu,Jiangyan City,1
-CN,Jiangsu,Jiangyin,2
+CN,Jiangsu,Jiangyin,1
 CN,Jiangsu,Jiansu,1
 CN,Jiangsu,Jintan,2
 CN,Jiangsu,Kunshan,48
@@ -1973,8 +1979,8 @@ CN,Jiangsu,Lianyungang,38
 CN,Jiangsu,Lianyungang City,5
 CN,Jiangsu,NANTONG CITY,1
 CN,Jiangsu,Nanjin,1
-CN,Jiangsu,Nanjing,80
-CN,Jiangsu,Nantong,78
+CN,Jiangsu,Nanjing,81
+CN,Jiangsu,Nantong,80
 CN,Jiangsu,Nantong City,52
 CN,Jiangsu,Natong,1
 CN,Jiangsu,Nntongsh,1
@@ -1983,26 +1989,26 @@ CN,Jiangsu,Shuyang,1
 CN,Jiangsu,Siyang,2
 CN,Jiangsu,Su Qian,2
 CN,Jiangsu,Suqian,31
-CN,Jiangsu,Suzhou,323
+CN,Jiangsu,Suzhou,336
 CN,Jiangsu,Suzhou Zhangjiagang,2
-CN,Jiangsu,Taizhou,63
+CN,Jiangsu,Taizhou,62
 CN,Jiangsu,Taizhou City,4
 CN,Jiangsu,Wujiang,1
-CN,Jiangsu,Wuxi,48
+CN,Jiangsu,Wuxi,50
 CN,Jiangsu,Wuxi City,3
-CN,Jiangsu,Xinghua,7
+CN,Jiangsu,Xinghua,8
 CN,Jiangsu,Xuyi,1
 CN,Jiangsu,Xuzhou,42
 CN,Jiangsu,YIZHENG,11
 CN,Jiangsu,Yancheng,28
 CN,Jiangsu,Yancheng City,1
 CN,Jiangsu,Yangzhong,5
-CN,Jiangsu,Yangzhou,96
+CN,Jiangsu,Yangzhou,98
 CN,Jiangsu,Yixing,2
 CN,Jiangsu,Yixing City,1
-CN,Jiangsu,Zhangjiagang,19
+CN,Jiangsu,Zhangjiagang,20
 CN,Jiangsu,Zhangjiagang City,2
-CN,Jiangsu,Zhenjiang,15
+CN,Jiangsu,Zhenjiang,16
 CN,Jiangsu,Zuzhou,3
 CN,Jiangsu Province,Nantong,1
 CN,Jiangsu Province,Wuxi,1
@@ -2021,14 +2027,14 @@ CN,Jiangsusheng,Yangzhoushi,1
 CN,Jiangsusheng,Zhenjiang City,1
 CN,Jiangxi,Fuzhou,13
 CN,Jiangxi,Ganzhou,14
-CN,Jiangxi,Gongqing,1
-CN,Jiangxi,Jiujiang,4
+CN,Jiangxi,Jiujiang,11
 CN,Jiangxi,Nanchang,23
 CN,Jiangxi,Shangrao,7
 CN,Jiangxi,Shangrao City,28
 CN,Jiangxi,Shaorao,2
+CN,Jiangxi,Wanzai,1
 CN,Jiangxi,Xinyu,2
-CN,Jiangxi,Yichun,11
+CN,Jiangxi,Yichun,10
 CN,Jiangxi,Yingtan,47
 CN,Jiangxi Province,Shangrao,11
 CN,"Jiangxi,",Fuzhou,1
@@ -2047,7 +2053,7 @@ CN,Liangshan County,Shandong,1
 CN,Liaoning,Anshan,1
 CN,Liaoning,Benxi,3
 CN,Liaoning,Chenyang,1
-CN,Liaoning,Dalian,258
+CN,Liaoning,Dalian,265
 CN,Liaoning,Dandong,20
 CN,Liaoning,Donggang City,1
 CN,Liaoning,Liaoyang,5
@@ -2078,7 +2084,7 @@ CN,Ningxia,Zhongning County,1
 CN,Ningxia,Zhongwei,4
 CN,Ningxia Huizu Zizhiqu,Yinchuan,3
 CN,Ningxia Huizu Zizhiqu,Zhongwei,3
-CN,None of the Above,Dong Guan City,2
+CN,None of the Above,Canton,2
 CN,None of the Above,Zhong Shan,3
 CN,P.R.,Shijiazhuang,1
 CN,Province China,Jiangshan,1
@@ -2105,27 +2111,24 @@ CN,Shandong,Binzhou,10
 CN,Shandong,Binzhou City,5
 CN,Shandong,Caoxian,4
 CN,Shandong,Changyi,2
-CN,Shandong,Dalian,2
-CN,Shandong,Dezhou,7
+CN,Shandong,Dezhou,8
 CN,Shandong,Dongming County Heze,2
 CN,Shandong,Gaomi,2
-CN,Shandong,Gaomi City,1
 CN,Shandong,Heze,17
 CN,Shandong,Huangdao,1
 CN,Shandong,Huangdao Qingdao,7
 CN,Shandong,Jiaonan,1
-CN,Shandong,Jinan,74
+CN,Shandong,Jinan,73
 CN,Shandong,Jinan City,3
-CN,Shandong,Jining,17
+CN,Shandong,Jining,20
 CN,Shandong,Jining City,3
 CN,Shandong,Junan,1
 CN,Shandong,LAIWU JINAN,1
-CN,Shandong,LINQU,1
+CN,Shandong,LINQU,3
 CN,Shandong,Laiwu,1
-CN,Shandong,Laiyang City,1
 CN,Shandong,Leling,3
 CN,Shandong,Leling City,1
-CN,Shandong,Liaocheng,23
+CN,Shandong,Liaocheng,24
 CN,Shandong,Liaocheng City,3
 CN,Shandong,Linqu,2
 CN,Shandong,Linyi,55
@@ -2133,13 +2136,13 @@ CN,Shandong,Linyi City,13
 CN,Shandong,Longkou,11
 CN,Shandong,Qiangdao,3
 CN,Shandong,Qing Dao,1
-CN,Shandong,Qingdao,194
+CN,Shandong,Qingdao,195
 CN,Shandong,Qingdao City,7
 CN,Shandong,Qingdao City Shandong,3
-CN,Shandong,Qingzhou,39
-CN,Shandong,Qufu,11
-CN,Shandong,Rizhao,41
-CN,Shandong,Rizhao City,2
+CN,Shandong,Qingzhou,49
+CN,Shandong,Qufu,9
+CN,Shandong,Rizhao,42
+CN,Shandong,Rizhao City,1
 CN,Shandong,Rongcheng,36
 CN,Shandong,Rongcheng City,7
 CN,Shandong,Shan County,1
@@ -2147,12 +2150,14 @@ CN,Shandong,Shandong,15
 CN,Shandong,Shanxian Heze City,1
 CN,Shandong,Shougang City,1
 CN,Shandong,Taian,1
+CN,Shandong,Tianmu,1
 CN,Shandong,"Tianqiao District, Jinan City",2
-CN,Shandong,Weifang,52
+CN,Shandong,Wangjiaguanzhuang Village,1
+CN,Shandong,Weifang,53
 CN,Shandong,Weifang City,3
-CN,Shandong,Weihai,30
+CN,Shandong,Weihai,31
 CN,Shandong,Weihai City,11
-CN,Shandong,Xintai,14
+CN,Shandong,Xintai,18
 CN,Shandong,Yantai,59
 CN,Shandong,Yantai Etdz,1
 CN,Shandong,Yantish,6
@@ -2161,10 +2166,9 @@ CN,Shandong,Zhangdian  Zibo,8
 CN,Shandong,Zhanhua,2
 CN,Shandong,Zhaoyuan,1
 CN,Shandong,Zhaoyuan City,3
-CN,Shandong,Zibo,90
+CN,Shandong,Zibo,95
 CN,Shandong,Zoucheng,5
 CN,Shandong Province,Jimo,2
-CN,Shandong Province,Jining,1
 CN,Shandong Province,Zibo City,2
 CN,Shandongsheng,Jinan,1
 CN,Shandongsheng,Liochngsh,1
@@ -2182,29 +2186,33 @@ CN,Shangdong,Juye,2
 CN,Shangdong,LIAOCHENG,1
 CN,Shangdong,Taian,9
 CN,Shanghai,Anting,1
-CN,Shanghai,C No 8 Blvd,1
+CN,Shanghai,Baoshan,2
 CN,Shanghai,D 4288 Du,1
+CN,Shanghai,Hongkou,2
+CN,Shanghai,Jinshan District,1
 CN,Shanghai,Meilong,2
 CN,Shanghai,Minhang District,2
 CN,Shanghai,Pilot Free,4
+CN,Shanghai,Pudongxin,10
+CN,Shanghai,Putuo,6
 CN,Shanghai,Qingpu Dist,1
-CN,Shanghai,Shanghai,483
+CN,Shanghai,Shanghai,473
 CN,Shanghai,Shanghai City,8
 CN,Shanghai,Shanghaishi,1
 CN,Shanghai,Songjiang Export,1
 CN,Shanghai,"Songjiang, Shanghai",8
 CN,Shanghaishi,Shanghai,2
 CN,Shanghaishi,Shanghai City,1
-CN,Shanghaishi,Shanghaishi,13
+CN,Shanghaishi,Shanghaishi,12
 CN,Shanxi,Hanzhong,2
 CN,Shanxi,Linfen,2
-CN,Shanxi,Lvliang City,2
+CN,Shanxi,Luliang Di,2
 CN,Shanxi,Taiyuan,8
 CN,Shanxi,Weinan,2
 CN,Shanxi,Xi'An,5
 CN,Shanxi,Xi'an,1
 CN,Shanxi,Xi`An,1
-CN,Shanxi,Xian,80
+CN,Shanxi,Xian,79
 CN,Shanxi,Xianyang,1
 CN,Shanxi,Yanan,1
 CN,Shanxi,Yulin,1
@@ -2221,11 +2229,10 @@ CN,Shenzhen,Shenzhenguangdong China,1
 CN,Shenzhen,"Shiyan Town, Baoan Dist",1
 CN,Shenzhen Guangdong,Shajing Xinqiao Baoan District,1
 CN,Shijiazhuang,Hebei,5
-CN,Shnghaish,Shnghaish,1
 CN,Shunyi District,Beijing,1
 CN,Si Chuan,East,2
 CN,Sichuan,Chengdou,14
-CN,Sichuan,Chengdu,58
+CN,Sichuan,Chengdu,59
 CN,Sichuan,Chengdu City,1
 CN,Sichuan,Deyang,4
 CN,Sichuan,Guangyuan,4
@@ -2244,11 +2251,13 @@ CN,TEDA,Tianjin,6
 CN,TSUEN WAN,HONG KONG,1
 CN,Taian,Xintai City,1
 CN,Taizhou Zhejiang,Linhai,1
-CN,Tianjin,Ba Li Tai Industry Area,1
+CN,Tianjin,Baochi,1
 CN,Tianjin,Beijing,3
+CN,Tianjin,Hongqiao,1
 CN,Tianjin,Jingbin Avenue,15
+CN,Tianjin,Jinnan,1
 CN,Tianjin,Tanggu,1
-CN,Tianjin,Tianjin,104
+CN,Tianjin,Tianjin,105
 CN,Tianjin,Tianjin Airport,5
 CN,Tianjin,Tianjin City,1
 CN,Tianjin,Tianjin Economic Tech,4
@@ -2266,10 +2275,10 @@ CN,Wuhou district,Chengdu,1
 CN,Xinjiang,Tumushuk,1
 CN,Xinjiang,Urumqi,1
 CN,Xinjiangweiwuerzizhiqu,Jing He,1
-CN,YING,Nanyang City,1
 CN,Yandong,Chaozhou,2
 CN,Yandong,Dongguan,5
 CN,Yandong,Foshan,6
+CN,Yandong,Fshansh,5
 CN,Yandong,Guangzhou,6
 CN,Yandong,Jiangmen,1
 CN,Yandong,Jie Yang City,1
@@ -2279,11 +2288,11 @@ CN,Yandong,Panyu Guangzhou,2
 CN,Yandong,Shantou,3
 CN,Yandong,Shenzhen,5
 CN,Yandong,Shenzhnsh,13
-CN,Yandong,Taishan,7
 CN,Yandong,Taishan City,4
-CN,Yandong,Yanzhou,5
+CN,Yandong,Yanzhou,4
 CN,Yandong,Zhanjiang,2
 CN,Yandong,Zhongshan,1
+CN,Yandongsheng,China,1
 CN,Yandongsheng,Foshan City,1
 CN,Yandongsheng,Foshanshi,2
 CN,Yandongsheng,Guangzhou City,20
@@ -2294,18 +2303,14 @@ CN,Yandongsheng,Jinping District Shantou,1
 CN,Yandongsheng,Momngsh,5
 CN,Yandongsheng,Puning,2
 CN,Yandongsheng,Quangzhou,1
-CN,Yandongsheng,Shantou City,1
 CN,Yandongsheng,Shenzhen,9
-CN,Yandongsheng,Shenzhen City,4
 CN,Yandongsheng,Shenzhenshi,9
-CN,Yandongsheng,Taishan,10
 CN,Yandongsheng,Zhaoqingshi,1
 CN,Yandongsheng,Zhongshan,2
 CN,Yandongsheng,Zhongshanshi,2
 CN,Yandongsheng,Zhongshansh¿,4
 CN,Yangzhou,Shaobei,1
 CN,Yanxizhuangzuzizhiqu,Beihai,3
-CN,Yanxizhuangzuzizhiqu,Guiping,2
 CN,Yanxizhuangzuzizhiqu,Wuzhou,4
 CN,Ynnn,Kunming,8
 CN,Yunnan,Chuxiong,9
@@ -2326,33 +2331,34 @@ CN,Zheijiang,Linhai,1
 CN,Zheijiang,Ningbo,4
 CN,Zhejiang,Anji,8
 CN,Zhejiang,Beilun Ningbo,1
+CN,Zhejiang,Beiyuan Street,2
 CN,Zhejiang,Changan Town,1
 CN,Zhejiang,Changxing,2
 CN,Zhejiang,Cixi,2
 CN,Zhejiang,Cixi Ningbo,4
 CN,Zhejiang,Deqing,1
-CN,Zhejiang,Dongyang,7
+CN,Zhejiang,Donghai First Avenue,1
+CN,Zhejiang,Dongyang,4
 CN,Zhejiang,"Fotang, Yiwu",4
 CN,Zhejiang,Funan Road Duqiaotown Linhai,1
 CN,Zhejiang,Haining,5
-CN,Zhejiang,Hangzhou,394
+CN,Zhejiang,Hangzhou,395
 CN,Zhejiang,Hangzhou China,1
 CN,Zhejiang,Hangzhou City,3
 CN,Zhejiang,Hangzhou Pr,46
 CN,Zhejiang,Houzhou City,6
-CN,Zhejiang,Huzhou,17
+CN,Zhejiang,Huzhou,21
 CN,Zhejiang,Jiande City,1
 CN,Zhejiang,Jiaxing,27
-CN,Zhejiang,Jinhua,302
-CN,Zhejiang,Jintong Road Zhiying,1
+CN,Zhejiang,Jinhua,309
 CN,Zhejiang,LONGGANG CITY,1
 CN,Zhejiang,Lanxi,10
 CN,Zhejiang,Liahui,1
 CN,Zhejiang,Lin Hai,2
-CN,Zhejiang,Linhai,39
-CN,Zhejiang,Lishui,74
+CN,Zhejiang,Linhai,27
+CN,Zhejiang,Lishui,75
 CN,Zhejiang,LongQuan,1
-CN,Zhejiang,Ningbo,258
+CN,Zhejiang,Ningbo,280
 CN,Zhejiang,Ningbo City,2
 CN,Zhejiang,Ninghai City,1
 CN,Zhejiang,Ninghai County,3
@@ -2360,16 +2366,16 @@ CN,Zhejiang,Ouhai District,1
 CN,Zhejiang,Panan County,6
 CN,Zhejiang,Pinghu City,1
 CN,Zhejiang,Qingyuan,1
+CN,Zhejiang,Qinkou Dongyuan,1
 CN,Zhejiang,Quzhou,9
 CN,Zhejiang,Rui'An,1
 CN,Zhejiang,Ruian,1
 CN,Zhejiang,Ruian City,1
 CN,Zhejiang,Shangyu,7
-CN,Zhejiang,Shaoxing,94
-CN,Zhejiang,Shengzhou,9
+CN,Zhejiang,Shaoxing,104
 CN,Zhejiang,Shengzhou City,6
 CN,Zhejiang,TAIZHOU,29
-CN,Zhejiang,Taizhou,366
+CN,Zhejiang,Taizhou,398
 CN,Zhejiang,Taizhou City,1
 CN,Zhejiang,Taizhoushi,1
 CN,Zhejiang,Taz,1
@@ -2377,22 +2383,20 @@ CN,Zhejiang,Tizhoush,1
 CN,Zhejiang,Tonglu,1
 CN,Zhejiang,Tongxiang,2
 CN,Zhejiang,Tongxiang Jiaxing,1
-CN,Zhejiang,Wenzhou,320
+CN,Zhejiang,Wenzhou,347
 CN,Zhejiang,Wenzhou City,2
 CN,Zhejiang,Wenzhoush,6
 CN,Zhejiang,Xianju,3
 CN,Zhejiang,"Xianju, Taizhou",1
 CN,Zhejiang,Xinchang County,2
-CN,Zhejiang,Yang Jiao Lang,4
-CN,Zhejiang,Yiwi City,1
-CN,Zhejiang,Yiwu,183
-CN,Zhejiang,Yiwu City,7
-CN,Zhejiang,Yongkang,14
+CN,Zhejiang,Yiwu,147
+CN,Zhejiang,Yiwu City,5
+CN,Zhejiang,Yongkang,15
 CN,Zhejiang,Yue Qing,1
 CN,Zhejiang,Yueqing Zhejiangyueqing,1
 CN,Zhejiang,Yuqing,5
 CN,Zhejiang,Yuya City,1
-CN,Zhejiang,Yuyao,39
+CN,Zhejiang,Yuyao,40
 CN,Zhejiang,Yuyao City,12
 CN,Zhejiang,Zhejiang,4
 CN,Zhejiang,Zhoushan,24
@@ -2416,8 +2420,8 @@ CN,Zhejiangsheng,Wenzhoushi,6
 CN,Zhejiangsheng,Zhoushan,2
 CN,Zhejisng Province,Kuntong Industrial,1
 CN,Zhengjiang,Jiaxing,2
+CN,Zhjiang,Hngzhoush,2
 CN,Zhjiang,Tizhoush,1
-CN,Zhongqing,Zhongqing,1
 CN,fuan,Fujian,1
 CN,guangdong,Shenzhen,1
 CN,sichuan,chengdu city,2
@@ -2455,7 +2459,7 @@ CO,Choco,San Jose de la Calle,1
 CO,Colombia,Bogota,2
 CO,Colombia,Bogota D.C,2
 CO,Cundinamarca,Bogata,5
-CO,Cundinamarca,Bogota,997
+CO,Cundinamarca,Bogota,996
 CO,Cundinamarca,Bogota d.C.,1
 CO,Cundinamarca,Cajica,2
 CO,Cundinamarca,Chia,21
@@ -2486,7 +2490,7 @@ CO,Narino,Santander,1
 CO,Norte de Santander,Cucuta,2
 CO,Quindio,Armenia,21
 CO,Risaralda,Dosquebradas,26
-CO,Risaralda,Pereira,49
+CO,Risaralda,Pereira,50
 CO,Risaralda,Santa Rosa De Cabal,1
 CO,Santander,Barrancabermeja,4
 CO,Santander,Bucaramanga,17
@@ -2498,10 +2502,10 @@ CO,Valle,Cali,1
 CO,Valle,Yumbo,11
 CO,Valle Del Cauca,Buga,1
 CO,Valle Del Cauca,Bugalagrande,1
-CO,Valle Del Cauca,Cali,147
+CO,Valle Del Cauca,Cali,145
 CO,Valle Del Cauca,Cartago,2
 CO,Valle Del Cauca,Jamundi,1
-CO,Valle Del Cauca,Palmira,35
+CO,Valle Del Cauca,Palmira,34
 CO,Valle Del Cauca,Tulua,2
 CO,Valle Del Cauca,Villa Rica,28
 CO,Valle Del Cauca,Yumbo,8
@@ -2510,8 +2514,8 @@ CO,Valle del Cauca,La Union,4
 CO,Valle del Cauca,Roldanillo,30
 CO,Valle del Cauca,Yumbo,4
 CO,Valle del Cauca,Zarzal,12
-CR,Alajuela,Alajuela,20
-CR,Alajuela,Coyol,1
+CR,Alajuela,Alajuela,22
+CR,Alajuela,Coyol,39
 CR,Alajuela,El Coyol,3
 CR,Alajuela,"El Coyol, Alajuela",5
 CR,Alajuela,San Carlos,1
@@ -2525,7 +2529,7 @@ CR,Cartago,Chitaria,4
 CR,Cartago,"Chitaria, Turrialba",1
 CR,Cartago,Coris,3
 CR,Cartago,La Union,6
-CR,Cartago,Paraiso,9
+CR,Cartago,Paraiso,12
 CR,Cartago,Turrialba,20
 CR,Cr-A,Alejuela,8
 CR,Guanacaste,Canas,27
@@ -2538,7 +2542,7 @@ CR,Heredia,Santo Domingo,9
 CR,Limon,Limon,5
 CR,Limon,Pococi,5
 CR,Puntarenas,Puntarenas,82
-CR,Puntarenas,Puntarenas Centro,1
+CR,"Puntarenas, Costa Rica",Puntarenas Centro,1
 CR,San Jose,Ciudad Colon,1
 CR,San Jose,Curridabat,2
 CR,San Jose,Escazu,1
@@ -2560,7 +2564,8 @@ CZ,Kralovehradecky,Valdicke Predmesti,1
 CZ,Moravskoslezsky,Komarov,3
 CZ,Olomoucky Kraj,Hranice 1,1
 CZ,Prague,Prague 4,8
-CZ,Vysocina,Dvorce,1
+CZ,Stredocesky,Vestec,3
+CZ,Vysocina,Kyjov,1
 DE, ,Berlin,1
 DE, ,Solingen,1
 DE, ,Trittau,6
@@ -2571,8 +2576,8 @@ DE,Baden-Wurttemberg,Aichstetten,1
 DE,Baden-Wurttemberg,Albstadt,29
 DE,Baden-Wurttemberg,Appenweier,1
 DE,Baden-Wurttemberg,Aulendorf,1
-DE,Baden-Wurttemberg,Bad Boll,2
-DE,Baden-Wurttemberg,Baden-Baden,127
+DE,Baden-Wurttemberg,Bad Boll,4
+DE,Baden-Wurttemberg,Baden-Baden,129
 DE,Baden-Wurttemberg,Balingen,1
 DE,Baden-Wurttemberg,Berglen,14
 DE,Baden-Wurttemberg,Biberach An Der Ris,9
@@ -2613,7 +2618,7 @@ DE,Baden-Wurttemberg,Lauda-Konigshofen,1
 DE,Baden-Wurttemberg,Lenzkirch,1
 DE,Baden-Wurttemberg,Lobbach,1
 DE,Baden-Wurttemberg,Ludwigsburg,1
-DE,Baden-Wurttemberg,Mannheim,227
+DE,Baden-Wurttemberg,Mannheim,228
 DE,Baden-Wurttemberg,Nehren,1
 DE,Baden-Wurttemberg,Neuhausen ob Eck,5
 DE,Baden-Wurttemberg,Niefern-Oschelbronn,1
@@ -2797,7 +2802,7 @@ DE,Bayern,M¿nchen,5
 DE,Bayern,Stockstadt A. Main,1
 DE,Bayern,Wernberg-k¿blitz,1
 DE,Bayern,Wurzburg,1
-DE,Berlin,Berlin,118
+DE,Berlin,Berlin,123
 DE,Brandenburg,Neuenhagen,2
 DE,Brandenburg,Oranienburg,3
 DE,Brandenburg,Rathenow,1
@@ -2812,7 +2817,7 @@ DE,DE-NOTA,Nordlingen,1
 DE,FN,Eltville Martinsthal,1
 DE,FN,Hamburg,1
 DE,FN,Markt Schwaben,1
-DE,Hamburg,Hamburg,176
+DE,Hamburg,Hamburg,180
 DE,Hassia,Bad Wildungen,1
 DE,Hassia,Bensheim,16
 DE,Hassia,Burgwald,1
@@ -2820,7 +2825,7 @@ DE,Hassia,Darmstadt,50
 DE,Hassia,Dieburg,1
 DE,Hassia,Einhausen,1
 DE,Hassia,Eiterfeld,1
-DE,Hassia,Frankfurt Am Main,52
+DE,Hassia,Frankfurt Am Main,53
 DE,Hassia,Fulda,1
 DE,Hassia,Gelnhausen,1
 DE,Hassia,Gernsheim,2
@@ -2927,6 +2932,7 @@ DE,Lower Saxony,Wolfenbuttel,3
 DE,Lower Saxony,Wolfsburg,2
 DE,Lower Saxony,Zeven,2
 DE,Mecklenburg-Western-Pommerania,Bobitz,1
+DE,Mecklenburg-Western-Pommerania,Boizenburg,3
 DE,Mecklenburg-Western-Pommerania,Dummer,6
 DE,Mecklenburg-Western-Pommerania,Dummerstorf,1
 DE,Mecklenburg-Western-Pommerania,"Greifswald, Hansestadt",2
@@ -2958,7 +2964,7 @@ DE,Nordrhein-westfalen,Leverkusen,1
 DE,Nordrhein-westfalen,Moers,1
 DE,Nordrhein-westfalen,Witten,4
 DE,Nordrhein-westfalen,W¿lfrath,2
-DE,North Rhine-Westphalia,Aachen,15
+DE,North Rhine-Westphalia,Aachen,16
 DE,North Rhine-Westphalia,Attendorn,1
 DE,North Rhine-Westphalia,Augustdorf,1
 DE,North Rhine-Westphalia,Bergisch Gladbach,3
@@ -3129,22 +3135,22 @@ DK,DK-025,Faxe,24
 DK,DK-080,Norager,1
 DK,DK-NOTA,Faxe,1
 DK,FN,Taastrup,1
-DK,Hovedstaden,Bagsvard,88
+DK,Hovedstaden,Bagsvard,89
 DK,Hovedstaden,Birkerod,1
 DK,Hovedstaden,Copenhagen V,4
-DK,Hovedstaden,Gentofte,6
+DK,Hovedstaden,Gentofte,7
 DK,Hovedstaden,Gorlose,1
 DK,Hovedstaden,Hellerup,1
 DK,Hovedstaden,Herlev,2
 DK,Hovedstaden,Hillerod,4
 DK,Hovedstaden,Horsholm,4
 DK,Hovedstaden,Humlebak,2
-DK,Hovedstaden,Hvidovre,1
+DK,Hovedstaden,Hvidovre,2
 DK,Hovedstaden,Kgs. Lyngby,27
 DK,Hovedstaden,Malov,1
 DK,Hovedstaden,Rungsted Kyst,1
 DK,Hovedstaden,Slangerup,1
-DK,Hovedstaden,Soborg,1
+DK,Hovedstaden,Soborg,2
 DK,Midtjylland,AABYHOJ,3
 DK,Midtjylland,Aarhus C,2
 DK,Midtjylland,Farup,1
@@ -3171,6 +3177,7 @@ DK,Syddanmark,Vejle,4
 DK,Syddanmark,Vejle Ost,2
 DK,Syddanmark,Vojens,1
 DO,11201,Santo Domingo,3
+DO,Barahona,Paraiso,3
 DO,Cibao Central,La Vega,39
 DO,DO-01,SANTO DOMINGO,6
 DO,DO-01,Santo Domingo,22
@@ -3188,7 +3195,7 @@ DO,DO-25,santiago,4
 DO,DO-30,Hato Mayor Del Rey,1
 DO,DO-32,Boca Chica,2
 DO,Del Valle,San Juan de La Maguana,2
-DO,Distrito Nacional,Santo Domingo De Guzman,56
+DO,Distrito Nacional,Santo Domingo De Guzman,53
 DO,Distrito Nacional,"Santo Domingo, D.N.",27
 DO,Distrito Nacional,"Santo Domingo, D.n.",16
 DO,Distrito Nacional,"Villa Mella, Santo Domingo",25
@@ -3208,7 +3215,6 @@ DO,La Vega,"Jima Abajo, La Vega",2
 DO,La Vega,La Vega,22
 DO,La Vega,Las Cabuyas,48
 DO,La Vega,Sabaneta,22
-DO,Monsenor Nouel,Bonao,2
 DO,NJ,BANI,1
 DO,Norcentral,Santiago,4
 DO,Norcentral,Santiago de Los Caballeros,3
@@ -3221,7 +3227,7 @@ DO,Rep,San Juan De La Maguana,2
 DO,San Cristobal,Bajos De Haina,20
 DO,San Cristobal,Basima,3
 DO,San Cristobal,Cambita Garabitos,2
-DO,San Cristobal,San Cristobal,22
+DO,San Cristobal,San Cristobal,23
 DO,San Cristobal,San Gregorio De Nigua,1
 DO,San Cristobal,Villa Altagracia,2
 DO,San Jose De Ocoa,San Jose De Ocoa,7
@@ -3266,7 +3272,7 @@ EC,Esmeraldas,Eloy Alfaro,1
 EC,Esmeraldas,Esmeralda,1
 EC,Esmeraldas,Esmeraldas,15
 EC,Esmeraldas,Esmeraldas Luis Tello (Las Palmas),1
-EC,Guayas,Guayaquil,192
+EC,Guayas,Guayaquil,193
 EC,Guayas,Guayquil,7
 EC,Guayas,Pascuales,3
 EC,Guayas,Playas,3
@@ -3290,6 +3296,7 @@ EC,Pichincha,Santo Domingo,4
 EC,Pichincha,Tababela,1
 EC,Santa Elena,Chanduy,1
 EC,Santa Elena,El Malecon De Santa Rosa Salinas,4
+EC,Santo Domingo De Los Tsachilas,Santo Domingo,1
 EC,Santo Domingo de los Tsachilas,Santo Domingo De Los Tsachilas,1
 EC,Tungurahua,Ambato,12
 EC,Tungurahua,Santiago De Pillaro,1
@@ -3352,7 +3359,7 @@ EG,Fayoum,Al Fayoum,9
 EG,Fayum,El Fayum,2
 EG,Gharbia,El Mahalla El Kobra,1
 EG,Gharbia,Tanta,4
-EG,Menofia,Sadat City,5
+EG,Menofia,Sadat City,6
 EG,None of the above,Alexandria,4
 EG,None of the above,Cairo,1
 EG,None of the above,Suez,2
@@ -3375,7 +3382,7 @@ ES,Alicante,Elche,1
 ES,Alicante,Elx,1
 ES,Alicante,Ibi,2
 ES,Alicante,Jijona,10
-ES,Alicante,Novelda,41
+ES,Alicante,Novelda,43
 ES,Alicante,Onil,1
 ES,Alicante,Orihuela,1
 ES,Alicante,Partida Collado Novelda,1
@@ -3395,7 +3402,7 @@ ES,Barcelona,Abrera,5
 ES,Barcelona,Argentona,1
 ES,Barcelona,Barbera Del Valles,3
 ES,Barcelona,Barcelona,181
-ES,Barcelona,Bigues I Riells,4
+ES,Barcelona,Bigues I Riells Del Fai,4
 ES,Barcelona,Castellbisbal,1
 ES,Barcelona,Castelldefels,1
 ES,Barcelona,Cerdanyola Del Valles,1
@@ -3498,6 +3505,7 @@ ES,Lleida,Juneda,3
 ES,Lleida,Lleida,34
 ES,Lleida,Mollerussa,2
 ES,Lleida,Os De Balaguer,2
+ES,Lleida,Rossello,1
 ES,Lleida,Tarrega,9
 ES,Lugo,Abadin,1
 ES,Lugo,Burela,2
@@ -3575,7 +3583,8 @@ ES,Valencia,Mislata,1
 ES,Valencia,Moncada,4
 ES,Valencia,Paterna,2
 ES,Valencia,Rafelbunol,34
-ES,Valencia,Valencia,10
+ES,Valencia,Valencia,31
+ES,Valencia ,Paterna,97
 ES,Valladolid,Arroyo De La Encomienda,1
 ES,Valladolid,Boecillo,5
 ES,Valladolid,Pollos,2
@@ -3642,7 +3651,7 @@ FR,Alpes-de-Haute-Provence,Manosque,2
 FR,Alpes-maritimes,Grasse,1
 FR,Alpes-maritimes,Sophia Antipolis Cedex,1
 FR,Alsace,Erstein,3
-FR,Alsace,Vendenheim,1
+FR,Alsace,Vendenheim,2
 FR,Ardeche,Annonay,4
 FR,Ardeche,Aubenas,11
 FR,Ardeche,Lablachere,1
@@ -3678,8 +3687,8 @@ FR,Bourgogne,Nuits St Georges,1
 FR,Bourgogne,Raveau,2
 FR,Bretagne,Guipry,2
 FR,Calvados,Conde Sur Noireau,1
-FR,Calvados,Herouville St Clair,1
 FR,Calvados,Herouville St Clair CEDEX,2
+FR,Calvados,Herouville-Saint-Clair,1
 FR,Calvados,Isigny-Sur-Mer,2
 FR,Calvados,Rots,1
 FR,Cantal,Aurillac,2
@@ -3708,6 +3717,7 @@ FR,Dordogne,St Astier,2
 FR,Doubs,Bannans,1
 FR,Doubs,Besancon,3
 FR,Doubs,Granges Narboz,2
+FR,Doubs,Les Monts-Ronds,2
 FR,Drome,Anneyron,7
 FR,Drome,Bourg les Valence CEDEX,1
 FR,Drome,Chateauneuf-Sur-Isere,60
@@ -3740,7 +3750,6 @@ FR,Finistere,Plouvien,1
 FR,Finistere,Quimper,45
 FR,Finistere,St Thonan,10
 FR,Franche-Comte,Aboncourt-Gesincourt,5
-FR,Franche-Comte,Merey-Sous-Montrond,2
 FR,Gard,Aramon,4
 FR,Gironde,Bordeaux,16
 FR,Gironde,Carbon Blanc CEDEX,10
@@ -3793,7 +3802,7 @@ FR,Herault,Avene,6
 FR,Herault,Candillargues,3
 FR,Herault,Castelnau Le Lez,2
 FR,Herault,Clermont L'Herault,1
-FR,Herault,Montpellier,4
+FR,Herault,Montpellier,6
 FR,Herault,St Jean de Vedas,2
 FR,Ile-de-France,Paris,3
 FR,Ille Et Vilaine,Dol de Bretagne,6
@@ -3881,11 +3890,11 @@ FR,Nord 59,Caudry,1
 FR,Nouvelle-Caledonie,Noumea,1
 FR,Oise,Beauvais,1
 FR,Oise,Chamant,4
-FR,Oise,Compiegne,3
+FR,Oise,Compiegne,4
 FR,Oise,La Neuville en Hez,1
 FR,Orne,Berd Huis,2
 FR,Orne,Zi La Chapelle D' Andaine,1
-FR,Paris,Paris,205
+FR,Paris,Paris,206
 FR,Paris,Paris CEDEX 08,1
 FR,Paris,Paris CEDEX 14,1
 FR,Paris,Paris Cedex 14,1
@@ -3927,7 +3936,7 @@ FR,Rhone,Villeurbanne,3
 FR,Rhone-Alpes,Miribel Cedex,1
 FR,Sarthe,Vibraye,1
 FR,Savoie,Avressieux,7
-FR,Savoy,Pringy,120
+FR,Savoy,Pringy,119
 FR,Seine Et Marne,Coulommiers,3
 FR,Seine Et Marne,Croissy Beaubourg,2
 FR,Seine Et Marne,Mitry Mory,1
@@ -3984,15 +3993,15 @@ GB,Avon,Winscombe,1
 GB,Ayrshire,Maybole,1
 GB,BBD,Blackburn,4
 GB,BEN,London,4
-GB,BIR,Birmingham,21
+GB,BIR,Birmingham,22
 GB,BKM,Buckingham,6
 GB,BKM,Slough,1
 GB,BNE,London,2
 GB,BNH,Brighton,2
-GB,BOL,Bolton,1
+GB,BOL,Bolton,2
 GB,BST,Bristol,1
 GB,Berkshire,Bracknell,4
-GB,Berkshire,Maidenhead,6
+GB,Berkshire,Maidenhead,7
 GB,Berkshire,Newbury,16
 GB,Berkshire,Reading,1
 GB,Berkshire,Slough,1
@@ -4003,9 +4012,9 @@ GB,Bst,Bristol,1
 GB,Buckinghamshire,Aylesbury,1
 GB,Buckinghamshire,Marlow,14
 GB,Buckinghamshire,Milton Keynes,5
-GB,CAM,Cambridge,3
+GB,CAM,Cambridge,4
 GB,CAM,Peterborough,1
-GB,CMD,London,15
+GB,CMD,London,16
 GB,COV,Coventry,1
 GB,CRF,Cardiff,1
 GB,Cambridgeshire,Ely,3
@@ -4027,7 +4036,8 @@ GB,Cleveland,Stockton-On-Tees,1
 GB,Clwyd,Abergele,1
 GB,Clwyd,Wrexham,19
 GB,Cornwall,Liskeard,1
-GB,County Antrim,Crumlin,4
+GB,Cornwall,Saltash,1
+GB,County Antrim,Crumlin,5
 GB,County Armagh,Craigavon,15
 GB,County Down,Downpatrick,6
 GB,County Down,Newry,1
@@ -4035,7 +4045,7 @@ GB,County Durham,Barnard Castle,5
 GB,County Durham,Chester Le Street,3
 GB,County Durham,Peterlee,1
 GB,County Tyrone,Omagh,1
-GB,Cumbria,Kendal,6
+GB,Cumbria,Kendal,7
 GB,Cumbria,Penrith,2
 GB,Cumbria,Workington,2
 GB,DER,Derby,1
@@ -4065,11 +4075,13 @@ GB,Dyfed,Whitland,3
 GB,EAL,Greenford,39
 GB,EAL,London,5
 GB,EDH,Edinburgh,3
+GB,ENF,London,2
 GB,ERY,Hessle,1
 GB,ESS,Colchester,2
 GB,East Sussex,Eastbourne,4
 GB,East Sussex,Hove,4
 GB,East Sussex,Rye,4
+GB,East Sussex,St. Leonards-On-Sea,1
 GB,East Sussex,Wadhurst,17
 GB,Edh,Edinburgh,1
 GB,Ery,Beverley,1
@@ -4112,7 +4124,7 @@ GB,HAM,Southampton,114
 GB,HAV,Romford,2
 GB,HMF,London,10
 GB,HRT,Watford,8
-GB,HRY,London,1
+GB,HRY,London,6
 GB,Hampshire,Aldershot,1
 GB,Hampshire,Alton,4
 GB,Hampshire,Andover,5
@@ -4159,7 +4171,7 @@ GB,ISL,London,2
 GB,Isl,London,1
 GB,Isle of Wight,Cowes,10
 GB,KEC,London,3
-GB,KHL,Hull,20
+GB,KHL,Hull,21
 GB,KHL,Hull East Riding of Yorkshire,1
 GB,KT2 7LY,Surrey,1
 GB,Kent,Ashford,4
@@ -4186,7 +4198,6 @@ GB,Kent,Tonbridge,1
 GB,Kent,Tunbridge Wells,8
 GB,Kent,Westgate-on-Sea,1
 GB,LAN,Chorley,2
-GB,LAN,Leyland,1
 GB,LAN,Preston,2
 GB,LIN,Lincoln,6
 GB,LIV,Liverpool,4
@@ -4197,7 +4208,6 @@ GB,Lanarkshire,Wishaw,1
 GB,Lancashire,Accrington,1
 GB,Lancashire,Blackburn,8
 GB,Lancashire,Blackpool,1
-GB,Lancashire,Bolton,1
 GB,Lancashire,Burnley,1
 GB,Lancashire,Clitheroe,2
 GB,Lancashire,Fleetwood,1
@@ -4221,17 +4231,17 @@ GB,Lincolnshire,Spalding,1
 GB,Liverpool,Liverpool,2
 GB,Luton,Great Marlings,2
 GB,MAN,Manchester,16
-GB,MIK,Milton Keynes,4
+GB,MIK,Milton Keynes,5
 GB,Merseyside,Moreton,1
 GB,Merseyside,Southport,5
 GB,Merseyside,St. HELENS,1
 GB,Merseyside,St. Helen'S,1
 GB,Mid Glamorgan,Bridgend,2
 GB,Mid Glamorgan,Porth,6
-GB,Middlesex,Brentford,32
+GB,Middlesex,Brentford,33
 GB,Middlesex,Edgware,1
 GB,Middlesex,Enfield,54
-GB,Middlesex,Feltham,8
+GB,Middlesex,Feltham,11
 GB,Middlesex,Hampton,6
 GB,Middlesex,Harrow,3
 GB,Middlesex,Hayes,8
@@ -4242,6 +4252,7 @@ GB,Middlesex,Shepperton,1
 GB,Middlesex,Southall,6
 GB,Middlesex,Stanmore,22
 GB,Middlesex,Uxbridge,5
+GB,Middlesex,West Drayton,1
 GB,Midlothian,Musselburgh,1
 GB,Midlothian,Penicuik,1
 GB,Morayshire,Fochabers,2
@@ -4293,7 +4304,7 @@ GB,"Renfrewshire, Scotland",Inchinnan,6
 GB,Rhondda Cynon,Pontyclun,3
 GB,SFK,Ipswich,2
 GB,SGC,Bristol,6
-GB,SHF,Sheffield,5
+GB,SHF,Sheffield,7
 GB,SLF,Manchester,1
 GB,SLG,Slough,18
 GB,SLK,Glasgow,2
@@ -4341,6 +4352,7 @@ GB,Surrey,Guildford,11
 GB,Surrey,Guilford,1
 GB,Surrey,Kingston Upon Thames,25
 GB,Surrey,Leatherhead,7
+GB,Surrey,Mitcham,1
 GB,Surrey,Oxted,1
 GB,Surrey,Reigate,2
 GB,Surrey,South Croydon,3
@@ -4354,12 +4366,12 @@ GB,TRF,Altrincham,1
 GB,TRF,Manchester,1
 GB,Tyne and Wear,South Shields,1
 GB,Tyne and Wear,Washington,3
-GB,United Kingdom,Birmingham,6
+GB,United Kingdom,Birmingham,11
 GB,W Glam,Port Talbot,4
 GB,WBK,Reading,1
 GB,WFT,London,7
 GB,WND,London,1
-GB,WRT,Warrington,3
+GB,WRT,Warrington,4
 GB,WSM,London,122
 GB,Wales,Mid Glamorgan (county),4
 GB,Wales,Swansea,1
@@ -4446,7 +4458,11 @@ GR,Athina,Athens,7
 GR,Athina,Ilion,4
 GR,Athina,Metamorfosi,1
 GR,Athina,Pallini,1
+GR,Attica,Argiroupoli,7
 GR,Attica,Athens,4
+GR,Attica,Drapetsona,1
+GR,Attica,Kifissia,2
+GR,Attica,Pireas,1
 GR,Attiki,Koropi,1
 GR,Attiki - Administrative Region,Athens,2
 GR,Attiki - Department,Peristeri,3
@@ -4472,7 +4488,7 @@ GR,Lakonias,Sparti,1
 GR,Larisas,Velestino,2
 GR,Messinias,Kalamata,4
 GR,None of the above,Athens,1
-GR,Peiraias,Peiraias,2
+GR,Peiraias,Peiraias,1
 GR,Rethymnis,Rethymno,2
 GR,Thessalonikis,Galini Thessalonikis,5
 GR,Thessalonikis,Lagkadas,2
@@ -4488,14 +4504,14 @@ GT,Chimaltenango,Tecpan,6
 GT,Chimaltenango,Tecpan Guatemala,6
 GT,El Progeso,Sanarate City,2
 GT,El Progreso,Sanarate,1
-GT,Escuintla,Escuintla,5
+GT,Escuintla,Escuintla,6
 GT,Escuintla,San Jose,3
 GT,Escuintla,Tiquisate,3
 GT,GUATEMALA,DEL CHOACORRAL,10
 GT,Guatemala,Amatitlan,9
 GT,Guatemala,Escouintla,1
 GT,Guatemala,Fraijanes,7
-GT,Guatemala,Guatemala,317
+GT,Guatemala,Guatemala,309
 GT,Guatemala,Guatemala City,4
 GT,Guatemala,Jalapa,2
 GT,Guatemala,La Libertad,2
@@ -4504,7 +4520,7 @@ GT,Guatemala,Palencia,1
 GT,Guatemala,"Retalhuleu, (Reu)",1
 GT,Guatemala,Sacatepequez,2
 GT,Guatemala,San Miguel Petapa,1
-GT,Guatemala,Sta Cruz del Quiche,5
+GT,Guatemala,Sta Cruz del Quiche,7
 GT,Guatemala,Villa Canales,1
 GT,Guatemala,Villa Nueva,16
 GT,"Guatemala, Guatemala","Guatemala, Guatemala",35
@@ -4557,7 +4573,7 @@ HK,Hong Kong Island,Kennedy Town,4
 HK,Hong Kong Island,North Point,14
 HK,Hong Kong Island,Quarry Bay,1
 HK,Hong Kong Island,Sai Wan Ho,1
-HK,Hong Kong Island,Sai Ying Pun,142
+HK,Hong Kong Island,Sai Ying Pun,144
 HK,Hong Kong Island,Shau Kei Wan,1
 HK,Hong Kong Island,Shek O,3
 HK,Hong Kong Island,Sheung Wan,125
@@ -4565,19 +4581,19 @@ HK,Hong Kong Island,Wan Chai,11
 HK,Hong Kong Island,Wong Chuk Hang,2
 HK,KLN,Hong Kong,1
 HK,KWAI CHUNG,KWAI CHUNG,1
-HK,Kowloon,Cheung Sha Wan,18
+HK,Kowloon,Cheung Sha Wan,19
 HK,Kowloon,Hung Hom,93
 HK,Kowloon,"Hung Hom, Kowloon",7
 HK,Kowloon,Kowloon Bay,28
 HK,Kowloon,Kowloon City,1
-HK,Kowloon,Kwun Tong,31
+HK,Kowloon,Kwun Tong,29
 HK,Kowloon,Mong Kok,34
 HK,Kowloon,Ngau Tau Kok,4
 HK,Kowloon,San Po Kong,39
-HK,Kowloon,Sham Shui Po,5
+HK,Kowloon,Sham Shui Po,8
 HK,Kowloon,Tai Kok Tsui,1
 HK,Kowloon,To Kwa Wan,2
-HK,Kowloon,Tsim Sha Tsui,89
+HK,Kowloon,Tsim Sha Tsui,88
 HK,Kowloon,Wong Tai Sin,1
 HK,Kowloon,Yau Ma Tei,11
 HK,N.T.,Tuen Mun,1
@@ -4594,7 +4610,7 @@ HK,New Territories,Yuen Long,8
 HK,New Territories (N.T.),Sha Tin,2
 HK,New Territory (NT),Kwai Chung,3
 HK,Not Applicable,Fanling,1
-HK,Not Applicable,Hong Kong,6
+HK,Not Applicable,Hong Kong,8
 HK,Not Applicable,Hongkong,18
 HK,Not Applicable,Kowloon,25
 HK,Not Applicable,Shatin,1
@@ -4610,7 +4626,7 @@ HN,Copan,La Entrada,1
 HN,Cortes,Choloma,13
 HN,Cortes,Cofradia,5
 HN,Cortes,Rio Lindo,2
-HN,Cortes,San Pedro Sula,144
+HN,Cortes,San Pedro Sula,149
 HN,Francisco Morazan,Comayaguela,4
 HN,Francisco Morazan,Sabanagrande,4
 HN,Francisco Morazan,Santa Ana,1
@@ -4630,6 +4646,7 @@ HN,UNK,Unk,3
 HN,Unknown,Unknown,3
 HN,Yoro,El Progreso,18
 HR,Grad Zagreb,Zagreb,11
+HR,HR-NOTA,Osijek,1
 HR,Istarska,Porec,1
 HR,Koprivnicko-Krizevacka,Koprivnica,1
 HR,Osjecko-Baranjska,Darda,3
@@ -4646,7 +4663,7 @@ HT,HT-OU,Port-au-Prince,3
 HT,None of the above,"Croix-des-Missions, Port-Au-Prince",2
 HT,None of the above,Port Au Prince,9
 HT,Nord ouest,Port-De-Paix,1
-HT,Ouest,Port-Au-Prince,1
+HT,Ouest,Delmas,1
 HT,Ouest,Port-au-Prince,1
 HT,ouest,Carrefour,2
 HT,ouest,Delmas,1
@@ -4685,6 +4702,7 @@ HU,Vas,Kormend,1
 HU,Veszprem,Veszprem,14
 ID,11830,West Jakarta,2
 ID,BARAT,Barat,3
+ID,Bali,Badung,2
 ID,Bali,DENPASAR,21
 ID,Bali,Denpasar,123
 ID,Bali,Denpasar Selatan,7
@@ -4699,6 +4717,7 @@ ID,Barat,Barat,1
 ID,Barat,Kalimantan Barat,1
 ID,Beutung,"Dangkal Pinang, Bangka",1
 ID,DKI Jakarta,Jakarta Barat,9
+ID,Dki Jakarta,Jakarta Selatan,14
 ID,EAST JAVA,Mojokerto,1
 ID,East Java,Bondowoso,1
 ID,East Java,Gresik,25
@@ -4717,11 +4736,11 @@ ID,JAKARTA_INDONESIA,JAKARTA SELATAN,2
 ID,JAWA BARAT,DEPOK,6
 ID,Jabotabek,BEKASI,1
 ID,Jabotabek,Bekasi,426
-ID,Jabotabek,Bogor,27
-ID,Jabotabek,Ciputat,2
-ID,Jabotabek,Jakarta,281
+ID,Jabotabek,Bogor,28
+ID,Jabotabek,Jakarta,266
 ID,Jabotabek,Jakarta Selatan,3
 ID,Jabotabek,North Jakarta,15
+ID,Jabotabek,South Tangerang,1
 ID,Jabotabek,Tangerang,39
 ID,Jabotabek,Tanggerang,5
 ID,Jakarta,Jakarta,38
@@ -4734,7 +4753,7 @@ ID,Jakarta Utara,Kelapa Gading,4
 ID,Jakarta raya,Jakarta Utara,1
 ID,Jawa,Surabaya,1
 ID,Jawa,timur,1
-ID,Jawa Barat,Bandung,26
+ID,Jawa Barat,Bandung,33
 ID,Jawa Barat,Bekasi,20
 ID,Jawa Barat,Bekasi Barat,15
 ID,Jawa Barat,Cirebon,48
@@ -4763,20 +4782,23 @@ ID,Jawa Timur,Sidoarjo,61
 ID,Jawa Timur,Situbondo,2
 ID,Jawa Timur,Surabaya,159
 ID,Jawa Timur,Tuban,9
-ID,Jawa barat,Karawang,351
+ID,Jawa barat,Cimahi,1
+ID,Jawa barat,Karawang,353
 ID,KALIMANTAN UTARA,TARAKAN BARAT,1
 ID,Kalimantan,Tarakan,1
-ID,Kalimantan Barat,Pontianak,281
+ID,Kalimantan Barat,Pontianak,279
 ID,Kalimantan Barat,Putussibau,9
 ID,Kalimantan Timur,Balikpapan,1
 ID,Kalimantan Timur,Samarinda,1
-ID,Kepulauan Riau,Batam,3
+ID,Kalimantan barat,Pontianak,1
+ID,Kepulauan Riau,Batam,6
 ID,Lampung,Bandar Lampung,7
 ID,Lampung,Metro,12
 ID,Lampung,Tanjung Bintang,11
 ID,MEDAN,North Sumatera,3
 ID,Maluku,Amboina,3
 ID,Maluku,Ambon,4
+ID,None of the above,Jakarta Utara Jakarta,1
 ID,None of the above,Pontianak,30
 ID,North Sulawesi,Bitung,9
 ID,SOEKARNO-HATTA,Tangerang-Banten,1
@@ -4882,7 +4904,7 @@ IL,HEFA,Gan Shmu'El,22
 IL,HOD ASHARON,Hod ha-Sharon,3
 IL,Ha Zafon,Acre,1
 IL,Ha Zafon,Adirim,2
-IL,Ha Zafon,Caesarea,3
+IL,Ha Zafon,Caesarea,4
 IL,Ha Zafon,Migdal Ha-Emek,3
 IL,Ha Zafon,Nazareth,2
 IL,Ha Zafon,Yokne'Am Ilit,6
@@ -4926,28 +4948,30 @@ IL,None of the above,Yavne,3
 IL,Northern,GAATON,3
 IL,Northern,Haifa,2
 IL,Tel-Aviv,Or Yehuda,1
-IL,West Bank,Mishor Adumim,10
+IL,West Bank,Mishor Adumim,11
 IN,Ahmedabad,Amraiwadi,29
 IN,Ahmedabad,Vatva,1
 IN,Anand - Gujarat,Khambhat,4
+IN,Andhra Pradesh,Alladapalem,2
 IN,Andhra Pradesh,Anakapalli,1
 IN,Andhra Pradesh,Ananthapur,2
-IN,Andhra Pradesh,BHIMAVARAM,9
 IN,Andhra Pradesh,Banjara Hills,14
 IN,Andhra Pradesh,Bapulapadu,1
 IN,Andhra Pradesh,Bharinikam,1
-IN,Andhra Pradesh,Bhimavaram,127
+IN,Andhra Pradesh,Bhimavaram,126
 IN,Andhra Pradesh,"Bhimavaram, West Godavari",91
 IN,Andhra Pradesh,Bollaram,1
+IN,Andhra Pradesh,Chinateenarla,1
 IN,Andhra Pradesh,Chittoor,2
 IN,Andhra Pradesh,Damavaram,1
+IN,Andhra Pradesh,Devunipalavalasa,3
 IN,Andhra Pradesh,Dirusumarru,13
 IN,Andhra Pradesh,East Godavari,7
 IN,Andhra Pradesh,Enamadala,1
 IN,Andhra Pradesh,Gajuwaka,5
 IN,Andhra Pradesh,Gavinivari Palem,39
 IN,Andhra Pradesh,Gopalapuram,9
-IN,Andhra Pradesh,Hyderabad,48
+IN,Andhra Pradesh,Hyderabad,46
 IN,Andhra Pradesh,"Hyderabad, AP",3
 IN,Andhra Pradesh,Iragavaram,3
 IN,Andhra Pradesh,Irugulam Post,65
@@ -4955,7 +4979,7 @@ IN,Andhra Pradesh,J Thimmapuram,7
 IN,Andhra Pradesh,Jeedimetla,9
 IN,Andhra Pradesh,Kaikaluru Mandal - Khrisna District,2
 IN,Andhra Pradesh,Kakinada,4
-IN,Andhra Pradesh,Kalikivaya,4
+IN,Andhra Pradesh,Kalikivaya,1
 IN,Andhra Pradesh,Krishna District,30
 IN,Andhra Pradesh,Kurumaddali Village,1
 IN,Andhra Pradesh,Mambattu,1
@@ -4970,10 +4994,10 @@ IN,Andhra Pradesh,Pamarru Mandal,2
 IN,Andhra Pradesh,Panasapadu,3
 IN,Andhra Pradesh,Paradesipalem,17
 IN,Andhra Pradesh,Poranki,27
-IN,Andhra Pradesh,Prakasam District,5
-IN,Andhra Pradesh,"Ranasthalam Mandal, Srikakulam",3
+IN,Andhra Pradesh,Prakasam District,8
 IN,Andhra Pradesh,Rangareddy,1
 IN,Andhra Pradesh,S.P.S.R NELLORE,14
+IN,Andhra Pradesh,Seesali,10
 IN,Andhra Pradesh,Srikakulam,2
 IN,Andhra Pradesh,Srikakulam District,1
 IN,Andhra Pradesh,Tadepalle,3
@@ -4981,49 +5005,51 @@ IN,Andhra Pradesh,VISAKHAPATNAM,2
 IN,Andhra Pradesh,VISKAKHAPATNAM,1
 IN,Andhra Pradesh,Vadlamuru,1
 IN,Andhra Pradesh,Vetapalem,4
-IN,Andhra Pradesh,Vijayawada,16
+IN,Andhra Pradesh,Vijayawada,32
 IN,Andhra Pradesh,Visakhapatnam,14
 IN,Andhra Pradesh,Visakhapatnam District,3
 IN,Andhra Pradesh,Vishakapatnam,5
-IN,Andhra Pradesh,Vizianagaram,2
 IN,Andhra Pradesh,Vizianagaram District,1
-IN,Andhra Pradesh,andhra pradesh,53
+IN,Andhra Pradesh,andhra pradesh,54
 IN,Andhra Pradesh,hyderabad,1
 IN,Andhra Pradesh Andhra Pradesh,Bhimavaram,1
 IN,Andhra pradesh,Visakhapatnam,1
 IN,Assam,Bamun Gaon,2
-IN,Assam,Dist Kamrup,8
+IN,Assam,Dist Kamrup,9
 IN,Assam,Goalpara District,2
 IN,Assam,North Guwahati,5
 IN,Aurangabad,Chitegaon,1
+IN,Baroda,Gorwa,10
 IN,Bengalura,Nelamangala Taluk,2
 IN,Bihar,Charma,1
 IN,Bihar,Mehrauli,1
 IN,Bihar,Patna,7
-IN,Chandigarh,Chandigarh,27
+IN,Chandigarh,Chandigarh,26
 IN,Chennai,Guindy,1
 IN,Chennai,Thiruverkadu ,1
 IN,Chhattisgarh,Raipur,1
 IN,DIST. SOLAN (H.P.),"VILLAGE KATHA, BADDI",2
 IN,Dadra & Nagar Haveli and Daman,Dadra,3
+IN,Dadra And Nagar Haveli,Dadra And Nagar Haveli,1
 IN,Dadra And Nagar Haveli,Silvassa,34
-IN,Dadra and Nagar Haveli,Silvassa,5
+IN,Dadra and Nagar Haveli,Silvassa,6
+IN,Dadra and Nagar Haveli and Dam,Bhimpore,1
+IN,Dadra and Nagar Haveli and Dam,Dabhel,1
 IN,Dadra and Nagar Haveli and Dam,Daman,3
 IN,Dadra and Nagar Haveli and Dam,Silvassa,1
 IN,Daman & Diu,Dabhel Damandabhel Daman,2
 IN,Daman & Diu,Kadiaya,3
 IN,Daman And Diu,Dabhel,1
 IN,Daman And Diu,Daman,15
-IN,Daman and Diu,Daman,4
+IN,Daman and Diu,Daman,2
 IN,Daman and Diu,Village Dhabel,3
 IN,Dehradun,Ultarakhand,1
 IN,Dehradun,Uttarakhand,7
-IN,Delhi,Delhi,223
-IN,Delhi,East Delhi,55
+IN,Delhi,Delhi,230
+IN,Delhi,East Delhi,56
 IN,Delhi,Gurugram,1
-IN,Delhi,New Delhi,594
+IN,Delhi,New Delhi,602
 IN,Delhi,Saket,1
-IN,Delhi,South West Delhi,1
 IN,Dist. Gandhinagar,Ta Kalol,2
 IN,"Dist. Pune, Maharashtra",Pirangut,36
 IN,District Surat,Sub District Mangrol,1
@@ -5035,7 +5061,7 @@ IN,GIDC Metoda,Rajkot,9
 IN,GJ,Nadiad,1
 IN,GUJ,Munjmahuda Vadodara,1
 IN,GUJARAT,Ahmedabad,4
-IN,Goa,Bicholim,103
+IN,Goa,Bicholim,108
 IN,Goa,Colvale,3
 IN,Goa,Kundaim,1
 IN,Goa,Mapusa,2
@@ -5048,21 +5074,21 @@ IN,Goa,Verna,31
 IN,Goa,Xelpem,5
 IN,Gohad ,Gurikha,2
 IN,Gujarat,AHMEDABAD,135
-IN,Gujarat,Adbalka,1
 IN,Gujarat,Ahemedabad,1
-IN,Gujarat,Ahmedabad,346
+IN,Gujarat,Ahmedabad,349
 IN,Gujarat,"Ajarpura, Anand",114
 IN,Gujarat,Amreli,1
-IN,Gujarat,Anand,106
+IN,Gujarat,Anand,115
 IN,Gujarat,Anklav,6
 IN,Gujarat,Ankleshwar,42
 IN,Gujarat,Balasinor,2
+IN,Gujarat,Bavla,1
 IN,Gujarat,Bedva,26
-IN,Gujarat,Bharuch,10
+IN,Gujarat,Bharuch,11
 IN,Gujarat,Bhavnagar,5
 IN,Gujarat,Bhilad,1
 IN,Gujarat,Bhumel,10
-IN,Gujarat,Borsad,11
+IN,Gujarat,Borsad,12
 IN,Gujarat,Brahamanwada,23
 IN,Gujarat,Changodar,241
 IN,Gujarat,"Changodar, AHMEDABAD",58
@@ -5075,21 +5101,21 @@ IN,Gujarat,Dantali,2
 IN,Gujarat,Daskroi,4
 IN,Gujarat,Dharampur,38
 IN,Gujarat,Dharmaji,5
-IN,Gujarat,Dholka,1
+IN,Gujarat,Dholka,3
 IN,Gujarat,District Baroda,1
 IN,Gujarat,GANDHIDHAM,11
 IN,Gujarat,Gandevi,9
-IN,Gujarat,Gandhi Nagar,41
+IN,Gujarat,Gandhi Nagar,45
 IN,Gujarat,Gandhidham,1
 IN,Gujarat,Gandhidham Kachchh,1
 IN,Gujarat,Gandhidham Sub-District,2
 IN,Gujarat,Gandhinagar,3
-IN,Gujarat,Gondal,2
+IN,Gujarat,Gondal,3
 IN,Gujarat,Gopalpura,2
 IN,Gujarat,Gundala,3
-IN,Gujarat,Halol,78
+IN,Gujarat,Halol,80
 IN,Gujarat,Hansapore,1
-IN,Gujarat,Indrad,12
+IN,Gujarat,Indrad,13
 IN,Gujarat,KADI,1
 IN,Gujarat,Kadadara,1
 IN,Gujarat,Kandari,6
@@ -5100,9 +5126,10 @@ IN,Gujarat,Khandheri,2
 IN,Gujarat,Kheda,10
 IN,Gujarat,Kherva,1
 IN,Gujarat,Kuchiyadad,4
+IN,Gujarat,Lodhika,4
 IN,Gujarat,Mahuva,1
 IN,Gujarat,Matoda,1
-IN,Gujarat,Moraiya,10
+IN,Gujarat,Moraiya,6
 IN,Gujarat,"Moraiya, Ahmedabad",3
 IN,Gujarat,Morbi,1
 IN,Gujarat,Mundra,3
@@ -5117,7 +5144,7 @@ IN,Gujarat,Pardi,1
 IN,Gujarat,Patan-Veraval,3
 IN,Gujarat,Pathri,1
 IN,Gujarat,Porbandar,10
-IN,Gujarat,Rajkot,64
+IN,Gujarat,Rajkot,62
 IN,Gujarat,Rakanpur,2
 IN,Gujarat,Sabarkantha,1
 IN,Gujarat,Sachin Surat,1
@@ -5130,30 +5157,32 @@ IN,Gujarat,Shapar,1
 IN,Gujarat,Sidhpur,7
 IN,Gujarat,Sihor,1
 IN,Gujarat,Sisodra Ganesh,3
-IN,Gujarat,Surat,33
+IN,Gujarat,Surat,34
 IN,Gujarat,Tapi,2
 IN,Gujarat,"Taraghadi, Taluka-Padhari, Rajkot",2
 IN,Gujarat,Thasra,70
 IN,Gujarat,Umargam,131
-IN,Gujarat,Unjha,44
+IN,Gujarat,Unjha,46
 IN,Gujarat,Uttarsanda,1
 IN,Gujarat,Vadnagar,1
-IN,Gujarat,Vadodara,90
+IN,Gujarat,Vadodara,82
 IN,Gujarat,"Vadodara, Tal-Savli",24
-IN,Gujarat,Valsad,28
+IN,Gujarat,Vaikunthpura,1
+IN,Gujarat,Valsad,29
 IN,Gujarat,Valsad Dist.,1
 IN,Gujarat,Vapi,13
 IN,Gujarat,Vasad,11
 IN,Gujarat,Veraval,35
 IN,Gujarat,Vyara,26
+IN,Gujarat,Wadhwan,1
 IN,Gujarat,Wadhwancity,1
 IN,Gujarat,Waghodia,1
 IN,Gujrat,Gandhidham,2
 IN,Guwahati,Kamrup Assam,5
 IN,H.P. 17309,Sirmour,4
-IN,Haryana,Abbaspur,1
+IN,Haryana,Abbaspur,2
 IN,Haryana,Ahman,5
-IN,Haryana,Ambala,22
+IN,Haryana,Ambala,23
 IN,Haryana,Andhera,18
 IN,Haryana,Arya Nagar,12
 IN,Haryana,Assandh,3
@@ -5167,31 +5196,31 @@ IN,Haryana,Faridabad,6
 IN,Haryana,Fatehpur,6
 IN,Haryana,GURGAON,1
 IN,Haryana,Gharaunda,2
-IN,Haryana,Gurgaon,168
+IN,Haryana,Gurgaon,160
 IN,Haryana,Gurgram,391
-IN,Haryana,Gurugram,22
+IN,Haryana,Gurugram,29
 IN,Haryana,Hat,1
 IN,Haryana,Imt Manesar,1
 IN,Haryana,Indri,1
 IN,Haryana,Jind,1
 IN,Haryana,Kami,1
-IN,Haryana,Karnal,67
+IN,Haryana,Karnal,69
 IN,Haryana,Kundli,4
 IN,Haryana,Kurali,35
 IN,Haryana,Kutail,1
 IN,Haryana,Morthal Khas,2
 IN,Haryana,Nilokheri,7
 IN,Haryana,Panchkula,1
-IN,Haryana,Panipat,21
+IN,Haryana,Panipat,22
 IN,Haryana,Rai,2
 IN,Haryana,Rewari,1
 IN,Haryana,SALEM,1
 IN,Haryana,SONEPAT,25
-IN,Haryana,Sonepat,81
+IN,Haryana,Sonepat,82
 IN,Haryana,Sonipat,2
 IN,Haryana,Sonipat Sub-District,1
-IN,Haryana,Taraori,1
 IN,Haryana,"Taraori, Karnal",10
+IN,Himachal Pradesh,Abharni,5
 IN,Himachal Pradesh,Ambwala Sainwala,3
 IN,Himachal Pradesh,Baddi,73
 IN,Himachal Pradesh,"Baddi, District Solan",1
@@ -5205,21 +5234,22 @@ IN,Himachal Pradesh,Distt. Solan,1
 IN,Himachal Pradesh,Jhar Majri,20
 IN,Himachal Pradesh,Johron,1
 IN,Himachal Pradesh,Kandla,1
+IN,Himachal Pradesh,Katha,3
 IN,Himachal Pradesh,Malku Majra,9
+IN,Himachal Pradesh,Malpur,2
 IN,Himachal Pradesh,Mank Pur,10
 IN,Himachal Pradesh,Nagrota Bagwan,7
 IN,Himachal Pradesh,Nahan,7
-IN,Himachal Pradesh,Nalagarh,14
+IN,Himachal Pradesh,Nalagarh,13
 IN,Himachal Pradesh,"Nalagarh, Solan",2
-IN,Himachal Pradesh,Ogli,7
 IN,Himachal Pradesh,"P.O. Baddi, Distt. Solan",2
-IN,Himachal Pradesh,Paonta Sahib,1
+IN,Himachal Pradesh,Paonta Sahib,2
 IN,Himachal Pradesh,Rampur Ghat,2
 IN,Himachal Pradesh,Sandholi,1
 IN,Himachal Pradesh,Shubh Khera,1
 IN,Himachal Pradesh,Sirmaur,2
-IN,Himachal Pradesh,Sirmour,1
-IN,Himachal Pradesh,Solan,105
+IN,Himachal Pradesh,Sirmour,8
+IN,Himachal Pradesh,Solan,106
 IN,Himachal Pradesh,"Solan, Nalagarh",1
 IN,Himachal Pradesh,"Tehsil Baddi, District Solan",12
 IN,Himachal Pradesh,"Tehsil, Nalagarh",9
@@ -5227,14 +5257,13 @@ IN,Himachal Pradesh,Tehsil_Nalagarh,5
 IN,IDUKKI Kerala,Thodupuzha,6
 IN,IN-DL,New Delhi,1
 IN,IN-GJ,Ahmedabad,2
-IN,IN-GJ,Anand,5
 IN,IN-GJ,Rajkot,96
 IN,IN-GJ,Vadodara,2
 IN,IN-HR,Gurgaon,1
 IN,IN-NOTA,Goudal,4
 IN,IN-NOTA,Mumbai,2
 IN,IN-TG,HYDERABAD,1
-IN,IN-TG,Hyderabad,9
+IN,IN-TG,Hyderabad,10
 IN,IN-TG,Ranga Reddy,2
 IN,IN-TN,Erode,2
 IN,IN-UL,"Haridwar, Uttarakhand",2
@@ -5250,15 +5279,15 @@ IN,Karnataka,A Upparahalli,2
 IN,Karnataka,Ahobala Agrahara,9
 IN,Karnataka,BANGALORE,1
 IN,Karnataka,BANGALORE NORTH,1
-IN,Karnataka,Bangalore,368
-IN,Karnataka,Bengaluru,52
+IN,Karnataka,Bangalore,369
+IN,Karnataka,Bengaluru,84
 IN,Karnataka,Bidar,2
 IN,Karnataka,Bommasandra,1
 IN,Karnataka,"Chicksugur, Raichur",3
 IN,Karnataka,Jigani,2
 IN,Karnataka,Kaggalahalli,3
 IN,Karnataka,Mangalore,35
-IN,Karnataka,Mysore,22
+IN,Karnataka,Mysore,24
 IN,Karnataka,"Nanjangud, Mysore Dist.",2
 IN,Karnataka,Nelamangala,2
 IN,Karnataka,Tumkar,6
@@ -5296,13 +5325,12 @@ IN,Kerala,Mananthavady,2
 IN,Kerala,Muvattupuzha,18
 IN,Kerala,Muvatupuzha,2
 IN,Kerala,Neelamperoor,1
-IN,Kerala,Nilambur R S,1
+IN,Kerala,Nilambur,1
 IN,Kerala,Palakkad,1
 IN,Kerala,Pallipuram,8
-IN,Kerala,Poochackal Post,18
 IN,Kerala,Puthencruz,1
 IN,Kerala,Puthenkurish,5
-IN,Kerala,Thaikattussery,5
+IN,Kerala,Thaikattussery,23
 IN,Kerala,Thiruvananthapuram,3
 IN,Kerala,Thottackad,4
 IN,Kerala,Thrikkariyoor,2
@@ -5311,22 +5339,23 @@ IN,Kerala,Trivandrum,18
 IN,Kerela,Thrissur,1
 IN,Khopoli - Maharashtra,Raigad,5
 IN,MAHARASHTRA,Parel Mumbai,4
-IN,MAHRASTRA,Mumbai,21
+IN,MAHRASTRA,Mumbai,27
 IN,Madhya Pradesh,Aakya,1
-IN,Madhya Pradesh,Bari,2
+IN,Madhya Pradesh,Ajnod,1
+IN,Madhya Pradesh,Bari,17
 IN,Madhya Pradesh,Baroda Panth,1
 IN,Madhya Pradesh,Bhopal,8
 IN,Madhya Pradesh,Borgaon,1
 IN,Madhya Pradesh,Chhindwara,1
 IN,Madhya Pradesh,Dewas,8
-IN,Madhya Pradesh,Dhar,3
+IN,Madhya Pradesh,Dhar,8
 IN,Madhya Pradesh,Dist. Raisen,5
 IN,Madhya Pradesh,Gwalior,8
 IN,Madhya Pradesh,Indore,53
 IN,Madhya Pradesh,Mandideep,3
 IN,Madhya Pradesh,"Mandideep, Distt. Raisen",5
 IN,Madhya Pradesh,Neemuch,9
-IN,Madhya Pradesh,Pithampur,32
+IN,Madhya Pradesh,Pithampur,30
 IN,Madhya Pradesh,"Pithampur, Dhar",4
 IN,Madhya Pradesh,"Pithampur, District Dhar",3
 IN,Madhya Pradesh,Ratlam,38
@@ -5337,11 +5366,12 @@ IN,Maharashtra,Ahmednagar,1
 IN,Maharashtra,Ambarnath,6
 IN,Maharashtra,Ambernant East,52
 IN,Maharashtra,Ambernath (E),83
+IN,Maharashtra,"Ambernath East, Dist. Thane",1
 IN,Maharashtra,Asangaon,1
 IN,Maharashtra,Aurangabad,26
 IN,Maharashtra,Badlapur,1
 IN,Maharashtra,Bhagpur,3
-IN,Maharashtra,Bhiwandi,15
+IN,Maharashtra,Bhiwandi,16
 IN,Maharashtra,Bhiwandi Thane,4
 IN,Maharashtra,"Bhiwandi, Thane",1
 IN,Maharashtra,Boravade,1
@@ -5355,7 +5385,6 @@ IN,Maharashtra,Dolamba,6
 IN,Maharashtra,Gadadarwadi,1
 IN,Maharashtra,Gumthala,15
 IN,Maharashtra,Hinga,39
-IN,Maharashtra,Hinjewadi,1
 IN,Maharashtra,Ichalkaranji,1
 IN,Maharashtra,Indiranagar,1
 IN,Maharashtra,Jalgaon,3
@@ -5364,7 +5393,7 @@ IN,Maharashtra,"Jogeshwari East, Mumbai",1
 IN,Maharashtra,Karodi,2
 IN,Maharashtra,Khairpada,4
 IN,Maharashtra,Khalapur,72
-IN,Maharashtra,Khandala,34
+IN,Maharashtra,Khandala,36
 IN,Maharashtra,"Khandala, Satara",1
 IN,Maharashtra,"Kolgaon, Palghar",3
 IN,Maharashtra,"Kurkumbh Village, Dist. Pune",7
@@ -5372,32 +5401,33 @@ IN,Maharashtra,Lonavala,1
 IN,Maharashtra,Lonavala - Mawal - Pune,7
 IN,Maharashtra,Mahad,2
 IN,Maharashtra,"Mahad, Raigad",1
+IN,Maharashtra,Maharashtra,1
 IN,Maharashtra,Malegaon,29
-IN,Maharashtra,Mumbai,1590
+IN,Maharashtra,Mumbai,1611
 IN,Maharashtra,Nagpur,23
 IN,Maharashtra,Nalagan,2
-IN,Maharashtra,Nashik,33
-IN,Maharashtra,Nasik,8
-IN,Maharashtra,Navi Mumbai,396
+IN,Maharashtra,Nashik,27
+IN,Maharashtra,Nasik,9
+IN,Maharashtra,Navi Mumbai,408
 IN,Maharashtra,New Vasahat Butibori,2
 IN,Maharashtra,Nigadi T Satara,8
 IN,Maharashtra,Ozar,1
 IN,Maharashtra,Palghar,15
 IN,Maharashtra,Palghar East,6
 IN,Maharashtra,"Panchayat Bhawan, Andheri (E)",1
-IN,Maharashtra,Panvel,19
+IN,Maharashtra,Panvel,24
 IN,Maharashtra,"Panvel, Raigad",2
 IN,Maharashtra,Pirangut,1
 IN,Maharashtra,Pune,468
 IN,Maharashtra,Raigad,3
 IN,Maharashtra,Raigad District,5
-IN,Maharashtra,Ranjnoli,21
+IN,Maharashtra,Ranjnoli,22
 IN,Maharashtra,Ratnagiri,3
 IN,Maharashtra,Sangvi,1
 IN,Maharashtra,Satara,13
 IN,Maharashtra,Shendurjane,6
 IN,Maharashtra,Shiroli,2
-IN,Maharashtra,Sinnar,1
+IN,Maharashtra,Sinnar,9
 IN,Maharashtra,Solapur North,5
 IN,Maharashtra,Sonpur,3
 IN,Maharashtra,THANE (W),1
@@ -5405,21 +5435,21 @@ IN,Maharashtra,Taloja,3
 IN,Maharashtra,"Taloja, Raigad",8
 IN,Maharashtra,Tarapur,2
 IN,Maharashtra,"Tarapur, Thane",1
-IN,Maharashtra,Thane,53
+IN,Maharashtra,Thane,54
 IN,Maharashtra,Ulhas Nagar,2
 IN,Maharashtra,Ulhasnagar,7
 IN,Maharashtra,Undale,2
 IN,Maharashtra,Vasai,7
 IN,Maharashtra,"Vashi, Navi Mumbai",2
 IN,Maharashtra,Wai,5
+IN,Maharashtra,Worli,1
 IN,Maharastra,Mumbai,1
 IN,Naigaon,Juichanora,2
 IN,Namakkal,Pasipuram,1
 IN,Namthang Elaka,South Sikkim,9
 IN,New Delhi,New Delhi,4
 IN,North Goa Goa,Panaji Goa,15
-IN,Odisha,Balasore,6
-IN,Odisha,Baleshwar,2
+IN,Odisha,Balasore,8
 IN,Odisha,Bhubaneswar,2
 IN,Odisha,Chandpur,1
 IN,Odisha,Gopalpur,4
@@ -5431,9 +5461,10 @@ IN,Orissa,Cuttack Sadar,4
 IN,Orissa,Khurda,1
 IN,PALI- Rajasthan,SOJAT,1
 IN,Pondicherry,Pondicherry,4
-IN,Puducherry,Puducherry,15
+IN,Puducherry,Puducherry,9
+IN,Puducherry,Villianur,6
 IN,Punjab,Adnawali,5
-IN,Punjab,Amritsar,98
+IN,Punjab,Amritsar,104
 IN,Punjab,Atari,47
 IN,Punjab,Basarke,13
 IN,Punjab,Bathinda,1
@@ -5460,7 +5491,7 @@ IN,Punjab,S A S Nagar,1
 IN,Punjab,Sbs Nagar,2
 IN,Punjab,Shekhe Pind,4
 IN,Punjab,Tarn Taran,8
-IN,Rajastan,Bikaner,126
+IN,Rajastan,Bikaner,127
 IN,Rajasthan,Aklera,7
 IN,Rajasthan,Alwar,3
 IN,Rajasthan,Bhiwadi,1
@@ -5469,6 +5500,7 @@ IN,Rajasthan,JODHPUR,1
 IN,Rajasthan,Jaipur,77
 IN,Rajasthan,Jodhpur,46
 IN,Rajasthan,"Neemrana, Alwar",1
+IN,Rajasthan,Reengus,3
 IN,Rajasthan,Salawas,4
 IN,Rajasthan,Shahjahanpur,1
 IN,Rajasthan,Sojat,2
@@ -5497,9 +5529,9 @@ IN,Tamil Nadu,"Arni, Tiruvannamalai Dist",1
 IN,Tamil Nadu,Aruppukottai Taluk,1
 IN,Tamil Nadu,Avalpoondurai,1
 IN,Tamil Nadu,Begepalli,8
-IN,Tamil Nadu,Chennai,215
+IN,Tamil Nadu,Chennai,220
 IN,Tamil Nadu,Chinnaobulapuram,1
-IN,Tamil Nadu,Coimbatore,317
+IN,Tamil Nadu,Coimbatore,243
 IN,Tamil Nadu,Coimbatore South,1
 IN,Tamil Nadu,Cuddalore,1
 IN,Tamil Nadu,Devariyambakkam,1
@@ -5508,11 +5540,13 @@ IN,Tamil Nadu,Dharmapuri,1
 IN,Tamil Nadu,Dindigul,6
 IN,Tamil Nadu,Erode,5
 IN,Tamil Nadu,Gerugambakkam,1
+IN,Tamil Nadu,Gonur,2
 IN,Tamil Nadu,Gummidipoondi,38
 IN,Tamil Nadu,Kancheepuram,6
 IN,Tamil Nadu,Kanchipuram,6
 IN,Tamil Nadu,Kandamangalam,1
 IN,Tamil Nadu,Kanyakumari,3
+IN,Tamil Nadu,Keeranatham,1
 IN,Tamil Nadu,Kelambakkam,4
 IN,Tamil Nadu,Kodaikanal,1
 IN,Tamil Nadu,Kovilpatti,1
@@ -5545,10 +5579,10 @@ IN,Tamil Nadu,Tirupur,2
 IN,Tamil Nadu,Trichy,5
 IN,Tamil Nadu,Tuticorin,35
 IN,Tamil Nadu,Unjavelampatti,13
+IN,Tamil Nadu,Vandalur,1
 IN,Tamil Nadu,"Vikkaravandi, Vilupuram",5
 IN,Tamil Nadu,Village Juddi Kalan,2
-IN,Tamil Nadu,Villipathiri,4
-IN,Tamil Nadu,Villiseri,3
+IN,Tamil Nadu,Virudhunagar,4
 IN,Tamilnadu,Orathur Village,1
 IN,Tamilnadu,VIRUDHUNAGAR,79
 IN,Telangana,Annaram,33
@@ -5558,7 +5592,7 @@ IN,Telangana,"Bachupally, Medchal-Malkajgiri Dist",2
 IN,Telangana,Bhuvanagiri District,8
 IN,Telangana,Doultabad,3
 IN,Telangana,HYDERABAD,1
-IN,Telangana,Hyderabad,374
+IN,Telangana,Hyderabad,375
 IN,Telangana,Isnapur,1
 IN,Telangana,Jinnaram,1
 IN,Telangana,"Jinnaram Mandal, Hyderabad",7
@@ -5567,23 +5601,23 @@ IN,Telangana,Karimnagar,1
 IN,Telangana,Mahaboob Nagar,2
 IN,Telangana,Mahabubnagar,2
 IN,Telangana,Mangalpalle; Ranga Reddi Dist,1
-IN,Telangana,Medchal,18
+IN,Telangana,Medchal,22
 IN,Telangana,Medchal-Malkajgiri,12
 IN,Telangana,Nizamabad,11
 IN,Telangana,Pashamylaram,1
 IN,Telangana,"Polepally, Mahaboob Nagar",1
-IN,Telangana,Rangareddy District,5
+IN,Telangana,Rangareddy District,1
 IN,Telangana,Sangareddy,3
 IN,Telangana,Sangareddy District,3
 IN,Telangana,"Sangareddy, Hyderabad",1
-IN,Telangana,Secunderabad,63
+IN,Telangana,Secunderabad,70
 IN,Telangana,Yadadri Bhuvanagiri District,1
 IN,Telegana,Medak,1
 IN,Thiruporur, Alanthur,1
 IN,Tinsukia District,Mumbai,2
 IN,Tq.Gangavati. Dist:Koppal Kama,Karatagi,1
 IN,UNK,Unk,6
-IN,UP,Moradabad,5
+IN,UP,Moradabad,2
 IN,Uharakhand,"Sigaddi Kotdwar, Dist Paurl Garhwal  ",1
 IN,Uttar Pradesh,Adalpur Jogi Siniali,2
 IN,Uttar Pradesh,Allahabad,2
@@ -5597,27 +5631,28 @@ IN,Uttar Pradesh,Dujana,3
 IN,Uttar Pradesh,Firozabad,1
 IN,Uttar Pradesh,"Gajraula, Amroha",8
 IN,Uttar Pradesh,Gautam Budhnagar,2
-IN,Uttar Pradesh,Ghaziabad,52
+IN,Uttar Pradesh,Ghaziabad,50
+IN,Uttar Pradesh,Ghazibad,3
 IN,Uttar Pradesh,Greater Noida,9
 IN,Uttar Pradesh,Greater Noida - Gautam Buddha Naga,35
 IN,Uttar Pradesh,Kanpur,17
 IN,Uttar Pradesh,Karari,2
 IN,Uttar Pradesh,Lucknow,3
+IN,Uttar Pradesh,Moradabad,3
 IN,Uttar Pradesh,Muzaffarnagar,10
 IN,Uttar Pradesh,NOIDA,15
-IN,Uttar Pradesh,Noida,435
+IN,Uttar Pradesh,Noida,447
 IN,Uttar Pradesh,Rudrapur,3
 IN,Uttar Pradesh,SAMBHAL,1
 IN,Uttar Pradesh,Surajpur Industrial Area,5
-IN,Uttar Pradesh (UP),Dadri,9
-IN,Uttarakhand,Bhagwanpur,5
+IN,Uttar Pradesh (UP),Dadri,10
+IN,Uttarakhand,Bhagwanpur,4
 IN,Uttarakhand,Dehradun,1
 IN,Uttarakhand,Distt. Nainital.,1
-IN,Uttarakhand,Hardwar,19
+IN,Uttarakhand,Hardwar,36
 IN,Uttarakhand,Haridwar,272
 IN,Uttarakhand,Kotdwara,1
 IN,Uttarakhand,Raipur,3
-IN,Uttarakhand,Ranipur Range,16
 IN,Uttarakhand,Roorkee,7
 IN,Uttarakhand,Roorkee Sub-District,1
 IN,Uttarakhand,Sitarganj,17
@@ -5631,13 +5666,13 @@ IN,Uttaranchal,Uttarakhand,39
 IN,Vadodara,"Gorwa, Vadodara",1
 IN,Vikhroli,Mumbai,35
 IN,West Bengal,24 Parganas (South),10
-IN,West Bengal,Alipurduar,1
 IN,West Bengal,Dist 24-Parganas Kolkata,3
 IN,West Bengal,Gujrat,5
 IN,West Bengal,Haora,20
 IN,West Bengal,Hooghly,23
+IN,West Bengal,Jaigaon,1
 IN,West Bengal,KOLKATA,2
-IN,West Bengal,Kolkata,127
+IN,West Bengal,Kolkata,130
 IN,West Bengal,Narendrapur,1
 IN,West Bengal,Pantnagar,13
 IN,West Bengal,Ramnagar,1
@@ -5781,7 +5816,7 @@ IT,Caserta,Francolise,1
 IT,Caserta,Grazzanise,4
 IT,Caserta,Teano,2
 IT,Catania,Belpasso,6
-IT,Catania,Bronte,27
+IT,Catania,Bronte,31
 IT,Catania,Mirabella Imbaccari,2
 IT,Catania,San Giovanni La Punta,7
 IT,Catania,Vizzini,2
@@ -5825,7 +5860,6 @@ IT,Cz,Catanzaro,1
 IT,FG,Cerignola,5
 IT,FI,Firenze,2
 IT,FN,Faenza,1
-IT,FN,Naples,1
 IT,FN,Poggio Rusco,3
 IT,Fe,Ostellato,2
 IT,Fermo,Fermo,1
@@ -5888,7 +5922,7 @@ IT,Lecco,Oggiono,1
 IT,Leghorn,Cecina,1
 IT,Liguria,Genova,2
 IT,Lodi,Casaletto Lodigiano,2
-IT,Lodi,Lodi,10
+IT,Lodi,Lodi,11
 IT,Lodi,Massalengo,2
 IT,Lodi,Mulazzano,2
 IT,Lt,Latina,1
@@ -5931,7 +5965,7 @@ IT,Milan,Gorgonzola,20
 IT,Milan,Lacchiarella,4
 IT,Milan,Melegnano,2
 IT,Milan,Melzo,18
-IT,Milan,Milan,105
+IT,Milan,Milan,106
 IT,Milan,Nerviano,4
 IT,Milan,Opera,1
 IT,Milan,Paderno Dugnano,2
@@ -5972,9 +6006,9 @@ IT,Monza E della Brianza,Limbiate,1
 IT,Monza E della Brianza,Monza,8
 IT,Na,Nola,1
 IT,Na,Portici,1
-IT,Naples,Caivano,16
+IT,Naples,Caivano,18
 IT,Naples,Casalnuovo di Napoli,2
-IT,Naples,Casoria,1
+IT,Naples,Casoria,2
 IT,Naples,Gragnano,54
 IT,Naples,Melito Di Napoli,1
 IT,Naples,Naples,5
@@ -5998,7 +6032,7 @@ IT,Padova,Abano Terme,9
 IT,Padova,Albignasego,5
 IT,Padova,Curtarolo,2
 IT,Padova,Due Carrare,1
-IT,Padova,Limena,1
+IT,Padova,Limena,2
 IT,Padova,Lozzo Atestino,2
 IT,Padova,Padova,24
 IT,Padova,Piove di Sacco,2
@@ -6010,7 +6044,7 @@ IT,Palermo,Carini,3
 IT,Palermo,Castelbuono,1
 IT,Palermo,Palermo,5
 IT,Parma,Collecchio,36
-IT,Parma,Fidenza,5
+IT,Parma,Fidenza,11
 IT,Parma,Fontevivo,1
 IT,Parma,Langhirano,7
 IT,Parma,Parma,14
@@ -6096,7 +6130,7 @@ IT,Salerno,Palomonte,3
 IT,Salerno,Ravello,1
 IT,Salerno,Salerno,3
 IT,Salerno,San Marzano Sul Sarno,1
-IT,Salerno,Sarno,1
+IT,Salerno,Sarno,3
 IT,Salerno,Scafati,4
 IT,Salerno,Tramonti,2
 IT,Sassari,Olbia,3
@@ -6249,7 +6283,7 @@ JO,Al Mafraq,Mafraq,2
 JO,Al-Karak,Zarka Central,2
 JO,Al-Karak,Zarka Free Zone,1
 JO,Al-Mafraq,Al-Mafraq,5
-JO,Amman,Amman,8
+JO,Amman,Amman,10
 JO,Amman,Marka,1
 JO,Az Zarqa,Arizona Zarqa,15
 JO,Directorate Of Capital,Amman,35
@@ -6258,13 +6292,12 @@ JO,Irbid,Irbid Central Post Office,1
 JO,JO-AM,North Marka,5
 JO,JO-AM,sahab,1
 JO,The Capital,Al-Burj,3
-JO,The Capital,Amman,184
+JO,The Capital,Amman,192
 JP,Aichi,Aisai,1
 JP,Aichi,Ama,1
 JP,Aichi,Ama-Gun,1
 JP,Aichi,Chiryu,1
-JP,Aichi,GAMAGORI,3
-JP,Aichi,Gamagoori,1
+JP,Aichi,Gamagoori,4
 JP,Aichi,Handa,1
 JP,Aichi,Hekinan,1
 JP,Aichi,Inazawa-Shi,3
@@ -6276,9 +6309,10 @@ JP,Aichi,Nagoya,132
 JP,Aichi,Nishio,2
 JP,Aichi,Seto,2
 JP,Aichi,Tokai,10
-JP,Aichi,Toyohashi,19
+JP,Aichi,Toyohashi,18
 JP,Aichi,Toyohashi-Shi,1
-JP,Aichi,Toyokawa,4
+JP,Aichi,Toyohashi-shi,1
+JP,Aichi,Toyokawa,5
 JP,Aichi,Toyota,2
 JP,Aichi,Yatomi,1
 JP,Aichi-ken,Ama-shi,1
@@ -6286,7 +6320,7 @@ JP,Aichi-ken,Nagoya-shi,1
 JP,Aichi-ken,Toyohashi-shi,14
 JP,Aiti,Ichinomiya,1
 JP,Akita,Daisen,1
-JP,Akita,Odate,281
+JP,Akita,Odate,284
 JP,Akita-ken,Daisen-shi,1
 JP,Akita-ken,Odate-shi,1
 JP,Aomori,Hachinohe,1
@@ -6316,7 +6350,7 @@ JP,Fukuoka,Chikugo,1
 JP,Fukuoka,Chikushino,2
 JP,Fukuoka,Fukuoka,20
 JP,Fukuoka,Higashi Fukuoka,5
-JP,Fukuoka,IIZUKA,1
+JP,Fukuoka,Iizuka,1
 JP,Fukuoka,Kasuya-Gun,1
 JP,Fukuoka,Kitakyushu,3
 JP,Fukuoka,Kurume,2
@@ -6337,7 +6371,7 @@ JP,Gifu,Ibi-Gun,6
 JP,Gifu,Kakamigahara,2
 JP,Gifu,Seki,5
 JP,Gihu,Takayama,3
-JP,Gunma,Isesaki,4
+JP,Gunma,Isesaki,2
 JP,Gunma,Maebashi,6
 JP,Gunma,Numata,1
 JP,Gunma,Ora-Gun,1
@@ -6346,7 +6380,7 @@ JP,Gunma,Oura-gun,25
 JP,Gunma,Takasaki,9
 JP,Gunma,Tatebayashi,90
 JP,Hiroshima,Fukuyama,5
-JP,Hiroshima,Higashihiroshima,33
+JP,Hiroshima,Higashihiroshima,35
 JP,Hiroshima,Hiroshima,3
 JP,Hiroshima,Kure,1
 JP,Hiroshima,Onomichi,20
@@ -6372,7 +6406,7 @@ JP,Hyogo,Himeji,10
 JP,Hyogo,Itami,1
 JP,Hyogo,Kako-Gun,10
 JP,Hyogo,Kawanishi,5
-JP,Hyogo,Kobe,78
+JP,Hyogo,Kobe,79
 JP,Hyogo,Miki,5
 JP,Hyogo,Nishinomiya,4
 JP,Hyogo,Sanda,2
@@ -6412,14 +6446,14 @@ JP,Kagawa,Takamatsu,5
 JP,Kagoshima,Hioki,1
 JP,Kagoshima,Ichikikushikino,1
 JP,Kagoshima,Izumi-Gun,1
-JP,Kagoshima,Kagoshima,12
+JP,Kagoshima,Kagoshima,16
 JP,Kagoshima,Kumage-Gun,1
 JP,Kagoshima,Shibushi,6
 JP,Kagoshima,Soo,1
 JP,Kagoshima,Tarumizu,1
 JP,Kanagawa,Aiko-Gun,6
-JP,Kanagawa,Ashigarakami-Gun,5
-JP,Kanagawa,Atsugi,13
+JP,Kanagawa,Ashigarakami-Gun,9
+JP,Kanagawa,Atsugi,15
 JP,Kanagawa,Ebina,1
 JP,Kanagawa,Fujisawa,18
 JP,Kanagawa,Hadano,8
@@ -6431,8 +6465,9 @@ JP,Kanagawa,Kawasaki,4
 JP,Kanagawa,Koza-Gun,2
 JP,Kanagawa,Odawara,1
 JP,Kanagawa,Yamato,1
-JP,Kanagawa,Yokohama,22
+JP,Kanagawa,Yokohama,20
 JP,Kanagawa,Yokosuka,4
+JP,Kanagawa,Zama,2
 JP,Kanagawa-ken,Atsugi-shi,5
 JP,Kanagawa-ken,Kanagawa-kenkanagawa-ken,1
 JP,Kochi,Kochi,1
@@ -6459,7 +6494,7 @@ JP,Miyagi,Sendai,3
 JP,Miyagi,Tagajo,2
 JP,Miyazaki,Kobayashi,2
 JP,Miyazaki,Koyu-Gun,4
-JP,Miyazaki,Miyazaki,8
+JP,Miyazaki,Miyazaki,9
 JP,NIIGATA,Gosen-shi,4
 JP,Nagano,Azumino,1
 JP,Nagano,Chikuma,2
@@ -6504,7 +6539,7 @@ JP,Osaka,Izumi,1
 JP,Osaka,Kita-Ku,1
 JP,Osaka,Minoo,2
 JP,Osaka,Naka,1
-JP,Osaka,Osaka,375
+JP,Osaka,Osaka,377
 JP,Osaka,Osaka-Shi,1
 JP,Osaka,Suita,1
 JP,Osaka,Takatsuki,1
@@ -6581,12 +6616,12 @@ JP,Tokyo,Chiyoda Ku,1
 JP,Tokyo,Chiyoda-Ku,1
 JP,Tokyo,Chofu,1
 JP,Tokyo,Chou,1
-JP,Tokyo,Chuo,121
+JP,Tokyo,Chuo,124
 JP,Tokyo,Chuo-Ku,6
 JP,Tokyo,Edogawa,1
 JP,Tokyo,Fuchu,4
 JP,Tokyo,Gotanda,1
-JP,Tokyo,Hachioji,6
+JP,Tokyo,Hachioji,14
 JP,Tokyo,Higashikurume,1
 JP,Tokyo,Hino,14
 JP,Tokyo,Inagi,1
@@ -6596,7 +6631,7 @@ JP,Tokyo,Kitakuchiyoda,1
 JP,Tokyo,Koto,34
 JP,Tokyo,Koutou-Ku,5
 JP,Tokyo,Meguro,2
-JP,Tokyo,Minato,192
+JP,Tokyo,Minato,193
 JP,Tokyo,Minato-Ku,2
 JP,Tokyo,Musashino,1
 JP,Tokyo,Nakano,23
@@ -6608,15 +6643,15 @@ JP,Tokyo,Ome,3
 JP,Tokyo,Ota,2
 JP,Tokyo,Setagaya,3
 JP,Tokyo,Sh,1
-JP,Tokyo,Shibuya,36
+JP,Tokyo,Shibuya,37
 JP,Tokyo,Shinagawa,25
-JP,Tokyo,Shinjuku,28
+JP,Tokyo,Shinjuku,29
 JP,Tokyo,Shinjyuku-Ku,1
 JP,Tokyo,Suginami,4
 JP,Tokyo,Sumida,30
 JP,Tokyo,Taito,10
 JP,Tokyo,Tana,1
-JP,Tokyo,Tokyo,13
+JP,Tokyo,Tokyo,12
 JP,Tokyo,Toshima,11
 JP,Tokyo Opera City,Nishi-Shiniu,5
 JP,Tokyo-to,Chiyoda-ku,5
@@ -6633,7 +6668,7 @@ JP,Tokyotokyo,Itopia,1
 JP,Tokyotokyo,Nihonba,1
 JP,Tonowari,Tokai,12
 JP,Tottori,Tottori,3
-JP,Tottori,Yonago,9
+JP,Tottori,Yonago,11
 JP,Toyama,Imizu,5
 JP,Toyama,Nakaniikawa-Gun,2
 JP,Toyama,Takaoka,1
@@ -6669,7 +6704,7 @@ KE,Ke-110,Nairobi,1
 KE,Ke-30,Ruaraka,2
 KE,Nairobi,Athi River,1
 KE,Nairobi,Mlolongo,1
-KE,Nairobi,Nairobi,37
+KE,Nairobi,Nairobi,38
 KE,Rift Valley,Kericho,4
 KH,KH-21,Kosh Andet District,1
 KH,Kandaal,Kandal,1
@@ -6680,7 +6715,7 @@ KR,21984,Incheon,1
 KR,BUSAN,Yeonje,1
 KR,Busan,Busanjin-gu,1
 KR,Busan,Gangseo,2
-KR,Busan,Saha,4
+KR,Busan,Saha,5
 KR,Busan,Saha Gu,1
 KR,Busan,Saha-gu,1
 KR,Busan,Sasang,1
@@ -6705,12 +6740,12 @@ KR,CHUNGCHEONGBUGDO,Daegu,1
 KR,CHUNGCHEONGNAMDO,Asan-Si,6
 KR,CHUNGCHEONGNAMDO,CHEON-AN CITY,1
 KR,CHUNGNAM,Geumsan-Gun,4
-KR,Cheongju,Cheongwon-Gu,1
 KR,Chonnam,Naju-si,3
 KR,Chung-nam,"Nonsan-Si, Yeonmu-eup",1
 KR,Chungbuck,Eumsunggun,1
 KR,Chungbuk,Cheongju,1
 KR,Chungbuk,Chongju,11
+KR,Chungbuk,Cungju,2
 KR,Chungbuk,Goesan-Gum,1
 KR,Chungcheonbnamdo,Gongju-Si,4
 KR,Chungcheong,Asan-si,3
@@ -6720,12 +6755,13 @@ KR,Chungcheongbugdo,Chungju-si,1
 KR,Chungcheongbugdo,Eumseong,7
 KR,Chungcheongbugdo,Jecheon-si,4
 KR,Chungcheongbugdo,Yeongdong,2
-KR,Chungcheongbuk,Cheongju,62
+KR,Chungcheongbuk,Cheongju,89
 KR,Chungcheongbuk,Chungju,5
-KR,Chungcheongbuk,Eumseong,63
+KR,Chungcheongbuk,Eumseong,64
 KR,Chungcheongbuk,Goesan,1
 KR,Chungcheongbuk,Jecheon,2
 KR,Chungcheongbuk,Jincheon,6
+KR,Chungcheongbuk-do,Boeun-gun,4
 KR,Chungcheongbuk-do,Jecheon-si,2
 KR,Chungcheongbuk-do,Osong-eup,1
 KR,Chungcheongbukdo,Euemsung,1
@@ -6747,18 +6783,18 @@ KR,Chungchongbuk,Jecheon,1
 KR,Chungnam,Cheonan-City,34
 KR,Chungnam,Tangjin,15
 KR,Chungnam ,Cheonan,17
-KR,Cungceongbug-do,Cungju-si,2
 KR,Cungceongbug-do,Eumseong-gun,2
 KR,Cungceongbug-do,Jeceon-si,1
 KR,Cungceongnam-do,Ceonansi Seobug-gu,1
 KR,Cungceongnam-do,Gongju-si,9
 KR,DAEGU,Daegu,1
+KR,DAEGU,"Gil, Seo",1
 KR,DAEJEON,Yuseong,2
 KR,DAEJEON,Yusung,6
 KR,DAEJEON GWANGYEOGSI,Daejeon,6
 KR,DONGDAEMOON,SEOUL,2
 KR,Daegu,Buk,1
-KR,Daegu,Daegu,2
+KR,Daegu,Daegu,1
 KR,Daegu,Dalseo-gu,3
 KR,Daegu,Dong,5
 KR,Daegu Gwangyeogsi,Daegu,2
@@ -6807,14 +6843,14 @@ KR,Gyeongbuk,Pohang-Si,4
 KR,Gyeongbuk,Yeong-ju,1
 KR,Gyeonggi,Ansan,4
 KR,Gyeonggi,Anseong,16
-KR,Gyeonggi,Anyang,10
+KR,Gyeonggi,Anyang,17
 KR,Gyeonggi,Beakseok-Eup Yangju,1
-KR,Gyeonggi,Bucheon,5
+KR,Gyeonggi,Bucheon,6
 KR,Gyeonggi,Dongducheon,3
 KR,Gyeonggi,Giheung,2
-KR,Gyeonggi,Gimpo,13
-KR,Gyeonggi,Goyang,5
-KR,Gyeonggi,Gunpo,40
+KR,Gyeonggi,Gimpo,14
+KR,Gyeonggi,Goyang,8
+KR,Gyeonggi,Gunpo,50
 KR,Gyeonggi,Guri,1
 KR,Gyeonggi,Gwangju,10
 KR,Gyeonggi,Hanam,4
@@ -6845,7 +6881,6 @@ KR,Gyeonggi-do,Ansansi Danweon-gu,1
 KR,Gyeonggi-do,Anyang-si,1
 KR,Gyeonggi-do,Bucheon-city,4
 KR,Gyeonggi-do,Giheung,1
-KR,Gyeonggi-do,Gimpo-si,1
 KR,Gyeonggi-do,Goyangsi Deogyang-Gu,1
 KR,Gyeonggi-do,Goyangsi Deogyang-gu,3
 KR,Gyeonggi-do,Goyangsi Ilsandong-gu,4
@@ -6871,7 +6906,6 @@ KR,Gyeonggi-do,Yongin,3
 KR,Gyeonggi-do,Yongin-si,1
 KR,Gyeonggi-do,Yonginsi Ceoin-gu,2
 KR,Gyeonggido,Anseong-Si,4
-KR,Gyeonggido,Bucheon,1
 KR,Gyeonggido,Gunpo,3
 KR,Gyeonggido,Hwaseong,7
 KR,Gyeonggido,Hwaseong Si,1
@@ -6897,7 +6931,7 @@ KR,Gyeongsangbugdo,Dalseong,17
 KR,Gyeongsangbugdo,Sangju,6
 KR,Gyeongsangbuk,"Buk, Pohang",4
 KR,Gyeongsangbuk,Cheongdo,37
-KR,Gyeongsangbuk,Gumi,70
+KR,Gyeongsangbuk,Gumi,68
 KR,Gyeongsangbuk,Gunwi,1
 KR,Gyeongsangbuk,Gyeongsan,6
 KR,Gyeongsangbuk,Sangju,4
@@ -6905,7 +6939,7 @@ KR,Gyeongsangbuk,Uiseong,5
 KR,Gyeongsangbuk,Ulleung,1
 KR,Gyeongsangbuk,Yecheon,2
 KR,Gyeongsangbuk-do,Cheongdo-gun,5
-KR,Gyeongsangbuk-do,Sangju-si,15
+KR,Gyeongsangbuk-do,Sangju-si,17
 KR,Gyeongsangbuk-do,Yecheon-gun,2
 KR,Gyeongsangnam,Changwon,3
 KR,Gyeongsangnam,Geochang,1
@@ -6915,10 +6949,10 @@ KR,Gyeongsangnam,Haman,3
 KR,Gyeongsangnam,Hamyang,24
 KR,Gyeongsangnam,Jinju,2
 KR,Gyeongsangnam,Sacheon,4
-KR,Gyeongsangnam,Sancheong,11
+KR,Gyeongsangnam,Sancheong,17
 KR,Gyeongsangnam,Tongyeong,6
 KR,Gyeongsangnam,Uiryeong,5
-KR,Gyeongsangnam,Yangsan,573
+KR,Gyeongsangnam,Yangsan,574
 KR,Gyeongsangnam-do,Changwon-Si,3
 KR,Gyeongsangnam-do,Geoje-Si,2
 KR,Gyeongsangnam-do,Gimhae-si,3
@@ -6936,18 +6970,19 @@ KR,INCHEON,Nadon,1
 KR,INCHEON,Namdong,2
 KR,INCHEON,Seo,2
 KR,INCHEON,Seo Gu,1
+KR,INCHEON,Yeonsu,2
 KR,Incheon,Bupyeong,6
 KR,Incheon,Incheon,10
 KR,Incheon,Namdong,91
 KR,Incheon,Namdong-Gu,2
 KR,Incheon,Seo,7
 KR,Incheon,Seo-Gu,8
-KR,Incheon,Yeonsu,4
+KR,Incheon,Yeonsu,2
 KR,Inchon,Gangwha-Gun,1
 KR,Inchon,Incheon,2
 KR,JEJU,Jeju,1
 KR,Jeju,Jeju,1
-KR,Jeju-do,Seogwipo-si,2
+KR,Jeju,Seogwipo,2
 KR,Jeollabuk,Iksan,3
 KR,Jeollanam-do,Goheung-Gun,1
 KR,Jeollanamdo,Damyang,3
@@ -6991,7 +7026,6 @@ KR,KR-26,SA-HA-GU,3
 KR,KR-27,DAEGU,2
 KR,KR-30,Dong-gu,1
 KR,KR-41,ANSAN,1
-KR,KR-41,Goyang-Si,3
 KR,KR-41,Hanam,1
 KR,KR-41,Jungwon-Ku,1
 KR,KR-41,KYOUNG GI-DO,8
@@ -7003,7 +7037,6 @@ KR,KR-41,Pocheon-si,1
 KR,KR-41,Seongnam-Si,5
 KR,KR-41,Suwon,4
 KR,KR-41,YEOJU,15
-KR,KR-43,Boeun-Gun,4
 KR,KR-43,Eumseong-Gun,1
 KR,KR-44,Cheonan-Si,2
 KR,KR-44,Nonsan-Si,1
@@ -7025,6 +7058,7 @@ KR,KYONGGi,Hwasung-si,4
 KR,KYONGGi,Pocheon,2
 KR,KYONGGi,Suwon,2
 KR,Kangwon,Wonju,1
+KR,Korea,Jeollabuk-Do,2
 KR,Korea,Seoul,2
 KR,Kyongbuk,Andong,3
 KR,Kyongbuk,Sangju,3
@@ -7034,10 +7068,9 @@ KR,Kyonggi,Hwaseong,3
 KR,Kyonggi,Paju,1
 KR,Kyonggi,Suwon-si,1
 KR,Kyonggi,Tongduchon,18
-KR,Kyongnam,Sancheong-gun,6
 KR,Kyungbuk-Do,Pohang,9
 KR,Kyungki-do,Pucheon,1
-KR,PUSAN,Busan,4
+KR,PUSAN,Busan,3
 KR,PUSAN,Busan-jin-gu,1
 KR,PUSAN,Pusan,5
 KR,PUSAN,Sasang-Gu,1
@@ -7045,7 +7078,7 @@ KR,Pusan,Pusan,6
 KR,SEOUL,Jongno-gu,1
 KR,SEOUL,Seoul,5
 KR,SEOUL TEUGBYEOLSi,Seoul,1
-KR,Sejong,Sejong,54
+KR,Sejong,Sejong,56
 KR,Sejong,Sejong Special Self-Governing City,6
 KR,Seongnam-si,Gyeonggi-do,97
 KR,Seoul,Dongdaemun,2
@@ -7060,7 +7093,7 @@ KR,Seoul,Seocho,4
 KR,Seoul,Seongbuk,1
 KR,Seoul,Seongdong,10
 KR,Seoul,Seongdong-gu,8
-KR,Seoul,Seoul,578
+KR,Seoul,Seoul,581
 KR,Seoul,Songpa,2
 KR,Seoul,Yongsan,4
 KR,Seoul,kangnam Gu,14
@@ -7083,7 +7116,6 @@ KR,Seoulteugbyeol-si,Gwanag-gu,3
 KR,Seoulteugbyeol-si,Mapo-gu,1
 KR,Seoulteugbyeol-si,Seoco-gu,16
 KR,Seoulteugbyeol-si,Seodaemun-gu,2
-KR,"Suwon-Si, Kyonggi-do",Chungcheongbuk-du,22
 KR,TAEJON,Daejeon,3
 KR,Taegu,Gwangyeogsi,1
 KR,Ulsan,Dong,1
@@ -7094,14 +7126,13 @@ KZ,Almaty,G.Almaty,1
 KZ,Atyrau,Atyrau,2
 LA,Ventiane Capital,Ventiane,5
 LB,Baalbek,Bodai,1
+LB,Beirut,Beirut,25
 LB,Beqaa,Zahle,1
 LB,Beqaa,`Aytanit,3
 LB,Beyrouth,Beyrouth,1
 LB,Jbeil,`Amshit,2
-LB,LB-AS,Al Koura,1
 LB,LB-AS,Kafaraaka,1
-LB,LB-AS,Koura,2
-LB,LB-BA,Beyrouth,25
+LB,LB-BA,Beyrouth,3
 LB,LB-BA,chouaifat,1
 LB,LB-BI,Anjar,1
 LB,LB-BI,Chtaura,1
@@ -7118,11 +7149,12 @@ LB,Liban-Nord,Kfarakka,10
 LB,Liban-Sud,Saida,1
 LB,Mont-Liban,Ash Shuwayfat,2
 LB,Mont-Liban,Beyrouth,12
+LB,North,Majdel Koura,3
 LC,Castries,Mon Repos,1
 LC,St. Lucia,Vieux Fort,1
 LK,Colombo,Avissawella,60
 LK,Colombo,Avissawella Western,23
-LK,Colombo,Colombo,46
+LK,Colombo,Colombo,44
 LK,Colombo,Colombo 10,1
 LK,Colombo,Dehiwala,25
 LK,Colombo,Hanwella,1
@@ -7167,6 +7199,7 @@ LK,Puttalam,Lihiriyagama,1
 LK,Sri Lanka,Colombo 14,5
 LK,Sri Lanka,Colombo-02,3
 LK,Urapola,Atthanagalla,50
+LK,Western Province,Colombo District,2
 LR,LR-NI,Monrovia,21
 LT,Kaunas County,Jonava,2
 LT,Kaunas County,Kovno,16
@@ -7192,7 +7225,7 @@ LV,Rigas rajons,Riga,8
 MA,Agadir,Anza,1
 MA,Agadir Ida Ou Tanan,Agadir,5
 MA,Casablanca,Bouskoura,2
-MA,Casablanca,Casablanca,98
+MA,Casablanca,Casablanca,100
 MA,Casablanca,Dar Bouazza,2
 MA,FES,Fes,5
 MA,Grand Casablanca,Casablanca,4
@@ -7212,7 +7245,7 @@ MD,Edinet,Terebna,1
 ME,Bijelo Polje,Pljevlja,1
 MG,Antsiranana,Sambava,1
 MG,MG-NOTA,"Majunga, Boeny",6
-MG,Mahajanga,Mahajanga,12
+MG,Mahajanga,Mahajanga,13
 MH,Majuro,Majuro,1
 MK,Gevgelija,Gevgelija,9
 MK,Kochani,Vinica,3
@@ -7221,15 +7254,18 @@ MK,Skopje,Skopje,11
 MK,Strumica,Strumica,5
 MM,Ayeyarwady Region,LAPUTTAR TOWNSHIP,5
 MM,Bago,Bago,17
+MM,MM-06,Dagon Seikkan,1
 MM,MM-06,KYAUKTADA TOWNSHIP,3
 MM,MM-06,Pabedan Township,1
 MM,MM-06,Shwe Pyithar T/S,4
-MM,Rangoon,Rangoon,28
+MM,MM-06,Yangon,8
+MM,Rangoon,Rangoon,26
 MM,Yangon,INSEIN Township,2
 MM,Yangon,Insein Township,8
 MM,Yangon,Kyaukpyu,1
 MM,Yangon,North Oklapa Industrial Area,1
 MM,Yangon,South Dagon T/s,195
+MM,Yangon,South Dagon Township,2
 MM,Yangon,Tharkayta Township,3
 MM,Yangon,Yangon,90
 MN,Ulan-bator,Tschingeltei,6
@@ -7243,14 +7279,13 @@ MX,Ags,Aguascalientes,5
 MX,Ags,Calvillo,2
 MX,Aguascalientes,Aguascalientes,90
 MX,Aguascalientes,Asientos,11
-MX,Aguascalientes,Calvillo,26
+MX,Aguascalientes,Calvillo,27
 MX,Aguascalientes,Col. Villa Juarez,1
 MX,Aguascalientes,Cosio,10
-MX,Aguascalientes,Ejido Charco Azul,16
+MX,Aguascalientes,Ejido Charco Azul,15
 MX,Aguascalientes,Ejido San Jose De Pocitos,1
 MX,Aguascalientes,Granja El Carinan,1
 MX,Aguascalientes,Jesus Maria,23
-MX,Aguascalientes,La Panadera,1
 MX,Aguascalientes,Medio Kilo,4
 MX,Aguascalientes,Ojocaliente,10
 MX,Aguascalientes,Rancho O Rancheria La Loma,12
@@ -7263,19 +7298,19 @@ MX,Aguascalientes,Zona Industrial Parque Industrial Chichimeco,1
 MX,B.C.,Tijuana,1
 MX,B.C. C.P.,Ensenada,1
 MX,BC,Ejido Real Del Castillo,1
-MX,BC,Ensenada,12
+MX,BC,Ensenada,13
 MX,BC,Mexicali,1
 MX,BC,San Quintin,2
 MX,BC,Tecate,4
 MX,BC,Tijuana,7
 MX,BCN,Ensenada,3
 MX,BCN,Mexicali,1
+MX,BCN,Tecate,1
 MX,BCN,Tijuana,4
 MX,BCS,Ciudad Insurgentes Mpio De Comondu,1
 MX,BCS,Cuidad Constitucion,2
 MX,BCS,Ensenada,1
 MX,Baja,Ensenada,1
-MX,Baja California,Camalu,1
 MX,Baja California,Ciudad Coahuila (Km 57),1
 MX,Baja California,Col. Ciudad Morelos,3
 MX,Baja California,Col. Nuevo Algodones,9
@@ -7288,23 +7323,21 @@ MX,Baja California,Ejido Lazaro Cardenas (Valle De La Trinidad),1
 MX,Baja California,Ejido Maclovio Rojas,5
 MX,Baja California,Ejido Maneadero,33
 MX,Baja California,Ejido Michoacan De Ocampo,2
+MX,Baja California,Ejido Punta Colonet,2
 MX,Baja California,Ejido Toluca,2
 MX,Baja California,El Rosario,1
-MX,Baja California,Emiliano Zapata,2
-MX,Baja California,Ensenada,110
+MX,Baja California,Ensenada,113
 MX,Baja California,Fracc. Aeropuerto,1
-MX,Baja California,Fracc. Camalu,3
 MX,Baja California,Fracc. San Quintin,2
 MX,Baja California,Fracc. Vista Al Mar,1
-MX,Baja California,La Joya,1
-MX,Baja California,Mexicali,465
+MX,Baja California,Mexicali,469
 MX,Baja California,Michoacan De Ocampo,1
 MX,Baja California,Mulege,3
 MX,Baja California,Municipio De Ensenada,1
 MX,Baja California,Nuevo Leon,43
 MX,Baja California,Playas De Rosarito,4
 MX,Baja California,Playas de Rosarito,28
-MX,Baja California,Puebla,13
+MX,Baja California,Pueblo Camalu,1
 MX,Baja California,Rancheria Ojos Negros,6
 MX,Baja California,Rancho O Rancheria El Maneadero Parte Baja,2
 MX,Baja California,Rodolfo Sanchez T. (Maneadero),4
@@ -7313,9 +7346,7 @@ MX,Baja California,San Quintin,1
 MX,Baja California,"San Vicente, Ensenada",3
 MX,Baja California,Sinaloa,1
 MX,Baja California,Tecate,22
-MX,Baja California,Tijuana,327
-MX,Baja California,Zona Federal Puebla,1
-MX,Baja California,Zona Industrial Parque Industrial El Bajio,2
+MX,Baja California,Tijuana,330
 MX,Baja California ,La Paz,2
 MX,Baja California Norte,Tijuana,1
 MX,Baja California Sur,Comondu,2
@@ -7325,21 +7356,25 @@ MX,Baja California Sur,Valle De Santo Domingo,1
 MX,Baja California sur,Cabo San Lucas,1
 MX,Baja California sur,Ciudad Constitucion,2
 MX,Baja California sur,Col. Puerto San Carlos,1
+MX,Baja California sur,Comondu,1
+MX,Baja California sur,Ejido Emiliano Zapata,2
 MX,Baja California sur,Ejido Gustavo Diaz Ordaz (Vizcaino),1
-MX,Baja California sur,La Paz,7
+MX,Baja California sur,La Paz,8
 MX,Baja California sur,Loreto,2
 MX,Baja California sur,Los Cabos,1
 MX,Baja California sur,Mulege,1
 MX,Baja California sur,Rancheria Pescadero,4
 MX,"Baja California,",Ensenada,1
 MX,Bc,Mexicali,11
-MX,Bc,Tijuana,1
 MX,Bcs,El Pescadero,1
 MX,C.P,De Campo Aguascalientes Ags,3
 MX,C.P,Puebla Pue.,1
+MX,C.P.,Coyoacan,1
 MX,CHI,Chihuahua,1
+MX,CHIH,Juarez,1
 MX,CHIHUAHUA,Juarez,2
 MX,CHP,Chiapas,1
+MX,CHP,Tapachula,8
 MX,COA,Ramos Arizpe,1
 MX,COAH.,Saltillo,1
 MX,COL,Comala,2
@@ -7360,8 +7395,6 @@ MX,Campeche,Campeche,1
 MX,Campeche,Champoton,1
 MX,Campeche,Ejido Chilib,12
 MX,Campeche,Lerma,1
-MX,Campeche,Pueblo Ciudad Del Sol,2
-MX,Campeche,Seybaplaya,2
 MX,Campeche,Tenabo,2
 MX,Chiapas,Acacoyagua,1
 MX,Chiapas,Acala,2
@@ -7378,30 +7411,32 @@ MX,Chiapas,Tuxtla Chico,2
 MX,Chih,Aldama,3
 MX,Chih,Cd Jimenez,3
 MX,Chih,Janos,1
-MX,Chih,Juarez,11
+MX,Chih,Juarez,10
 MX,Chih,Namiquipa,3
 MX,Chih,Nuevo Casas Grandes,2
 MX,Chih,Ojinaga,1
 MX,Chihuahua,Ascencion,4
 MX,Chihuahua,Ascension,2
 MX,Chihuahua,Barrio Las Flores,5
-MX,Chihuahua,Camargo,53
+MX,Chihuahua,Camargo,51
 MX,Chihuahua,Cd Juarez,4
 MX,Chihuahua,Cd. Juarez,54
 MX,Chihuahua,Chihuahua,75
 MX,Chihuahua,Ciudad Juarez,9
+MX,Chihuahua,Col. Alvaro Obregon,1
 MX,Chihuahua,Col. Centro,3
 MX,Chihuahua,Col. Chihuahuita,1
 MX,Chihuahua,Col. Escalon,2
 MX,Chihuahua,Col. Francisco Portillo (Los Jaquez),17
 MX,Chihuahua,Colonia Escalon,1
-MX,Chihuahua,Cuauhtemoc,5
+MX,Chihuahua,Cuauhtemoc,4
 MX,Chihuahua,Delicias,27
+MX,Chihuahua,Ejido Samalayuca,1
 MX,Chihuahua,Hidalgo Del Parral,2
 MX,Chihuahua,Janos,5
 MX,Chihuahua,Jimenez,1
 MX,Chihuahua,Jose Mariano Jimenez,2
-MX,Chihuahua,Juarez,166
+MX,Chihuahua,Juarez,168
 MX,Chihuahua,La Cruz,2
 MX,Chihuahua,Meoqui,9
 MX,Chihuahua,Nuevo Casas Grandes,1
@@ -7410,12 +7445,12 @@ MX,Chihuahua,"Panamericana, Apartado Postal",2
 MX,Chihuahua,Pedro Meoqui,3
 MX,Chihuahua,Pueblo Ascension,1
 MX,Chihuahua,Rancheria Polanco,1
-MX,Chihuahua,Santa Rosalia De Camargo,6
+MX,Chihuahua,Santa Rosalia De Camargo,10
 MX,Chihuahua,Saucillo,1
 MX,Chis,Mazatan,1
 MX,Ciudad De Mexico,Ciudad De Mexico,3
 MX,Ciudad de Mexico,Benito Juarez,2
-MX,Ciudad de Mexico,Ciudad De Mexico,3192
+MX,Ciudad de Mexico,Ciudad De Mexico,3081
 MX,Ciudad de Mexico,Coyoacan,8
 MX,Ciudad de Mexico,Ixtapalapa,1
 MX,Ciudad de Mexico,San Miguel Ajusco,2
@@ -7424,10 +7459,11 @@ MX,Coahuila,Ramos Arizpe,38
 MX,Coahuila de Zaragoza,Ejido La Maroma,11
 MX,Coahuila de Zaragoza,Ejido Las Mercedes,1
 MX,Coahuila de Zaragoza,Matamoros,2
-MX,Coahuila de Zaragoza,Morelos,7
+MX,Coahuila de Zaragoza,Morelos,8
 MX,Coahuila de Zaragoza,Parras De La Fuente,1
 MX,Coahuila de Zaragoza,Piedras Negras,1
 MX,Coahuila de Zaragoza,Ramos Arizpe,18
+MX,Coahuila de Zaragoza,Rancheria La Ciudadela,4
 MX,Coahuila de Zaragoza,Saltillo,29
 MX,Coahuila de Zaragoza,Torreon,8
 MX,Col,Armer¿a,2
@@ -7446,24 +7482,28 @@ MX,Colima,Rancheria Las Tunas,3
 MX,Colima,Rancheria Venustiano Carranza (Cualata),1
 MX,Colima,Tecoman,67
 MX,Colima,Villa de Alvarez,1
+MX,"Coyoacan, Mexico D.F.",Culhuacan,1
 MX,Cuajilmalpa de Morelos,Cuajilmalpa de Morelos,10
 MX,Cuidad de Mexico,Delegacion Miguel Hidalgo,17
 MX,D.F,Iztapalapa,1
 MX,D.F.,Mexico,6
 MX,D.F. Mexico,Alvaro Obregon,1
-MX,DF,Mexico,31
-MX,DF,Mexico Df,30
+MX,DF,Cuauhtemoc,1
+MX,DF,Mexico,27
+MX,DF,Mexico Df,45
 MX,DIF,Mexico d.F.,1
-MX,Df,Mexico,17
+MX,Df,Mexico,11
 MX,Distrito Federa,Mexico City,1
 MX,Distrito Federal,Ciudad De Mexico,48
 MX,Distrito Federal,Ciudad de Mexico,1
 MX,Distrito Federal,Delegacion Alvaro Obregon,2
+MX,Distrito Federal,Delg Cuajimalpa De Morelos,1
 MX,Distrito Federal,Iztapalapa,3
-MX,Distrito Federal,Mexico,101
+MX,Distrito Federal,Mexico,108
 MX,Distrito Federal,Mexico City,65
 MX,Distrito Federal,"Mexico, D.F.",1
 MX,Durango,Ciudad Ciudad Juarez,2
+MX,Durango,Col. I,1
 MX,Durango,Ejido Nazareno,1
 MX,Durango,Ejido Valencia,1
 MX,Durango,Gomez Palacio,10
@@ -7484,7 +7524,8 @@ MX,Edomex,San Juan,3
 MX,Edomex,Toluca de Lerdo,5
 MX,Edomex,Yucatan,2
 MX,Estado de Mexico,Ciudad De Mexico,5
-MX,Estado de Mexico,Lerma,6
+MX,FN,Coyoacan,25
+MX,FN,Cuajimalpa De Morelos,2
 MX,FN,Guadalajara,1
 MX,FN,Matamoros,4
 MX,FN,Mazatlan,2
@@ -7508,32 +7549,32 @@ MX,GUANAJUATO,ABASOLO,4
 MX,GUANAJUATO,CELAYA,6
 MX,Gto,Constitucion,1
 MX,Gto,Leon,1
-MX,Guan,Salamanca,1
 MX,Guanajuato,Abasolo,5
 MX,Guanajuato,Acambaro,1
+MX,Guanajuato,Avenida Santa Fe #6 Parque Opcion Los Nogales,4
 MX,Guanajuato,Caleras De Obrajuelo,3
 MX,Guanajuato,Celaya,76
 MX,Guanajuato,Col. Purisima Del Progreso,4
 MX,Guanajuato,Colonia La Fortaleza Cortazar,2
+MX,Guanajuato,Congregacion Purisima Del Progreso,1
 MX,Guanajuato,Cortazar,5
 MX,Guanajuato,Dolores Hidalgo,5
 MX,Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,19
 MX,Guanajuato,Dolores Hidalgo Cuna de La Independencia,3
 MX,Guanajuato,Estacion San Felipe,1
-MX,Guanajuato,Guadalupe Victoria,1
 MX,Guanajuato,Guanajuato,46
-MX,Guanajuato,Irapuato,180
+MX,Guanajuato,Irapuato,179
 MX,Guanajuato,La Ermita,12
 MX,Guanajuato,La Tinaja,1
-MX,Guanajuato,Leon,26
-MX,Guanajuato,Leon De Los Aldama,5
+MX,Guanajuato,Leon,27
+MX,Guanajuato,Leon De Los Aldama,6
 MX,Guanajuato,Manuel Doblado,10
 MX,Guanajuato,Maravillal,1
 MX,Guanajuato,Queretaro,1
 MX,Guanajuato,Rancheria Medio Sitio,3
-MX,Guanajuato,Salamanca,1
+MX,Guanajuato,Salamanca,2
 MX,Guanajuato,San Francisco Del Rincon,1
-MX,Guanajuato,San Jose Iturbide,30
+MX,Guanajuato,San Jose Iturbide,26
 MX,Guanajuato,San Luis de La Paz,5
 MX,Guanajuato,San Miguel De Allende,37
 MX,Guanajuato,Santa Cruz De Juventino Rosas,8
@@ -7547,9 +7588,11 @@ MX,Guanajuato.,Villagran,3
 MX,Guanjuato,Cortazar,1
 MX,Guerrero,Acapulco de Juarez,1
 MX,Guerrero,Arcelia,2
+MX,Guerrero,Chilpancingo De Los Bravo,3
 MX,Guerrero,Teloloapan,1
 MX,"H. Matamoros, Tamaulipas","Colonia Ciudad Industrial, H.MATAMOROS T",3
 MX,HG,Actopan,1
+MX,Hidalgo,Actopan,1
 MX,Hidalgo,Atotonilco El Grande,2
 MX,Hidalgo,Col. Acatlan Centro,15
 MX,Hidalgo,Col. Alfredo G. Bonfil,2
@@ -7564,12 +7607,12 @@ MX,Hidalgo,Tulancingo,1
 MX,Hidalgo,Tulancingo de Bravo,3
 MX,Hidalgo,Unidad Habitacional Pachuca Ctm,1
 MX,JAL,Ameca,2
-MX,JAL,El Salto,1
 MX,JAL,Guadalajara,1
+MX,JAL,La Huerta,1
 MX,JAL,Tamazula De Gordiano,1
 MX,JAL,Tlajomulco De Zuiga,1
 MX,JAL,Tlaquepaque,1
-MX,JAL,Zapopan,5
+MX,JAL,Zapopan,4
 MX,Jal,Autlan De Navarro,2
 MX,Jal,Guadalajara,5
 MX,Jal,Tamazula,1
@@ -7577,7 +7620,6 @@ MX,Jal,Tlaquepaque,61
 MX,Jal,Tonala,2
 MX,Jal,Yahualica DE Gonz?lez Gallo,2
 MX,Jal,Zapopan,9
-MX,Jal,Zona Minerva,1
 MX,Jalisco,Ameca,1
 MX,Jalisco,Arandas,9
 MX,Jalisco,Autlan De Navarro,9
@@ -7587,12 +7629,10 @@ MX,Jalisco,Capilla De Guadalupe,11
 MX,Jalisco,Ciudad Guzman,8
 MX,Jalisco,Cocula,4
 MX,Jalisco,Col. Centro,1
-MX,Jalisco,Congregacion La Manzanilla,1
 MX,Jalisco,Ejido Guadalajara,2
 MX,Jalisco,El Salto,26
 MX,Jalisco,Encamacion de Diaz,17
-MX,Jalisco,Fracc. Santa Ana Tepetitlan,1
-MX,Jalisco,Guadalajara,635
+MX,Jalisco,Guadalajara,643
 MX,Jalisco,Huescalapa,1
 MX,Jalisco,Jalostotitlan,1
 MX,Jalisco,Jose Maria Pino Suarez (Nuevo Nahuapa),1
@@ -7605,16 +7645,17 @@ MX,Jalisco,Lagos De Moreno,2
 MX,Jalisco,Lagos E Moreno,20
 MX,Jalisco,Lagos de Moreno,1
 MX,Jalisco,Las Pintas,2
+MX,Jalisco,Las Pintitas,1
 MX,Jalisco,Ocotlan,1
 MX,Jalisco,Poncitlan,42
 MX,Jalisco,Pueblo Atotonilco El Bajo,9
+MX,Jalisco,Pueblo Cajititlan,1
 MX,Jalisco,Pueblo San Pedro Tesistan,1
 MX,Jalisco,Pueblo Tequesquitlan,2
 MX,Jalisco,Puerto Vallarta,3
 MX,Jalisco,Rancho O Rancheria Agua Blanca Industrial,1
 MX,Jalisco,Rancho O Rancheria Agua Blanca Sur,2
 MX,Jalisco,Rancho O Rancheria Centro,1
-MX,Jalisco,Rancho O Rancheria El Mante,2
 MX,Jalisco,San Agustin,3
 MX,Jalisco,San Juan de los Lagos,4
 MX,Jalisco,San Miguel Cuyutlan,4
@@ -7628,17 +7669,16 @@ MX,Jalisco,Talpa de Allende,2
 MX,Jalisco,Tamazula De Gordiano,1
 MX,Jalisco,Tamazula de Gordiano,7
 MX,Jalisco,Tepatitlan De Morelos,9
-MX,Jalisco,Tlajomulco De Zuniga,12
+MX,Jalisco,Tlajomulco De Zuniga,13
 MX,Jalisco,Tlajomulco de Zuniga,27
-MX,Jalisco,Tlaquepaque,186
+MX,Jalisco,Tlaquepaque,188
 MX,Jalisco,Tomatlan,1
 MX,Jalisco,Tonala,41
 MX,Jalisco,Tuxpan,2
 MX,Jalisco,Yahualica,1
 MX,Jalisco,Yahualica de Gonzalez Gallo,2
 MX,Jalisco,Zacoalco De Torres,2
-MX,Jalisco,Zapopan,413
-MX,Jalisco,Zapote Del Valle (Zapote De Santa Cruz),1
+MX,Jalisco,Zapopan,420
 MX,Jalisco,Zapotitan De Hidalgo,8
 MX,Jalisco,tonala,1
 MX,MEX,Acatzingo,2
@@ -7653,27 +7693,23 @@ MX,MEX,Mazatlan,1
 MX,MEX,Mexicali,1
 MX,MEX,Naucalpan De Juarez,2
 MX,MEX,Navojoa,1
-MX,MEX,Puebla,1
 MX,MEX,Quecholac,1
 MX,MEX,Santa Cruz De Las Flo,4
-MX,MEX,Santiago Tolman,2
 MX,MEX,Tetela Del Volcan,4
 MX,MEX,Tlalnepantla,1
-MX,MEX,Valle De Chalco Solid,2
 MX,MI,Uruapan,1
 MX,MIC,Morelia,1
 MX,MIC,San Luis Potosi,1
 MX,MIC,Yurecuaro,1
-MX,MICH,Lzaro Crdenas,1
 MX,MOR,Axochiapan,1
 MX,MORELOS,JONACATEPEC,1
-MX,MX-BCN,Ensenada,5
+MX,MX-BCN,Ensenada,4
 MX,MX-BCN,Mexicali,1
 MX,MX-BCS,Comondu,1
 MX,MX-CAM,CAMPECHE,1
 MX,MX-COA,Sabinas,4
 MX,MX-COA,Saltillo,2
-MX,MX-DIF,mexico d.f.,1
+MX,MX-DIF,mexico d.f.,2
 MX,MX-GUA,Valle De Santiago,2
 MX,MX-JAL,Arandas,2
 MX,MX-JAL,Guadalajara,1
@@ -7695,7 +7731,6 @@ MX,MX-TAB,Balancan,1
 MX,MX-VER,Cd. Isla,1
 MX,MX-YUC,Progreso,4
 MX,Mex,Atlacomulco,2
-MX,Mex,Ecatepec,3
 MX,Mex,Lerma,1
 MX,Mex,Nezahualcoyotl,10
 MX,Mex,Nezahualc¿yotl,1
@@ -7703,7 +7738,7 @@ MX,Mex,Toluca,3
 MX,Mexico,Acatitlan,7
 MX,Mexico,Alvaro Obregon,1
 MX,Mexico,Atlacomulco,2
-MX,Mexico,Buenavista,15
+MX,Mexico,Buenavista,1
 MX,Mexico,Cd. Lago,2
 MX,Mexico,Chalco,8
 MX,Mexico,Chalco De Diaz Covarrubias,1
@@ -7712,14 +7747,13 @@ MX,Mexico,Ciudad Lopez Mateos,2
 MX,Mexico,Ciudad Nezahualcoyotl,1
 MX,Mexico,Col. Atlacomulco De Fabela,2
 MX,Mexico,"Col. La Constitucion, San Antonio Mextepec",4
+MX,Mexico,Col. San Nicolas,1
 MX,Mexico,Col. Xaltocan,2
 MX,Mexico,Coyotepec,12
 MX,Mexico,Cuautitlan,16
 MX,Mexico,Cuautitlan Izcalli,38
-MX,Mexico,Delegaciones Tlalpan,1
 MX,Mexico,Ecatepec,7
-MX,Mexico,Ecatepec De Morelos,42
-MX,Mexico,Huilango,1
+MX,Mexico,Ecatepec De Morelos,46
 MX,Mexico,Ixtapaluca,1
 MX,Mexico,Jalmolonga Malinalco,4
 MX,Mexico,Jiquipilco,2
@@ -7728,40 +7762,40 @@ MX,Mexico,Lerma,56
 MX,Mexico,Lerma De Villada,44
 MX,Mexico,Lerma de Villada,1
 MX,Mexico,Metepec,12
+MX,Mexico,Mexico,2
 MX,Mexico,Mexico DF,1
-MX,Mexico,Naucalpan De Juarez,120
+MX,Mexico,Naucalpan De Juarez,121
 MX,Mexico,Naucalpan de Juarez,27
 MX,Mexico,Nezahualcoyotl,1
-MX,Mexico,Ocoyoacac,4
-MX,Mexico,Ojo De Agua,6
+MX,Mexico,Ocoyoacac,1
 MX,Mexico,Pueblo El Salitre,5
-MX,Mexico,Pueblo Infonavit Lerma,156
+MX,Mexico,Pueblo Infonavit Lerma,159
 MX,Mexico,Pueblo Jilotzingo,2
+MX,Mexico,Pueblo Paseos De Toluca,1
 MX,Mexico,Pueblo Rayon,2
 MX,Mexico,Pueblo San Pedro Tecomatepec,2
 MX,Mexico,Pueblo San Simon,3
-MX,Mexico,Pueblo Teotihuacan Centro,2
-MX,Mexico,San Andres Cuexcontitlan,1
+MX,Mexico,Pueblo Valle De Lerma,6
 MX,Mexico,San Bartolome Coatepec,2
 MX,Mexico,San Martin De Las Piramides,1
 MX,Mexico,"San Mateo Otzacatipan, Toluca",1
 MX,Mexico,San Pablo De Las Salinas,1
-MX,Mexico,San Pedro Totoltepec,2
-MX,Mexico,Tecamac De Felipe Villanueva,1
+MX,Mexico,Tecamac De Felipe Villanueva,7
 MX,Mexico,Tenancingo De Degollado,3
-MX,Mexico,Tepotzotlan,14
+MX,Mexico,Tepotzotlan,15
 MX,Mexico,Tequisistlan,1
 MX,Mexico,Texcoco,2
 MX,Mexico,Tlalnepantla,32
 MX,Mexico,Tlalnepantla De Baz,5
 MX,Mexico,Tlalnepantla de Baz,1
 MX,Mexico,Toluca,38
-MX,Mexico,Toluca De Lerdo,10
+MX,Mexico,Toluca De Lerdo,11
 MX,Mexico,Tultitlan De Mariano Escobedo,142
+MX,Mexico,Valle De Chalco Solidaridad,2
 MX,Mexico,Veracruz,11
 MX,Mexico,"Xalostoc, Ecatepec De Morelos",8
+MX,Mexico,Zona Industrial San Antonio El Llanito,3
 MX,Mexico C.P.,Oaxaca,1
-MX,Mich,Los Reyes,1
 MX,Mich,Maravat¿o,1
 MX,Mich,Morelia,1
 MX,Mich,Nuevo Urecho,1
@@ -7773,9 +7807,9 @@ MX,Michoac,Morelia,6
 MX,Michoacan,Buenavista Tomatlan,1
 MX,Michoacan,"Las Canoas, Mpio. De Apatzingan",20
 MX,Michoacan,Michoacan De Ocampo,5
-MX,Michoacan,Morelia,22
+MX,Michoacan,Morelia,23
 MX,Michoacan,Paracuaro,4
-MX,Michoacan,Sahuayo,4
+MX,Michoacan,Sahuayo,5
 MX,Michoacan,Tangancicuaro,6
 MX,Michoacan,Uruapan,1
 MX,Michoacan,Yurecuaro,1
@@ -7788,25 +7822,27 @@ MX,Michoacan de Ocampo,Capula,7
 MX,Michoacan de Ocampo,Ciudad Lazaro Cardenas,1
 MX,Michoacan de Ocampo,Col. Arcos,1
 MX,Michoacan de Ocampo,Col. Santiago Tangamandapio,2
+MX,Michoacan de Ocampo,Col. Vista Hermosa,1
 MX,Michoacan de Ocampo,Congregacion Camucuato,2
 MX,Michoacan de Ocampo,Jacona,6
-MX,Michoacan de Ocampo,Jacona De Plancarte,33
+MX,Michoacan de Ocampo,Jacona De Plancarte,34
 MX,Michoacan de Ocampo,Jiquilpan,2
 MX,Michoacan de Ocampo,La Piedad De Cabadas,2
 MX,Michoacan de Ocampo,La Rinconada,2
-MX,Michoacan de Ocampo,Morelia,92
+MX,Michoacan de Ocampo,Los Reyes De Salgado,1
+MX,Michoacan de Ocampo,Morelia,91
 MX,Michoacan de Ocampo,Pajacuaran,1
 MX,Michoacan de Ocampo,Paracuaro,1
 MX,Michoacan de Ocampo,Pueblo Atapan,1
+MX,Michoacan de Ocampo,Pueblo Iratzio,2
 MX,Michoacan de Ocampo,Pueblo Jalisco,1
 MX,Michoacan de Ocampo,Pueblo Santa Fe De La Laguna,20
-MX,Michoacan de Ocampo,Sahuayo De Morelos,1
 MX,Michoacan de Ocampo,Tangancicuaro De Arista,1
 MX,Michoacan de Ocampo,Uruapan,30
 MX,Michoacan de Ocampo,Villa Chavinda,1
-MX,Michoacan de Ocampo,Yurecuaro,2
+MX,Michoacan de Ocampo,Yurecuaro,3
 MX,Michoacan de Ocampo,Zamora,10
-MX,Michoacan de Ocampo,Zamora De Hidalgo,25
+MX,Michoacan de Ocampo,Zamora De Hidalgo,26
 MX,Michocan,Los Reyes,1
 MX,Mor,Cuernavaca Col Miraval,1
 MX,Mor,Jojutla,1
@@ -7817,18 +7853,21 @@ MX,Mor,Tlayacapan,1
 MX,Morelos,Anenecuilco,7
 MX,Morelos,Axochiapan,2
 MX,Morelos,Barrio De Los Reyes,1
+MX,Morelos,Col. Ampliacion Miguel Hidalgo,1
+MX,Morelos,Col. Marcelino Rodriguez,1
 MX,Morelos,Cuautla,8
 MX,Morelos,Cuernavaca,4
 MX,Morelos,Emiliano Zapata,1
 MX,Morelos,Empalme,1
 MX,Morelos,Hueyapan (san Andres Hueyapan),1
-MX,Morelos,Jiutepec,64
+MX,Morelos,Jiutepec,65
 MX,Morelos,Jojutla,5
 MX,Morelos,Mazatepec,1
 MX,Morelos,Parque Industrial Parque Industrial Cuautla,3
-MX,Morelos,Pueblo Axochiapan,1
 MX,Morelos,Pueblo San Pedro Jantetelco,1
 MX,Morelos,Pueblo Tlayacapan,17
+MX,Morelos,San Jose,1
+MX,Morelos,San Nicolas,1
 MX,Morelos,Tehuixtla,2
 MX,Morelos,Temixco,2
 MX,Morelos,Tenextepango,2
@@ -7837,10 +7876,9 @@ MX,Morelos,Tlanepantla,1
 MX,Morelos,Tlayacapan,1
 MX,Morelos,Tlayatapan,1
 MX,Morelos,Totolapan,6
-MX,Morelos,Xochitepec,2
+MX,Morelos,Xochitepec,3
 MX,Morelos,Yecapixtla,7
 MX,Morelos,Zacatepec De Hidalgo,2
-MX,Mx-nay,San Cayetano,1
 MX,N.L.,San Nicolas De Los Garza,2
 MX,NAY,Tuxpan,1
 MX,NL,Cadereyta Jim¿nez,1
@@ -7851,7 +7889,7 @@ MX,NL,Monterrey,14
 MX,NL,Salinas Victoria,8
 MX,NL,San Nicolas De Los Garza,5
 MX,NL,San Pedro Garza Garcia,1
-MX,NL,Santa Catarina,40
+MX,NL,Santa Catarina,42
 MX,NL,Santiago,2
 MX,NLE,Garza Garcia,7
 MX,NLE,Monterrey,1
@@ -7865,18 +7903,17 @@ MX,Nayarit,Ejido La Bajada,1
 MX,Nayarit,Ejido La Libertad,2
 MX,Nayarit,Ejido Santa Cruz De Miramar,2
 MX,Nayarit,El Llano,3
-MX,Nayarit,Jalcocotan,1
 MX,Nayarit,Mecatan,2
 MX,Nayarit,Pozo De Ibarra,5
-MX,Nayarit,Pueblo Sin Nombre Loc. Jalcocotan,1
+MX,Nayarit,Rancheria Crucero De Camichin,1
 MX,Nayarit,Rancheria San Juan Ixtapalapa,3
-MX,Nayarit,San Blas,3
+MX,Nayarit,San Blas,5
 MX,Nayarit,Santiago Ixcuintla,9
 MX,Nayarit,Tepic,15
 MX,Nayarit,Tuxpan,3
 MX,Nayarit,Valle De Banderas,1
 MX,Nayarit,Villa Hidalgo,1
-MX,Nayarit,Zacualpan,3
+MX,Nayarit,Zacualpan,2
 MX,Nl,Montemorelos,1
 MX,Nl,Monterrey,4
 MX,Nl,San Nicolas DE Los Garza,2
@@ -7889,7 +7926,7 @@ MX,Nuevo Leon,Ciudad Apodaca,18
 MX,Nuevo Leon,Ciudad De Allende,3
 MX,Nuevo Leon,Ciudad General Escobedo,14
 MX,Nuevo Leon,Ciudad General Teran,1
-MX,Nuevo Leon,Ciudad Santa Catarina,11
+MX,Nuevo Leon,Ciudad Santa Catarina,12
 MX,Nuevo Leon,Col. Centro De Allende,1
 MX,Nuevo Leon,Col. Hidalgo,2
 MX,Nuevo Leon,Col. Raul Caballero Escamilla (Ctm),1
@@ -7903,15 +7940,15 @@ MX,Nuevo Leon,Hidalgo,3
 MX,Nuevo Leon,Juarez,1
 MX,Nuevo Leon,Linares,2
 MX,Nuevo Leon,Montemorelos,4
-MX,Nuevo Leon,Monterrey,248
+MX,Nuevo Leon,Monterrey,252
 MX,Nuevo Leon,Pesqueria,8
 MX,Nuevo Leon,Pueblo Los Ramones,1
 MX,Nuevo Leon,Rancheria San Nicolas De Los Garza,1
-MX,Nuevo Leon,San Nicolas De Los Garza,34
+MX,Nuevo Leon,San Nicolas De Los Garza,36
 MX,Nuevo Leon,San Nicolas de los Garza,43
-MX,Nuevo Leon,San Pedro Garza Garcia,20
+MX,Nuevo Leon,San Pedro Garza Garcia,22
 MX,Nuevo Leon,Santa Catarina,17
-MX,Nuevo Leon,Santiago,7
+MX,Nuevo Leon,Santiago,9
 MX,Nuevo Leon,Sta. Catarina,6
 MX,Nuevo Leon,Villa Bustamante,2
 MX,OAX,Oaxaca,8
@@ -7919,14 +7956,12 @@ MX,OAX,Tapanatepec,1
 MX,Oaxaca,Col. Lomas De Santa Cruz,3
 MX,Oaxaca,Colonia Juarez,4
 MX,Oaxaca,Fracc. Tlalixtac De Cabrera,6
-MX,Oaxaca,General Felipe Angeles,1
 MX,Oaxaca,Juquila,4
 MX,Oaxaca,Loma Bonita,6
 MX,Oaxaca,Miahuatlan De Porfirio Diaz,1
 MX,Oaxaca,Oaxaca,1
-MX,Oaxaca,Oaxaca De Juarez,21
+MX,Oaxaca,Oaxaca De Juarez,22
 MX,Oaxaca,Oaxaca de Juarez,29
-MX,Oaxaca,Pueblo Morelos,1
 MX,Oaxaca,Pueblo Santa Cruz Amilpas,1
 MX,Oaxaca,Pueblo Santa Gertrudis,2
 MX,Oaxaca,Pueblo Santiago Cuixtla,1
@@ -7945,109 +7980,121 @@ MX,PUE,Actipan De Morelos,1
 MX,PUE,Atlixco,1
 MX,PUE,Los Reyes De Juarez,7
 MX,PUE,Los Reyes De Jurez,3
-MX,PUE,Puebla,3
+MX,PUE,Puebla,6
 MX,PUE,Quecholac,6
 MX,PUE,San Salvador El Verde,4
 MX,PUE,Santa Clara Ocoyucan,5
-MX,PUE,Tecamachalco,3
+MX,PUE,Tecamachalco,4
 MX,PUE,Tehuacan,5
 MX,PUE,Tepanco De Lopez,4
 MX,PUE,Zecalacoayan Chiautzingo,3
 MX,PUE.,Puebla,1
 MX,PUEBLA,Los Reyes De Juarez,1
 MX,PUEBLA,SANTIAGO MIAHUATLAN,2
-MX,Pue,Acatzingo,6
+MX,Pue,Acatzingo,4
 MX,Pue,Atlixco,2
 MX,Pue,Los Reyes De Juarez,1
-MX,Pue,Puebla,21
+MX,Pue,Puebla,19
 MX,Pue,Quecholac,2
 MX,Pue,San Salvador Huixcolotla,2
 MX,Pue,Tecamachalco,2
 MX,Pue,Tepeaca,1
-MX,Puebl,Palmar De Bravo,1
-MX,Puebla,Acatzingo,10
-MX,Puebla,Acatzingo De Hidalgo,19
+MX,Puebl,Palmar De Bravo,4
+MX,Puebla,Acatzingo,11
+MX,Puebla,Acatzingo De Hidalgo,1
 MX,Puebla,Acatzingo de Hidalgo,16
 MX,Puebla,Amozoc,1
-MX,Puebla,Atlixco,6
+MX,Puebla,Atlixco,5
+MX,Puebla,Barrio El Calvario,2
+MX,Puebla,Barrio El Trebol,12
+MX,Puebla,Barrio Las Cruces,1
+MX,Puebla,Barrio San Antonio,3
+MX,Puebla,Barrio San Gabriel,1
+MX,Puebla,Barrio San Jose,6
 MX,Puebla,Barrio San Juan Portezuelo,1
+MX,Puebla,Barrio San Miguel,5
+MX,Puebla,Barrio Tetela,1
+MX,Puebla,Chalchicomila De Sema,1
 MX,Puebla,Chignahuapan,2
-MX,Puebla,Col. San Lorenzo Teotipilco,2
+MX,Puebla,Col. Hermosillo,2
+MX,Puebla,Col. Puebla Centro,7
+MX,Puebla,Col. Quecholac,4
+MX,Puebla,Col. San Juan Soto,1
 MX,Puebla,Congregacion San Baltasar,1
 MX,Puebla,Cuapiaxtla De Madero,17
 MX,Puebla,Cuapiaxtla de Madero,8
 MX,Puebla,Cuautlancingo,3
-MX,Puebla,Fracc. Real De Huejotzingo,1
+MX,Puebla,Finca Puebla,3
+MX,Puebla,Fracc. Real De Huejotzingo,2
 MX,Puebla,Fracc. Santa Maria Coapan,1
 MX,Puebla,"Froylan C. Manjarrez, Quecholac",3
 MX,Puebla,General Felipe Angeles,3
 MX,Puebla,Guadalupe,1
-MX,Puebla,Heroica Puebla De Zaragoza,93
+MX,Puebla,Heroica Puebla De Zaragoza,91
 MX,Puebla,Huejotzingo,1
 MX,Puebla,Huixcolotla,1
+MX,Puebla,La Trinidad Tepango,1
 MX,Puebla,Los Reyes De Juarez,12
 MX,Puebla,Los Reyes de Juarez,4
+MX,Puebla,Magdalena Cuayucatepec,10
 MX,Puebla,"Magdalena Cuayucatepec, Tehuacan",2
 MX,Puebla,Mazapiltepec De Juarez,1
 MX,Puebla,Nopalucan,3
 MX,Puebla,Palmar De Bravo,2
 MX,Puebla,Palmar de Bravo,1
 MX,Puebla,Palmarito,2
-MX,Puebla,Palmarito Tochapan,26
-MX,Puebla,Palmarito Tochopan Quecholac,3
-MX,Puebla,Puebla,40
+MX,Puebla,Palmarito Tochapan,12
+MX,Puebla,Parque Industrial San Jose Maravillas,3
+MX,Puebla,Puebla,39
 MX,Puebla,Pueblo,1
-MX,Puebla,Pueblo Acatzingo De Hidalgo,1
+MX,Puebla,Pueblo Acatzingo De Hidalgo,3
 MX,Puebla,Pueblo Barrio San Jose,1
 MX,Puebla,Pueblo Buenavista De Juarez,20
-MX,Puebla,Pueblo Concordia De Aquiles Serdan,1
-MX,Puebla,Pueblo Cuacnopalan,3
-MX,Puebla,Pueblo Los Reyes De Juarez,9
+MX,Puebla,Pueblo Froylan C Manjarrez,1
+MX,Puebla,Pueblo Jesus Nazareno,4
+MX,Puebla,Pueblo La Compania,5
+MX,Puebla,Pueblo Los Reyes De Juarez,11
 MX,Puebla,Pueblo Miguel Negrete,23
 MX,Puebla,Pueblo Palmar De Bravo,2
-MX,Puebla,Pueblo Palmarito Tochapan,5
-MX,Puebla,Pueblo San Baltazar Tetela,1
+MX,Puebla,Pueblo Palmarito Tochapan,4
 MX,Puebla,Pueblo San Juan Acozac,7
 MX,Puebla,Pueblo San Juan Ixcaquixtla,2
 MX,Puebla,Pueblo San Lorenzo Ometepec,2
 MX,Puebla,Pueblo San Mateo,2
 MX,Puebla,Pueblo San Nicolas Buenos Aires,2
 MX,Puebla,Pueblo San Nicolas De Buenos Aires,1
+MX,Puebla,Pueblo San Pablo Actipan,1
 MX,Puebla,Pueblo San Pedro Benito Juarez,1
 MX,Puebla,Pueblo San Salvador El Seco,2
 MX,Puebla,Pueblo San Salvador Huixcolotla,11
-MX,Puebla,Pueblo San Sebastian Villanueva,7
+MX,Puebla,Pueblo San Sebastian Villanueva,6
 MX,Puebla,Pueblo Santa Maria La Alta,10
-MX,Puebla,Pueblo Santiago Acozac,1
+MX,Puebla,Pueblo Santiago Acozac,2
 MX,Puebla,Pueblo Santiago Miahuatlan,1
 MX,Puebla,Pueblo Tehuitzingo,1
 MX,Puebla,Pueblo Tlacotepec De Benito Juarez,1
 MX,Puebla,Pueblo Tuzuapan,1
 MX,Puebla,Pueblo Xaltepec,1
-MX,Puebla,Quecholac,32
+MX,Puebla,Quecholac,38
 MX,Puebla,RINIDAD TEPANGO ATLIXCO,3
 MX,Puebla,Rancheria Tlajomulco,1
-MX,Puebla,Rancho O Rancheria Palmar De Bravo,3
 MX,Puebla,Rancho O Rancheria San Simon De Bravo,3
 MX,Puebla,San Andres Cholula,23
 MX,Puebla,San Bernardino Tlaxcalancingo,1
 MX,Puebla,San Hipolito Xochiltenango,1
 MX,Puebla,San Jose Tuzuapan,2
+MX,Puebla,San Lorenzo Chiautzingo,1
 MX,Puebla,San Martin Texmelucan,3
-MX,Puebla,San Mateo Tlaixpan,1
-MX,Puebla,San Miguel Xaltepec,5
 MX,Puebla,San Nicolas Buenos Aire,2
 MX,Puebla,San Pedro Cholula,3
 MX,Puebla,San Salvador Huixcolotla,11
-MX,Puebla,San Sebastian Villanueva,6
-MX,Puebla,San Simon De Bravo,4
-MX,Puebla,Santa Maria Nepopualco,1
-MX,Puebla,Tehuacan,10
+MX,Puebla,San Sebastian Villanueva,5
+MX,Puebla,Tecamachalco,1
+MX,Puebla,Tehuacan,12
 MX,Puebla,Tepanco de Lopez,1
-MX,Puebla,Tepeaca,3
+MX,Puebla,Tepeaca,2
 MX,Puebla,Tochtepec,6
-MX,Puebla,Tulcingo De Valle,5
-MX,Puebla,Villa Quecholac,7
+MX,Puebla,Villa Quecholac,1
 MX,Puebla,Villa Tochtepec,6
 MX,Puebla,Xicotepec,3
 MX,Pueblo,Los Reyes De Juarez,1
@@ -8070,9 +8117,13 @@ MX,Queretaro,Santa Rosa Jauregui,7
 MX,Queretaro,Santiago De Queretaro,14
 MX,Quintana Roo,Cancun,1
 MX,Quintana Roo,Solidaridad,1
+MX,SIN,Ahome,1
+MX,SIN,Angostura,2
 MX,SIN,Concordia,1
+MX,SIN,Guasave,2
 MX,SIN,Los Mochis,8
 MX,SIN,Navolato,1
+MX,SLP,Tamun,3
 MX,SON,Arizpe,1
 MX,SON,Caborca,47
 MX,SON,Hermosillo,3
@@ -8082,7 +8133,7 @@ MX,SON,Sonora,2
 MX,SONORA,ARIZPE,1
 MX,San Francisco De los Romo,Aguascalientes,6
 MX,San Luis Potosi,Ebano,13
-MX,San Luis Potosi,El Rosario,5
+MX,San Luis Potosi,El Rosario,4
 MX,San Luis Potosi,Fracc. Cruces,1
 MX,San Luis Potosi,Matehuala,14
 MX,San Luis Potosi,Mexquitic de Carmona,18
@@ -8091,42 +8142,37 @@ MX,San Luis Potosi,Poblado Comunal Ejido De Bocas (Las Tablitas),3
 MX,San Luis Potosi,Rioverde,2
 MX,San Luis Potosi,San Luis Potosi,73
 MX,San Luis Potosi,Soledad De Graciano Sanchez,3
-MX,San Luis Potosi,Tamuin,3
 MX,San Luis Potosi,Villa De Arista,1
 MX,San Luis Potosi,Villa Hidalgo,7
 MX,San Luis Potosi,Villa de Arista,1
 MX,San Luis Potosi,Villa de La Paz,1
-MX,Sin,Ahome,1
 MX,Sin,Angostura,1
 MX,Sin,Culiacan,4
 MX,Sin,Mazatln,1
 MX,Sin,Mazatl¿n,1
 MX,Sin,Sinaloa,1
-MX,Sinaloa,Ahome,4
+MX,Sinaloa,Ahome,5
 MX,Sinaloa,Costa Rica,14
 MX,Sinaloa,Culiacan,63
-MX,Sinaloa,Culiacan Rosales,42
-MX,Sinaloa,Ejido El Aguajito,1
+MX,Sinaloa,Culiacan Rosales,43
 MX,Sinaloa,Ejido Isla Del Bosque,2
 MX,Sinaloa,Ejido Mochis,1
 MX,Sinaloa,El Rosario,4
-MX,Sinaloa,Escuinapa,9
+MX,Sinaloa,Escuinapa,10
 MX,Sinaloa,Escuinapa De Hidalgo,3
 MX,Sinaloa,Guamuchil,9
-MX,Sinaloa,Guasave,7
+MX,Sinaloa,Guasave,5
 MX,Sinaloa,Higuera De Zaragoza,1
 MX,Sinaloa,Isla Del Bosque,1
-MX,Sinaloa,Los Mochis,16
+MX,Sinaloa,Los Mochis,17
 MX,Sinaloa,Los Mochis ,1
 MX,Sinaloa,Mazatlan,19
 MX,Sinaloa,Mochicahui,3
 MX,Sinaloa,Mocorito,3
 MX,Sinaloa,Navolato,1
 MX,Sinaloa,Pueblo Baca,1
-MX,Sinaloa,Pueblo La Reforma,2
 MX,Sinaloa,Pueblo Nuevo San Miguel,10
 MX,Sinaloa,"Pueblo Nuevo, Elota",4
-MX,Sinaloa,Rancheria Campo La Arrocera,1
 MX,Sinaloa,Rancheria Las Lomas Del Pedregal,1
 MX,Sinaloa,Rancheria Rincon De Alisos,1
 MX,Sinaloa,Rosario,3
@@ -8141,7 +8187,6 @@ MX,Son,Huatabampo,1
 MX,Son,San Luis Rio Colorado,1
 MX,Son,San Luis Ro Colorado,3
 MX,Sonora,Agua Prieta,1
-MX,Sonora,Arizpe,1
 MX,Sonora,Bacum,1
 MX,Sonora,Caborca,10
 MX,Sonora,Cajeme,10
@@ -8149,14 +8194,15 @@ MX,Sonora,Carbo,9
 MX,Sonora,Carretera International,1
 MX,Sonora,Ciudad Obregon,89
 MX,Sonora,Cocorit,1
+MX,Sonora,Col. Bahia De Kino,1
 MX,Sonora,Congregacion Las Bocas,1
 MX,Sonora,Ejido Adelitas,2
 MX,Sonora,Ejido Nuevo Arizpe,1
 MX,Sonora,Empalme,18
 MX,Sonora,Guaymas,20
 MX,Sonora,HERMOSILLO,1
-MX,Sonora,Hermosillo,66
-MX,Sonora,Heroica Caborca,37
+MX,Sonora,Hermosillo,65
+MX,Sonora,Heroica Caborca,39
 MX,Sonora,Heroica Guaymas,1
 MX,Sonora,Heroica Nogales,35
 MX,Sonora,Huatabampo,15
@@ -8167,14 +8213,15 @@ MX,Sonora,Nogales,10
 MX,Sonora,Obregon,2
 MX,Sonora,Pesqueira,1
 MX,Sonora,Pueblo Bacoachi,2
+MX,Sonora,Pueblo Chinapa,1
 MX,Sonora,Pueblo Guadalupe,1
-MX,Sonora,Quiriego,1
 MX,Sonora,Rancheria Chahuilla,5
+MX,Sonora,Rancheria El Tanque,1
 MX,Sonora,Rancheria Empaque Maria Luisa Farms,1
 MX,Sonora,Rancho O Rancheria Centro,6
 MX,Sonora,San Ignacio Rio Muerto,1
-MX,Sonora,San Luis Rio Colorado,39
-MX,Sonora,San Luis Ro Colorado,35
+MX,Sonora,San Luis Rio Colorado,40
+MX,Sonora,San Luis Ro Colorado,36
 MX,Sonora,San Pedro O El Saucito (San Pedro El Saucito),2
 MX,State of Mexico,Naucalpan,10
 MX,Tab,Balancn,2
@@ -8192,8 +8239,7 @@ MX,Tamaulipas,Hidalgo,1
 MX,Tamaulipas,Llera De Canales,1
 MX,Tamaulipas,Matamoros,10
 MX,Tamaulipas,Nuevo Laredo,1
-MX,Tamaulipas,Reynosa,32
-MX,Tamaulipas,San Nicolas,1
+MX,Tamaulipas,Reynosa,33
 MX,Tamaulipas,Tampico,1
 MX,Tamps,Cd Victoria,1
 MX,Tamps,Reynosa,13
@@ -8202,7 +8248,10 @@ MX,Tlaxcala,Barrio Mexico,1
 MX,Tlaxcala,Ciudad De Nanacamilpa,1
 MX,Tlaxcala,Cuapiaxtla,1
 MX,Tlaxcala,Huamantla,23
+MX,Tlaxcala,Independencia,1
+MX,Tlaxcala,Pueblo Santa Cruz Tlaxcala,3
 MX,Tlaxcala,Rancheria Nexnopala,4
+MX,Tlaxcala,Rancheria San Manuel Tlalpan,7
 MX,Tlaxcala,San Pablo Del Monte,2
 MX,Tlaxcala,Xaltocan,7
 MX,UNK,UNK,5
@@ -8222,9 +8271,7 @@ MX,Veracruz,Ixtaczoquitlan,2
 MX,Veracruz,Jose Cardel,1
 MX,Veracruz,Martinez De La Torre,5
 MX,Veracruz,Otatitlan,1
-MX,Veracruz,Paso Del Macho,1
 MX,Veracruz,Perote,5
-MX,Veracruz,Plan De Ayala,1
 MX,Veracruz,Pueblo Ecatepec,1
 MX,Veracruz,Pueblo La Gloria,1
 MX,Veracruz,Pueblo Santa Rosa,1
@@ -8235,13 +8282,15 @@ MX,Veracruz,Rancheria Joluca,1
 MX,Veracruz,Rancheria Mata Espino,1
 MX,Veracruz,Rio Blanco,1
 MX,Veracruz,San Andres Tuxtla,1
+MX,Veracruz,Tihuatlan,1
 MX,Veracruz,Tomatlan,12
 MX,Veracruz,Valente Diaz,8
-MX,Veracruz,Veracruz,21
+MX,Veracruz,Veracruz,22
 MX,Veracruz,Villa Cotaxtla,1
 MX,Veracruz,Xalapa-Enriquez,3
 MX,Veracruz,Xico,1
 MX,Veracruz de Ignacio de La Llav,Alamo Temapache,2
+MX,Veracruz de Ignacio de La Llav,Col. Estadio,1
 MX,Veracruz de Ignacio de La Llav,Cordoba,1
 MX,Veracruz de Ignacio de La Llav,Coscomatepec,1
 MX,Veracruz de Ignacio de La Llav,Isla,1
@@ -8287,8 +8336,8 @@ MX,Zacatecas,Pinos,2
 MX,Zacatecas,Pueblo Apozol,2
 MX,Zacatecas,Pueblo El Saladillo,4
 MX,Zacatecas,Pueblo La Victoria,1
-MX,Zacatecas,San Pedro Piedra Gorda,14
-MX,Zacatecas,Tabasco,3
+MX,Zacatecas,Rancheria Centro,14
+MX,Zacatecas,Tabasco,4
 MX,Zacatecas,Tlaltenango De Sanchez Roman,1
 MX,Zacatecas,Victor Rosales,15
 MX,Zacatecas,Zacatecas,4
@@ -8321,6 +8370,7 @@ MY,Melaka,Melaka Tengah,2
 MY,Melaka,Tanjong Kling,1
 MY,Negeri Sembilan,Banda Enstek,1
 MY,Negeri Sembilan,Nilai,1
+MY,Negeri Sembilan,Rembau,1
 MY,Negeri Sembilan,Seremban,40
 MY,Pahang,Kuantan,3
 MY,Perak,Ayer Tawar,10
@@ -8334,11 +8384,11 @@ MY,Perak,Pantai Remis,16
 MY,Perak,Parit Buntar,5
 MY,Perak,Sitiawan,1
 MY,Perak,Sri Manjung,21
-MY,Perak,Taiping,4
+MY,Perak,Taiping,5
 MY,Perak,Teluk Intan,2
 MY,Perlis,Kangar,1
 MY,Pulau Pinang,Air Itam,1
-MY,Pulau Pinang,Bayan Lepas,4
+MY,Pulau Pinang,Bayan Lepas,6
 MY,Pulau Pinang,Bukit Mertajam,153
 MY,Pulau Pinang,Butterworth,7
 MY,Pulau Pinang,Gelugor,1
@@ -8366,7 +8416,7 @@ MY,Selangor,Kapar,2
 MY,Selangor,Klang,6
 MY,Selangor,Klang ,7
 MY,Selangor,Klia,3
-MY,Selangor,Petaling,76
+MY,Selangor,Petaling,77
 MY,Selangor,Petaling Jaya,45
 MY,Selangor,Port Klang,2
 MY,Selangor,Puchong,6
@@ -8375,7 +8425,7 @@ MY,Selangor,Semenyih,12
 MY,Selangor,Sepang,13
 MY,Selangor,Seri Kembanga,1
 MY,Selangor,Seri Kembangan,11
-MY,Selangor,Shah Alam,13
+MY,Selangor,Shah Alam,14
 MY,Selangor,Shah Alam Selangor,3
 MY,Selangor,Shah Alam Selangor Darul Ehsan,2
 MY,Selangor,Subang Jaya,1
@@ -8386,8 +8436,8 @@ MY,Selangor Darul Ehsan,Kepong,1
 MY,Selangor Darul Ehsan,Klang,5
 MY,UNKNOWN,Selangor,1
 MY,Unknown,Unknown,1
-MY,WP Kuala Lumpur,Kuala Lumpur,6
-MY,Wilayah Persekutuan,Kuala Lumpur,358
+MY,WP Kuala Lumpur,Kuala Lumpur,9
+MY,Wilayah Persekutuan,Kuala Lumpur,359
 MY,Wilayah Persekutuan Labuan,Labuan,15
 MY,Wp Kuala Lumpur,Kuala Lumpur,4
 MZ,Maputo - City,Maputo,9
@@ -8396,9 +8446,8 @@ NG,Abia,Umuahia,2
 NG,Anambra,Onitsha,1
 NG,Anambra State,Nnewi,1
 NG,Bayelsa State,Yenagoa,1
-NG,Cross River State,Lagos,76
+NG,Cross River State,Lagos,75
 NG,Edo,Benin City,8
-NG,Edo,New Benin City,1
 NG,Edo State,Estate,3
 NG,Ekiti State,Aba Oshodi,4
 NG,Enugu,Enugu,2
@@ -8422,7 +8471,7 @@ NG,Lagos,Iju,1
 NG,Lagos,Ikeja,6
 NG,Lagos,Ikeja Lagos,3
 NG,Lagos,Isolo,1
-NG,Lagos,Lagos,85
+NG,Lagos,Lagos,93
 NG,Lagos,Obga Ikeja,1
 NG,Lagos,Oregun,2
 NG,Lagos,Oshodi,1
@@ -8432,6 +8481,7 @@ NG,Lagos State,Ikeja,1
 NG,Lagos State,Ikorodu,1
 NG,Lagos State,Lagos,13
 NG,Lagos State,Ojota (Epe),5
+NG,NG-IM,Arondizuogu Imo State,1
 NG,NG-LA,"Egan, Igando",1
 NG,NG-LA,Ijanikin,1
 NG,NG-LA,Ikeja,3
@@ -8439,7 +8489,6 @@ NG,NG-LA,Ikorodu,1
 NG,NG-LA,Ikosi-Ketu,1
 NG,NG-LA,Lagos,18
 NG,NG-LA,MAILAND,2
-NG,NG-LA,Ogudu,2
 NG,NG-LA,Shasha,4
 NG,NG-LA,lagos,9
 NG,NG-OG,Agbara,3
@@ -8483,6 +8532,7 @@ NI,NI-BO,Camopa,6
 NI,NI-LE,Nagarote,1
 NI,NI-MN,Leon-Chinengega,1
 NI,NI-MN,Managua,14
+NI,NI-MS,Nindiri,6
 NI,NI-MT,Matiguas,7
 NI,NI-MT,Sebaco,1
 NI,NI-NOTA,Cofraida,1
@@ -8494,15 +8544,16 @@ NI,RAAS,Nueva Guinea,2
 NI,South Caribbean Coast Autonomo,Corn Island,2
 NL, ,Leveroy,1
 NL, ,Utrecht,29
+NL,AB,Noord-Brabant,2
 NL,Drenthe,Coevorden,5
 NL,Drenthe,Emmen,1
 NL,Drenthe,Smilde,1
 NL,FN,Nieuw Vennep,1
 NL,Flevoland,Almere,12
 NL,Flevoland,Biddinghuizen,2
-NL,Flevoland,Dronten,7
+NL,Flevoland,Dronten,4
 NL,Flevoland,Lelystad,10
-NL,Flevoland,Urk,3
+NL,Flevoland,Urk,8
 NL,Friesland,Bolsward,2
 NL,Friesland,Drachten,11
 NL,Friesland,Heerenveen,2
@@ -8530,13 +8581,13 @@ NL,Gelderland,Ulft,1
 NL,Gelderland,Wijchen,15
 NL,Gelderland,Zaltbommel,2
 NL,Gelderland,Zetten,2
-NL,Groningen,Groningen,9
+NL,Groningen,Groningen,11
 NL,Groningen,Haren Gn,2
 NL,Groningen,Leek,1
 NL,Limburg,Geleen,1
 NL,Limburg,Gronsveld,1
 NL,Limburg,Haelen,1
-NL,Limburg,Heerlen,7
+NL,Limburg,Heerlen,8
 NL,Limburg,Herkenbosch,4
 NL,Limburg,Heythuysen,1
 NL,Limburg,Horst,7
@@ -8561,7 +8612,7 @@ NL,Noord-Brabant,Berlicum Nb,2
 NL,Noord-Brabant,Best,2
 NL,Noord-Brabant,Bladel,2
 NL,Noord-Brabant,Boxmeer,3
-NL,Noord-Brabant,Breda,55
+NL,Noord-Brabant,Breda,56
 NL,Noord-Brabant,Cuijk,3
 NL,Noord-Brabant,Eindhoven,6
 NL,Noord-Brabant,Etten-Leur,3
@@ -8580,7 +8631,7 @@ NL,Noord-Brabant,Vlijmen,1
 NL,Noord-Brabant,Volkel,2
 NL,Noord-Brabant,Waalwijk,2
 NL,Noord-Brabant,Wijk En Aalburg,1
-NL,Noord-Holland,Amsterdam,46
+NL,Noord-Holland,Amsterdam,47
 NL,Noord-Holland,Amsterdam-Duivendrecht,2
 NL,Noord-Holland,Blaricum,1
 NL,Noord-Holland,Bussum,1
@@ -8638,7 +8689,7 @@ NL,Utrecht,Leerdam,1
 NL,Utrecht,Leusden,1
 NL,Utrecht,Nieuwegein,3
 NL,Utrecht,Nr Utrechtnr,1
-NL,Utrecht,Utrecht,13
+NL,Utrecht,Utrecht,15
 NL,Utrecht,Woerden,2
 NL,Utrecht,Zeist,2
 NL,Zeeland,Axel,3
@@ -8703,6 +8754,7 @@ NP,Kathmandu,Kathmandu,20
 NP,Kathmandu,Kirtipur,1
 NP,Morang,Biratnagar Bazar,1
 NP,NP-BA,Kathmandu,6
+NP,NP-KO,Sonapur,1
 NP,None of the above,Kathandu,3
 NP,Parsa,Parsa,1
 NP,Rupandehi,Rupandehi,1
@@ -8765,11 +8817,12 @@ PE,FN,Lima,1
 PE,Huamanga,Ayacucho,5
 PE,Huanuco,Huanuco,1
 PE,Huaura,Caleta de Carquin,6
-PE,Huaytara,San Isidro,3
+PE,Huaytara,San Isidro,4
 PE,Huaytara,San isidro,2
 PE,ICA,Chincha,6
 PE,Ica,Ica,16
 PE,Ilo,Ilo,1
+PE,La Molina,Lima,1
 PE,Lambayeque,Chiclayo,5
 PE,Lambayeque,Jayanca,39
 PE,Lambayeque,Olmos,1
@@ -8826,10 +8879,11 @@ PH,Calabarzon,Antipolo,1
 PH,Calabarzon,Binan,1
 PH,Calabarzon,Cainta,1
 PH,Calabarzon,Calamba,8
-PH,Calabarzon,Cavite,65
+PH,Calabarzon,Cavite,60
 PH,Calabarzon,Dasmarinas,10
+PH,Calabarzon,Gen. Trias,74
 PH,Calabarzon,Imus,12
-PH,Calabarzon,Laguna,67
+PH,Calabarzon,Laguna,70
 PH,Calabarzon,Quezon,10
 PH,Calabarzon,Rizal,2
 PH,Calabarzon,Rodriguez,1
@@ -8837,7 +8891,6 @@ PH,Calabarzon,San Mateo,12
 PH,Calabarzon,San Pablo,1
 PH,Calabarzon,Sta. Rosa,1
 PH,Calabarzon,Trece Martires City,1
-PH,Caraga,Alegria,1
 PH,Cavite,Imus Citry,8
 PH,Cebu,Kasambagan,2
 PH,Central Luzon,Bulacan,12
@@ -8849,29 +8902,30 @@ PH,Central Luzon,Olongapo City,3
 PH,Central Luzon,Pampanga,44
 PH,Central Luzon,Tarlac,6
 PH,Central Luzon,Zambales,1
-PH,Central Visayas,Cebu,44
-PH,Central Visayas,Cebu City,7
+PH,Central Visayas,Cebu,26
+PH,Central Visayas,Cebu City,15
 PH,Central Visayas,Lapu-Lapu City,2
 PH,Cotabato,General Santos City,1
 PH,Davao,Davao del Sur,9
 PH,Davao Region,Davao City,5
+PH,Eastern Visayas,Bacolod City,14
 PH,Ilocos Region,Bantay,3
-PH,Laguna,San Pablo City,146
+PH,Laguna,San Pablo City,147
 PH,Manila,Makati,12
-PH,Manila,Manila,67
 PH,Marikina,Bulacan,3
+PH,Metro Cebu,Mandaue City,10
 PH,Metro Manila,Manila,5
 PH,Metro Manila,Valenzuela,9
 PH,Metro Manila,Valenzuela City,4
 PH,Mimaropa,Palawan,26
 PH,National Capital Region,Caloocan City,5
-PH,National Capital Region,Caloocan City North,6
+PH,National Capital Region,Caloocan City North,12
 PH,National Capital Region,Las Pinas,1
-PH,National Capital Region,Makati,1
+PH,National Capital Region,Makati,6
 PH,National Capital Region,Malabon,32
 PH,National Capital Region,Mandaluyong,1
 PH,National Capital Region,Manila,8
-PH,National Capital Region,Metro Manila,131
+PH,National Capital Region,Metro Manila,133
 PH,National Capital Region,Muntinlupa,5
 PH,National Capital Region,Navotas,40
 PH,National Capital Region,Navotas City,2
@@ -8911,7 +8965,6 @@ PH,SOUTH COTABATO,General Santos City,6
 PH,Soccsksargen,Gen. Santos City,14
 PH,Soccsksargen,Polomolok,1
 PH,Socsargen,South Cotabato,21
-PH,Western Visayas,Negros Occidental,14
 PH,Zamboanga Peninsula,Zamboanga,11
 PH,Zamboanga Peninsula,Zamboanga City,14
 PH,Zamboanga Peninsula,Zamboanga Del Sur,1
@@ -8920,6 +8973,7 @@ PK,811105,Lahore,13
 PK,Gujranwala,Kamoke,5
 PK,Islamabad,Islamabad,5
 PK,Khyber Pakhtunkhwa,Haripur,2
+PK,Khyber Pakhtunkhwa,Mardan,1
 PK,"Lahore, Punjab",Sanda Kalan,2
 PK,None of the above,Karachi,15
 PK,None of the above,Lahore,1
@@ -8942,12 +8996,12 @@ PK,Punjab,Qila Shekhupura,6
 PK,Punjab,Sargodha,4
 PK,Punjab,Sheikhupura,2
 PK,Punjab,Sialkot,246
-PK,SIND,Karachi,49
-PK,Sindh,Karachi,772
+PK,SIND,Karachi,52
+PK,Sindh,Karachi,778
 PK,Sindh,Khairpur Mirs,1
 PK,Unknown,Unknown,1
 PL,Dolnoslaskie,Jelenia Gora,3
-PL,Dolnoslaskie,Kobierzyce,3
+PL,Dolnoslaskie,Kobierzyce,4
 PL,Dolnoslaskie,Kowary,2
 PL,Dolnoslaskie,Mirkow,1
 PL,Dolnoslaskie,Oborniki Slaskie,1
@@ -8986,11 +9040,12 @@ PL,Mazowieckie,Blonie,1
 PL,Mazowieckie,Brochow,1
 PL,Mazowieckie,Czosnow,4
 PL,Mazowieckie,Garwolin,2
+PL,Mazowieckie,Grodzisk Mazowiecki,1
 PL,Mazowieckie,Grojca,3
-PL,Mazowieckie,Lesznowola,1
+PL,Mazowieckie,Lesznowola,7
 PL,Mazowieckie,Nasielsk,2
 PL,Mazowieckie,Ostrow Mazowiecka,2
-PL,Mazowieckie,Piaseczno,9
+PL,Mazowieckie,Piaseczno,15
 PL,Mazowieckie,Piastow,1
 PL,Mazowieckie,Pruszkow,1
 PL,Mazowieckie,Radom,1
@@ -9001,7 +9056,7 @@ PL,Mazowieckie,Sochaczew,3
 PL,Mazowieckie,Warsaw,72
 PL,Mazowieckie,Warszawa,10
 PL,Mazowieckie,Wegrow,2
-PL,Mazowieckie,Wiazowna,13
+PL,Mazowieckie,Wiazowna,17
 PL,Mazowieckie,Wolomin,1
 PL,Mazowieckie,Zielonka,1
 PL,None of the above,Poznan,1
@@ -9030,7 +9085,7 @@ PL,Pomorskie,Krokowa,1
 PL,Pomorskie,Kwidzyn,1
 PL,Pomorskie,Leba,6
 PL,Pomorskie,Slupsk 2,1
-PL,Pomorskie,Sopot,5
+PL,Pomorskie,Sopot,9
 PL,Pomorskie,Starogard Gdanski,3
 PL,Pomorskie,Ustka,7
 PL,Pomorskie,Wejherowo,4
@@ -9158,6 +9213,7 @@ RO,Timis,Sacalaz,1
 RO,Timis,Timisoara,1
 RO,Valcea,RAMNICU VALCEA,2
 RO,Valcea,Ramnicu Valcea,35
+RS,Banja,Arandjelovac,1
 RS,Beograd,Belgrade,1
 RS,Kraljevo,"Vrdila,",4
 RS,Krusevac,Aleksandrovac,1
@@ -9177,6 +9233,7 @@ RU,Astrakhanskaya oblast,Astrakhan,2
 RU,Belgorodskaya obl,Staryy Oskol,1
 RU,Chelyabinskaya obl,Chelyabinsk,7
 RU,Chelyabinskaya obl,Uvelskiy,8
+RU,Chuvashskaya Resp,Cheboksary,36
 RU,Irkutskaya Obl.,Irkutsk,2
 RU,Irkutskaya obl,Irkutsk,1
 RU,Ivanovskaya obl,Ivanovo,2
@@ -9199,6 +9256,7 @@ RU,Moscow g,Moscow,107
 RU,Moskovskaya Obl.,Malahovka,3
 RU,Moskovskaya Obl.,Sof'yno Village,1
 RU,Moskovskaya obl,Bykovo,1
+RU,Moskovskaya obl,Chernogolovka,9
 RU,Moskovskaya obl,Dmitrov,2
 RU,Moskovskaya obl,Dolgoprudnyy,1
 RU,Moskovskaya obl,Elektrougli,2
@@ -9403,6 +9461,7 @@ SV,SV-NOTA,La Libertad,1
 SV,SV-PA,Rosario de la paz,3
 SV,SV-SS,San Salvador,1
 SV,San Miguel,Chirilagua,1
+SV,San Miguel,San Miguel,1
 SV,San Salvador,Ciudad Delgado,2
 SV,San Salvador,El Salvedor,14
 SV,San Salvador,Ilopango,3
@@ -9411,7 +9470,7 @@ SV,San Salvador,San Marcos,14
 SV,San Salvador,San Martin,15
 SV,San Salvador,San Salvador,48
 SV,San Salvador,Santo Tomas,8
-SV,San Salvador,Soyapango,49
+SV,San Salvador,Soyapango,51
 SV,San Vicente,Tecoluca,26
 SV,San Vicente,Verapaz,1
 SV,Santa Ana,Santa Ana,2
@@ -9434,13 +9493,13 @@ TH,Bangkoalame,Bangkok,1
 TH,Bangkok,Bang Bon,4
 TH,Bangkok,Bang Kapi,11
 TH,Bangkok,Bang Khen,1
-TH,Bangkok,Bang Kho Laem,21
+TH,Bangkok,Bang Kho Laem,22
 TH,Bangkok,Bang Kholame,1
 TH,Bangkok,Bang Khun Thian,5
 TH,Bangkok,Bang Na,5
 TH,Bangkok,Bang Phlat,1
-TH,Bangkok,Bang Rak,15
-TH,Bangkok,Bangkok,54
+TH,Bangkok,Bang Rak,10
+TH,Bangkok,Bangkok,56
 TH,Bangkok,Bangkok Noi,3
 TH,Bangkok,Bangkok Yai,1
 TH,Bangkok,Chatuchak,9
@@ -9450,7 +9509,7 @@ TH,Bangkok,Don Mueang,1
 TH,Bangkok,Huai Khwang,2
 TH,Bangkok,Khan Na Yao,6
 TH,Bangkok,Khlong San,8
-TH,Bangkok,Khlong Toei,4
+TH,Bangkok,Khlong Toei,2
 TH,Bangkok,Lak Si,1
 TH,Bangkok,Lat Krabang,6
 TH,Bangkok,Latkrabang,3
@@ -9476,8 +9535,8 @@ TH,Bangkok,Thung Khru,1
 TH,Bangkok,Watthana,4
 TH,Bangkok,Yan Nawa,2
 TH,Bangkok,Yannawa,10
-TH,Bangkrolaem,Bangkok,4
-TH,Chachoengsao,Bang Pakong,25
+TH,Bangkrolaem,Bangkok,5
+TH,Chachoengsao,Bang Pakong,26
 TH,Chachoengsao,Bangnamprew,1
 TH,Chachoengsao,Chachoengsao,1
 TH,Chachoengsao,Plaeng Yao,3
@@ -9497,7 +9556,7 @@ TH,Chonburi,Sriracha,2
 TH,Chumphon,Pathio,1
 TH,Chumphon,Phato,1
 TH,FN,Bangkok,2
-TH,Kalasin,Kalasin,1
+TH,Kalasin,Kalasin,2
 TH,Kanchanaburi,Amphor Thamaka,1
 TH,Kanchanaburi,Tha Maka,1
 TH,Kanchanaburi,Thamaka,1
@@ -9505,7 +9564,7 @@ TH,Khlung,Klung Chantaburi,1
 TH,Khon Kaen,Nam Phong,2
 TH,Krung Thep Maha Nakhon,Bangkok,3
 TH,Krung Thep Maha Nakhon,Wangthonglang,3
-TH,Krung Thep Maha Nakhon,Yan Nawa,7
+TH,Krung Thep Maha Nakhon,Yan Nawa,8
 TH,Krung Thep Maha Nakhon [Bangko,Watthana,4
 TH,Krung Thep Mahanakhon,Bangkok,25
 TH,Lampang,Hang Chat,1
@@ -9515,7 +9574,7 @@ TH,Nakhon Pathom,Bang Len,7
 TH,Nakhon Pathom,Kamphaeng Saen,28
 TH,Nakhon Pathom,Muang Nakhon Pathom,5
 TH,Nakhon Pathom,Puttamonthon,2
-TH,Nakhon Pathom,Sam Phran,26
+TH,Nakhon Pathom,Sam Phran,30
 TH,Nakhon Pathom,Sampharn,5
 TH,Nakhon Pathom,Sampran,6
 TH,Nakhon Sawan,Muang Nakhon Sawan,1
@@ -9527,11 +9586,11 @@ TH,None of the above,Rama 9 Road,9
 TH,Nonthaburi,Bang Bua Thong,31
 TH,Nonthaburi,Bang Kruai,1
 TH,Nonthaburi,Bang Yai,13
-TH,Nonthaburi,Chiang Mai,2
 TH,Nonthaburi,Muang Nonthaburi,4
 TH,Nonthaburi,Mueang Nonthaburi,11
-TH,Nonthaburi,Pak Kret,2
-TH,Nonthaburi,Pakkred,3
+TH,Nonthaburi,Nonthaburi,5
+TH,Nonthaburi,Pak Kret,4
+TH,Nonthaburi,Pakkred,4
 TH,Nonthaburi,Sai Noi,6
 TH,Pathum Thani,Khlong Luang,21
 TH,Pathum Thani,Khokod,7
@@ -9595,16 +9654,15 @@ TH,Samut Prakan,Samutprakarn,13
 TH,Samut Prakarn,Bangplee,2
 TH,Samut Sakhon,A. Mueang Samut Sakhon,4
 TH,Samut Sakhon,Amphur Mueang,4
-TH,Samut Sakhon,Krathum Baem,3
+TH,Samut Sakhon,Krathum Baem,1
 TH,Samut Sakhon,Krathum Baen,76
-TH,Samut Sakhon,Muang Samut Sakhon,76
+TH,Samut Sakhon,Muang Samut Sakhon,77
 TH,Samut Sakhon,"Muang Samutsakorn,",4
 TH,Samut Sakhon,Mueang,2
 TH,Samut Sakhon,Mueang Samut Sakhon,79
 TH,Samut Songkhram,Amphawa,3
 TH,Samut Songkhram,Muang Samut,1
-TH,Samut Songkhram,Muang Samut Songkhram,1
-TH,Samut Songkhram,Samut Songkhram,17
+TH,Samut Songkhram,Samut Songkhram,18
 TH,Samutprakarn,Amphormuang,2
 TH,Samutprakarn,Amphur Muang,2
 TH,Samutprakarn,Bang Sao Thong,7
@@ -9649,6 +9707,7 @@ TH,TH-74,Muang,1
 TH,TH-74,Muangsamutsakorn,1
 TH,TH-74,SAMUTSAKORN,1
 TH,TH-74,Samut Sakhon,3
+TH,TH-74,Samutsakorn,2
 TH,TH-75,Ampawa District,5
 TH,TH-NOTA,BANGKOK,8
 TH,TH-NOTA,Bangkok,33
@@ -9694,7 +9753,7 @@ TR,Adana,Imamoglu,1
 TR,Adana,Saricam,3
 TR,Adana,Seyhan,4
 TR,Afyonkarahisar,Dinar,4
-TR,Anatolia,Cekmekoy,42
+TR,Anatolia,Cekmekoy,46
 TR,Anatolia,Istanbul,1
 TR,Ankara,Ankara,1
 TR,Ankara,"Balgat, Cankaya",1
@@ -9714,7 +9773,7 @@ TR,Bakrkoy,Istanbul,1
 TR,Balikesir,Bandirma,1
 TR,Balikesir,Burhaniye,13
 TR,Balikesir,Susurluk,1
-TR,Bilecik,Bilecik,1
+TR,Bilecik,Bilecik,3
 TR,Bursa,Mustafakemalpasa,3
 TR,Bursa,Nilufer,1
 TR,Bursa,Osmangazi,2
@@ -9767,7 +9826,7 @@ TR,Istanbul,Sisli,1
 TR,Istanbul,Sokak Tuzla,7
 TR,Istanbul,Umraniye,77
 TR,Istanbul,Uskudar,7
-TR,Istanbul,Zeytinburnu,15
+TR,Istanbul,Zeytinburnu,12
 TR,Izmir,Bornova,18
 TR,Izmir,Cigli,8
 TR,Izmir,Gaziemir,4
@@ -9775,7 +9834,7 @@ TR,Izmir,Izmir,2
 TR,Izmir,Kemalpasa,24
 TR,Izmir,Konak,17
 TR,Izmir,Menderes,1
-TR,Izmir,Menemen,39
+TR,Izmir,Menemen,43
 TR,Izmir,Pasaport,1
 TR,Izmir,Seferihisar,1
 TR,Izmir,Torbali,13
@@ -9791,14 +9850,14 @@ TR,Kocaeli,Izmit,2
 TR,Kocaeli,Kartepe,18
 TR,Konya,Cumra,1
 TR,Konya,Eregli,2
-TR,Konya,Karatay,5
+TR,Konya,Karatay,7
 TR,Konya,Meram,3
 TR,Malatya,Malatya,8
 TR,Malatya,Yesilyurt,2
 TR,Manisa,Akhisar,4
 TR,Manisa,Salihli,8
 TR,Manisa,Turgutlu,3
-TR,Mersin,Akdeniz,9
+TR,Mersin,Akdeniz,14
 TR,Mersin,Mersin,7
 TR,Mersin (Icel),Akdeniz,2
 TR,Mersin(Icel),Akdeniz,15
@@ -9807,7 +9866,6 @@ TR,Mugla,Dalaman,2
 TR,Mugla,Milas,17
 TR,NJ,KOCAELI,1
 TR,Nigde,Nigde,34
-TR,None of the above,"Akdeniz, Mersin",5
 TR,None of the above,"Izmir,Aegean",1
 TR,None of the above,Mersin,4
 TR,Samsun,Atakum,1
@@ -9818,14 +9876,16 @@ TR,TR-01,ADANA,7
 TR,TR-27,GAZIANTEP,8
 TR,TR-27,Gaziantep,8
 TR,TR-34,Avcilar Istanbul,1
-TR,TR-34,Istanbul,2
+TR,TR-34,Istanbul,5
 TR,TR-34,istanbul,1
-TR,TR-35,Izmir,2
+TR,TR-35,Izmir,3
 TR,TR-37,Kastamonu,13
 TR,TR-41,Kocaeli,3
 TR,TR-44,Malatya,4
 TR,TR-45,Akdeniz,1
 TR,TR-45,Mersin,4
+TR,TR-72,Batman,5
+TR,TR-NOTA,Usak,9
 TR,Tr-70,Karaman,1
 TR,Usak,Esme,3
 TT,Arima,Arima,2
@@ -9859,7 +9919,7 @@ TW,Daxi District,Taoyuan City,1
 TW,Gang-Shan District,Kaohsiung City,6
 TW,Guantian Dist,Tainan City,5
 TW,HSINCHU - DISTRICT,HSINCHU CITY,1
-TW,Hsinchu County,"Qionglin Township,",14
+TW,Hsinchu County,"Qionglin Township,",16
 TW,Hsinchu District,Chubei City,4
 TW,I-Lan,WU-JIA,2
 TW,ILAN,I Lan County,1
@@ -9875,6 +9935,7 @@ TW,Kaohsiung - Special Municipali,Kaohsiung City,6
 TW,Keelung,Keelung,9
 TW,Miaoli,Dahu City,5
 TW,Miaoli,Miaoli County,1
+TW,Miaoli,Tung-Lo Hsiang,5
 TW,Miaoli,Yuan Li,2
 TW,Miaoli,Zhunan Township,1
 TW,Nantou,Nan Tou City,4
@@ -9913,7 +9974,6 @@ TW,TW-PIF,Pingtung County,2
 TW,TW-TAO,Taoyuan County,1
 TW,TW-TNQ,Tainan,1
 TW,TW-TNQ,Tainan City,4
-TW,TW-TNQ,Yongkang Dist,1
 TW,TW-TPE,Shulin City,6
 TW,TW-TPE,Taiepi,2
 TW,TW-TPE,Taipei,3
@@ -9922,25 +9982,26 @@ TW,TW-TPE,"Wu-Ku Industry, Sinjhuang",2
 TW,TW-TPQ,New Taipei City,2
 TW,TW-TPQ,Taipei City,2
 TW,TW-TXG,Taichung,2
-TW,TW-TXG,Taichung City,2
 TW,TW-TXQ,Taichung City,44
 TW,TW-TXQ,Taiping Dist,1
 TW,TW-YUN,Yunlin County,1
 TW,Ta Hsi,Ta Hsi,1
 TW,Ta Li,Taichung,4
 TW,Taichung,Sha Lu,4
-TW,Taichung - District,Taichung,6
+TW,Taichung - District,Taichung,7
 TW,Taichung - District,Taichung City,1
 TW,Taichung - Municipality,Dali Dist.,2
 TW,Taichung - Municipality,Ta Yia Hsiang,1
+TW,Taichung - Municipality,Ta-Li District,2
 TW,Taichung - Municipality,Taichung,5
 TW,Taichung - Municipality,Taichung City,13
 TW,Taichung - Municipality,Taichung County,2
+TW,Tainan,Antin Shiang,1
 TW,Tainan,Jen-Te,1
 TW,Tainan,Tainan,1
 TW,Tainan,Tainan City,4
 TW,Tainan - District,Tainan,15
-TW,Tainan - District,Tainan City,2
+TW,Tainan - District,Tainan City,3
 TW,Tainan - Municipality,Tainan,2
 TW,Tainan-Municipality,Yongkang City,1
 TW,Taipei,New Taipei City,12
@@ -10030,6 +10091,7 @@ UG,Ntungamo,Kampala,1
 UG,UG-102,Kawempe,2
 US,AK,King Cove,1
 US,AK,Kodiak,1
+US,AK,WILLOW,1
 US,AL,Birmingham,1
 US,AL,Cook Springs,2
 US,AL,Fayette,2
@@ -10051,7 +10113,7 @@ US,AZ,Scottsdale,14
 US,AZ,Sedona,1
 US,AZ,Tempe,7
 US,AZ,Tolleson,3
-US,AZ,Tucson,5
+US,AZ,Tucson,6
 US,CA,Alameda,6
 US,CA,Aliso Viejo,1
 US,CA,Altadena,1
@@ -10066,7 +10128,7 @@ US,CA,Brisbane,1
 US,CA,Burbank,2
 US,CA,Burlingame,4
 US,CA,Calipatria,1
-US,CA,Camarillo,1
+US,CA,Camarillo,2
 US,CA,Campbell,2
 US,CA,Canoga Park,3
 US,CA,Carlsbad,20
@@ -10098,7 +10160,7 @@ US,CA,Encino,1
 US,CA,Fairfield,2
 US,CA,Foothill Ranch,21
 US,CA,Foster City,5
-US,CA,Fremont,1
+US,CA,Fremont,2
 US,CA,Fresno,9
 US,CA,Fullerton,14
 US,CA,Garden Grove,1
@@ -10179,7 +10241,7 @@ US,CA,San Rafael,1
 US,CA,Sanger,1
 US,CA,Santa Ana,8
 US,CA,Santa Barbara,2
-US,CA,Santa Clara,4
+US,CA,Santa Clara,5
 US,CA,Santa Clarita,1
 US,CA,Santa Cruz,3
 US,CA,Santa Fe Springs,1
@@ -10213,13 +10275,13 @@ US,CA,Weed,1
 US,CA,Westlake Village,3
 US,CA,Windsor,10
 US,CA,Winterhaven,2
-US,CA,Winters,3
+US,CA,Winters,4
 US,CA,Woodland Hills,2
 US,CA,Yorba Linda,3
 US,CA,Yuba City,1
 US,CO,Aurora,12
 US,CO,Boulder,6
-US,CO,Broomfield,3
+US,CO,Broomfield,4
 US,CO,Colorado,1
 US,CO,Colorado Springs,3
 US,CO,Conifer,4
@@ -10282,7 +10344,7 @@ US,FL,Hialeah,3
 US,FL,Hollywood,2
 US,FL,Homestead,3
 US,FL,Homosassa,1
-US,FL,Jacksonville,116
+US,FL,Jacksonville,117
 US,FL,Jacksonville Beach,2
 US,FL,Key Biscayne,1
 US,FL,Lake Mary,4
@@ -10462,7 +10524,7 @@ US,MA,Framingham,10
 US,MA,Franklin,2
 US,MA,Gloucester,2
 US,MA,Haverhill,1
-US,MA,Lexington,1
+US,MA,Lexington,2
 US,MA,Mansfield,7
 US,MA,Marlborough,4
 US,MA,New Bedford,13
@@ -10510,6 +10572,7 @@ US,MI,Birmingham,1
 US,MI,Boyne City,2
 US,MI,Bridgeport,4
 US,MI,Caledonia,3
+US,MI,Dearborn,1
 US,MI,Grand Rapids,3
 US,MI,Grandville,1
 US,MI,Harbor Beach,1
@@ -10525,6 +10588,7 @@ US,MI,Triangle Park,1
 US,MI,Troy,2
 US,MI,Wixom,1
 US,MI ,Boyne City,1
+US,MN,Anoka,1
 US,MN,Bloomington,1
 US,MN,Brooklyn Park,11
 US,MN,Chaska,1
@@ -10569,7 +10633,7 @@ US,NC,Browns Summit,17
 US,NC,Burlington,2
 US,NC,Charlotte,7
 US,NC,Cherryville,1
-US,NC,Durham,19
+US,NC,Durham,20
 US,NC,Greensboro,9
 US,NC,Greenville,5
 US,NC,Harrisburg,2
@@ -10581,7 +10645,7 @@ US,NC,Mount Olive,1
 US,NC,Raleigh,3
 US,NC,Robersonville,1
 US,NC,Rockwell,6
-US,NC,Rocky Mount,6
+US,NC,Rocky Mount,10
 US,NC,Wilmington,1
 US,NC,Wilson,6
 US,NC,Winston Salem,3
@@ -10618,6 +10682,7 @@ US,NJ,Cranbury,2
 US,NJ,Dayton,1
 US,NJ,Denville,1
 US,NJ,East Hanover,2
+US,NJ,East Hanovereast Hanover,4
 US,NJ,East Rutherford,1
 US,NJ,East Windsor,31
 US,NJ,Eatontown,10
@@ -10625,7 +10690,7 @@ US,NJ,Edison,5
 US,NJ,Elmwood Park,1
 US,NJ,Englewood,6
 US,NJ,Englewood Cliffs,1
-US,NJ,Ewing,6
+US,NJ,Ewing,7
 US,NJ,Fair Lawn,1
 US,NJ,Fairfield,13
 US,NJ,Flanders,2
@@ -10671,7 +10736,7 @@ US,NJ,Peapack,1
 US,NJ,Pennington,6
 US,NJ,Pennsauken,38
 US,NJ,Piscataway,1
-US,NJ,Plainsboro,23
+US,NJ,Plainsboro,24
 US,NJ,Princeton,25
 US,NJ,Rahway,56
 US,NJ,Raritan,3
@@ -10706,7 +10771,7 @@ US,NV,Mccarran,1
 US,NV,North Las Vegas,1
 US,NV,Reno,1
 US,NV,Sparks,25
-US,NY,Amherst,3
+US,NY,Amherst,2
 US,NY,Amityville,2
 US,NY,Bohemia,2
 US,NY,Brentwood,3
@@ -10750,10 +10815,10 @@ US,NY,Medina,1
 US,NY,Melville,79
 US,NY,NEW YORK,1
 US,NY,New Hyde Park,4
-US,NY,New York,107
+US,NY,New York,108
 US,NY,New York City,1
 US,NY,Ogdensburg,1
-US,NY,Orangeburg,5
+US,NY,Orangeburg,6
 US,NY,Orchard Park,3
 US,NY,Plattsburgh,64
 US,NY,Pomona,1
@@ -10826,6 +10891,7 @@ US,PA,Collegeville,2
 US,PA,Corry,1
 US,PA,Eagleville,1
 US,PA,Gibsonia,1
+US,PA,Grove City,1
 US,PA,Hazle Township,1
 US,PA,Hershey,2
 US,PA,Horsham,6
@@ -10905,6 +10971,7 @@ US,SC,Simpsonville,11
 US,SC,Sumter,2
 US,SC,West Columbia,3
 US,SD,Brookings,2
+US,TN,Bristol,1
 US,TN,Chattanooga,2
 US,TN,Cleveland,1
 US,TN,Collierville,3
@@ -10912,7 +10979,7 @@ US,TN,Elizabethton,6
 US,TN,Erwin,1
 US,TN,Hixson,1
 US,TN,Johnson City,1
-US,TN,La Vergne,11
+US,TN,La Vergne,12
 US,TN,Memphis,321
 US,TN,Murfreesboro,1
 US,TN,Nashville,4
@@ -10924,6 +10991,7 @@ US,TX,Allen,1
 US,TX,Amarillo,1
 US,TX,Austin,13
 US,TX,Carrollton,3
+US,TX,Colleyville,1
 US,TX,Commerce,1
 US,TX,Conroe,1
 US,TX,Dallas,20
@@ -10931,7 +10999,6 @@ US,TX,Duncanville,1
 US,TX,El Paso,1
 US,TX,Fort Worth,29
 US,TX,Friendswood,1
-US,TX,Frisco,1
 US,TX,Garden Valley,1
 US,TX,Garland,1
 US,TX,Granbury,1
@@ -10945,7 +11012,7 @@ US,TX,Mcallen,1
 US,TX,Midlothian,2
 US,TX,Mineral Wells,1
 US,TX,Pasadena,1
-US,TX,Plano,2
+US,TX,Plano,4
 US,TX,Richardson,1
 US,TX,Round Rock,1
 US,TX,Saginaw,1
@@ -10984,18 +11051,18 @@ US,VA,Moneta,1
 US,VA,North Chesterfield,1
 US,VA,Richmond,4
 US,VA ,Herndon,1
-US,VI,Christiansted,2
+US,VI,Christiansted,3
 US,VI,St Croix,1
 US,VI,St Thomas,7
 US,VI,Tortola,1
-US,VT,Georgia,2
+US,VT,Fairfax,2
 US,VT,Montpelier,1
 US,VT,Winooski,13
 US,VT,Worcester,1
 US,WA,Arlington,5
 US,WA,Bellevue,2
 US,WA,Bellingham,1
-US,WA,Bothell,66
+US,WA,Bothell,67
 US,WA,Brewster,1
 US,WA,Everett,7
 US,WA,Federal Way,1
@@ -11007,7 +11074,7 @@ US,WA,Mukilteo,64
 US,WA,Orondo,1
 US,WA,Pasco,4
 US,WA,Redmond,84
-US,WA,Seattle,7
+US,WA,Seattle,8
 US,WA,Snoqualmie,2
 US,WA,Sumner,1
 US,WA,Vancouver,4
@@ -11042,8 +11109,9 @@ US,WI,Waukesha,2
 US,WI,Wauwatosa,5
 US,WV,Charles Town,1
 US,WV,Morgantown,2
+UY,Canelones,Canelones,1
 UY,Colonia,Carmelo,4
-UY,Montevideo,Montevideo,40
+UY,Montevideo,Montevideo,39
 UY,Paysandu,Quebracho,6
 UY,Salto,Salto,3
 UY,San Jose,San jose,13
@@ -11086,6 +11154,7 @@ VN,BAC NINH,Bac Ninh,1
 VN,BINH DUONG,Binh Duong,11
 VN,BINH PHUOC,Chon Thanh,3
 VN,BINH PHUOC,Dong Xoai City,1
+VN,Ba Ria Vung Tau,Dat Do Town,22
 VN,Ba Ria-Vung Tau,Ba Ria-Vung Tau,8
 VN,Ba Ria-Vung Tau,Vung Tau,1
 VN,Ba Ria-Vung Tau,Vung Tau City,7
@@ -11128,6 +11197,7 @@ VN,Dong Nai,Bien Hoa,3
 VN,Dong Nai,Bien Hoa City,1
 VN,Dong Nai,Xuan Loc,10
 VN,Dong Nai,Xuan Loc District,5
+VN,Dong Thap,Cao Lanh City,1
 VN,Dong Thap,Dong Thap,1
 VN,Dong Thap,Lap Vo,1
 VN,Ha Noi,Ha Noi,2
@@ -11138,7 +11208,7 @@ VN,Hau Giang,Long My Country Town,5
 VN,Hau Giang,Vinh Long,2
 VN,Hau Giang Province,Chau Thanh District,11
 VN,Ho CHi Minh,Ho Chi Minh,14
-VN,Ho Chi Minh,HOCHIMINH,22
+VN,Ho Chi Minh,Buu Cuc Trung Tam Thanh Pho Ho Chi Minh,2
 VN,Ho Chi Minh,Ho Chi Minh,35
 VN,Ho Chi Minh City,Ho Chi Minh City,19
 VN,Ho Chi Minh City,Thu Duc City,2
@@ -11148,8 +11218,8 @@ VN,Hoc Mon District,Ho Chi Minh,6
 VN,Hochiminh,HOCHIMINH CITY,1
 VN,Hung Yen,Hanoi,1
 VN,Hung Yen Province,My Hao District,2
-VN,Khanh Hoa,Cam Lam,78
-VN,Khanh Hoa,Cam Lam District,133
+VN,Khanh Hoa,Cam Lam,79
+VN,Khanh Hoa,Cam Lam District,132
 VN,Khanh Hoa,Cam Ranh,11
 VN,Khanh Hoa,Nha Trang,111
 VN,Kien Giang,Chau Thanh District,11
@@ -11159,7 +11229,7 @@ VN,Long An,Can Giuoc District,13
 VN,Long An,Duc Hoa,20
 VN,Long An,Duc Hoa District,23
 VN,Long An,Long An,30
-VN,Long An,Long An City,33
+VN,Long An,Long An City,34
 VN,Long An Province,Can Giuoc District,1
 VN,Min Gang,My Tho,2
 VN,Ninh Thuan,Phan Rang - Thap Cham,1
@@ -11192,7 +11262,7 @@ VN,Tien Giang,My Tho City,1
 VN,VN-27,Nui Thanh District,3
 VN,VN-29,Quang Ngai,2
 VN,VN-29,Quang Ngai City,16
-VN,VN-31,Quy Nhon,27
+VN,VN-31,Quy Nhon,29
 VN,VN-32,Dong Hoa Dist,23
 VN,VN-32,TUY HOA,23
 VN,VN-32,Tuy Hoa,4
@@ -11238,7 +11308,10 @@ VN,VN-55,Gia Rai Town,12
 VN,VN-55,Hoa Binh District,23
 VN,VN-57,Ben Cat,7
 VN,VN-57,Binh Duong,2
+VN,VN-57,Di An,1
 VN,VN-57,Phu Giao District,1
+VN,VN-57,Song Than,1
+VN,VN-57,Thuan An,1
 VN,VN-57,Thuan An District,6
 VN,VN-57,Thuan An Town,4
 VN,VN-58,Phuoc Long,1
@@ -11266,6 +11339,7 @@ VN,VN-NOTA,Hanoi,2
 VN,VN-NOTA,Ho Chi Minh,20
 VN,VN-NOTA,Ho Chi Minh City,1
 VN,VN-NOTA,Hochi Minh City,1
+VN,VN-SG,Binh Tan District,2
 VN,Vinh Long,Long Ho District,1
 VN,Vn-45,Dong Thap Province,1
 VN,Vn-48,Can Tho,59
@@ -11274,7 +11348,7 @@ VN,Vn-64,Hanoi,3
 VN,Vn-65,District 10,2
 VN,Vn-65,Ho Chi Minh,94
 VN,Vn-65,Ho Chi Minh City,4
-VN,Vn-65,Hochiminh,6
+VN,Vn-65,Hochiminh,4
 VN,Vn-65,Hochiminh City,9
 VN,Vn-65,Tphcm,7
 VN,Vn-Ct,Can Tho,1
@@ -11293,12 +11367,13 @@ WE,WE-NA,Tubas,1
 YE,SANA,Sanaa,7
 YE,SANA,Sanna,5
 YE,Sana [city],Sanaa,2
-YE,Taizz,Taiz,10
+YE,Taizz,Taiz,12
 YE,YE-HD,Hadramawt,2
 ZA,9460,Cape Town,1
 ZA,Cape Town,Muizenberg,1
 ZA,Eastern Cape,East London,1
-ZA,Eastern Cape,Port Elizabeth,2
+ZA,Eastern Cape,Port Elizabeth,1
+ZA,GQEBERHA EASTERN CAPE,Korsten,1
 ZA,Gauteng,Centurion,8
 ZA,Gauteng,Gauteng,1
 ZA,Gauteng,Germiston,8
